@@ -1,0 +1,2260 @@
+,Roll No,Student Name,Branch,Gender,Designation,Company,CTC
+0,204G1A0555,MASTAN VALI S,CSE,Male,Systems Engineer,Tata Consultancy Services,9
+1,214G5A0409,PALLAVI A,ECE,Female,Trainee - Test Management,Enzen,9
+2,204G1A05B4,UDAY KIRAN G,CSE,Male,Reconciliation and Administrative Coordinator,QATAR Airways,9
+3,204G1A3207,DEEPIKA D,CSD,Female,Devops Intern,Hashedin by Deloitte,8
+4,204G1A3325,NAZREEN J,CSM,Female,Systems Engineer,Tata Consultancy Services,7
+5,204G1A05C5,YASHASWINI J R,CSE,Female,Systems Engineer,Tata Consultancy Services,7
+6,204G1A0584,SAI CHARAN REDDY N,CSE,Male,Systems Engineer,Tata Consultancy Services,7
+7,204G1A05C7,AKSHAYA REDDY P G,CSE,Female,Associate Software Engineer,Accenture,5
+8,204G1A0538,HARSHITH D,CSE,Male,Associate Software Engineer,Accenture,5
+9,204G1A0515,ARSHIA PARVEEN H,CSE,Female,Associate Software Engineer,Accenture,5
+10,204G1A0525,CHAITANYA B,CSE,Male,Associate Software Engineer,Accenture,5
+11,204G1A0235,JYOSNA A,EEE,Female,Associate Software Engineer,Accenture,5
+12,204G1A0505,AISWARYA J,CSE,Female,Associate Software Engineer,Accenture,5
+13,204G1A0575,RAGHAVI U,CSE,Female,Associate Software Engineer,Accenture,5
+14,204G1A0569,PALLAVI R,CSE,Female,Associate Software Engineer,Accenture,5
+15,204G1A3210,GNANESWARI L,CSD,Female,Associate Software Engineer,Accenture,5
+16,204G1A0530,ESWARI S,CSE,Female,Associate Software Engineer,Accenture,5
+17,204G1A0445,JAGRUTHI M,ECE,Female,Associate Software Engineer,Accenture,5
+18,204G1A3215,HARSHAVARDHAN P,CSD,Male,Associate Software Engineer,Accenture,5
+19,204G1A0406,AKHILA SREE P,ECE,Female,Associate Software Engineer,Accenture,5
+20,204G1A0476,PAVANI B,ECE,Female,Associate Software Engineer,Accenture,5
+21,204G1A0573,PRATHYUSHA V,CSE,Female,Associate Software Engineer,Accenture,5
+22,204G1A0536,HARSHA SRI T,CSE,Female,Associate Software Engineer,Accenture,5
+23,204G1A05A4,SUNIL BABU Y,CSE,Male,Associate Software Engineer,Accenture,5
+24,204G1A0545,JOSHIKA M,CSE,Female,Associate Software Engineer,Accenture,5
+25,204G1A3303,AKSHAYA P V,CSM,Female,Associate Software Engineer,Accenture,5
+26,204G1A3351,SRAVANI G,CSM,Female,Associate Software Engineer,Accenture,5
+27,204G1A0542,JASMIN G,CSE,Female,Associate Software Engineer,Accenture,5
+28,204G1A3325,NAZREEN J,CSM,Female,Associate Software Engineer,Accenture,5
+29,204G1A3250,SHRESHA G,CSD,Female,Associate Software Engineer,Accenture,5
+30,204G1A05C5,YASHASWINI J R,CSE,Female,Associate Software Engineer,Accenture,5
+31,204G1A3252,SREE KANTHI P,CSD,Female,Associate Software Engineer,Accenture,5
+32,214G5A0405,JAYA NANDINI B,ECE,Female,Associate Software Engineer,Accenture,5
+33,204G1A3226,LIKHITHA B,CSD,Female,Associate Software Engineer,Accenture,5
+34,214G5A0217,RAGA PRAMODHINI U,EEE,Female,Associate Software Engineer,Accenture,5
+35,204G1A0498,SOHAIL BABA S,ECE,Male,Associate Software Engineer,Accenture,5
+36,204G1A0507,AJAY KUMAR K,CSE,Male,Associate Software Engineer,Accenture,5
+37,204G1A3342,SAINATH REDDY Y,CSM,Male,Associate Software Engineer,Accenture,5
+38,204G1A0546,JYOTHI N,CSE,Female,Associate Software Engineer,Accenture,5
+39,204G1A0560,MOUNESH G,CSE,Male,Associate Software Engineer,Accenture,5
+40,204G1A3343,SANJAY L,CSM,Male,Associate Software Engineer,Accenture,5
+41,204G1A05A9,SWATHI REDDY M,CSE,Female,Associate Software Engineer,Accenture,5
+42,204G1a04C1,VIJAYA LAKSHMI A,ECE,Female,Associate Software Engineer,Accenture,5
+43,204G1A0516,ASHA NIDHI K,CSE,Female,Associate Software Engineer,Accenture,5
+44,204G1A05C2,VENKATA DHANUNJAYA REDDY K,CSE,Male,Graduate Trainee Engineer,Digit Insurance,5
+45,204G1A0596,SIDRA FARHATH S,CSE,Male,Graduate Trainee Engineer,Digit Insurance,5
+46,204G1A0506,AJAY KISHORE G,CSE,Male,Graduate Trainee Engineer,Digit Insurance,5
+47,204G1A05C5,YASHASWINI J R,CSE,Female,Graduate Trainee Engineer,Digit Insurance,5
+48,204G1A3323,MOHAMMED ABUZARH S,CSM,Male,Graduate Trainee Engineer,Digit Insurance,5
+49,204G1A0167,PRADEEP L,CIV,Male,Area Technical Engineer,The India Cements Ltd,4
+50,214G5A0122,RUPESH K,CIV,Male,Area Technical Engineer,The India Cements Ltd,4
+51,214G5A0118,PRAVEEN KUMAR NAIK M,CIV,Male,Area Relationship Executive,The India Cements Ltd,4
+52,204G1A0358,PRATHAP T,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+53,214G5A0305,BHARATH KUMAR B,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+54,204G1A0354,NITHEESH K,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+55,204G1A0394,VAMSI E,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+56,204G1A0347,MOKSHAGNA REDDY P,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+57,204G1A0359,PRAVEEN KUMAR V,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+58,204G1A0551,MAHESH KUMAR G,CSE,Male,Trainee Software Engineer,Wilco Source Systems,4
+59,204G1A3258,TEJA SRI G,CSD,Female,Software Engineer - Trainee,Syntec Systems,3
+60,204G1A05B0,THANUSHA K,CSE,Female,Software Engineer - Trainee,Syntec Systems,3
+61,204G1A3363,VIMALA G,CSM,Female,Software Engineer - Trainee,Syntec Systems,3
+62,204G1A0528,DIVYA SREE B,CSE,Female,Software Engineer - Trainee,Syntec Systems,3
+63,214G5A0212,NARMADA B,EEE,Female,Engineer - Trainee,Cape Electric,3
+64,214G5A0218,SAI CHAITYA K,EEE,Male,Engineer - Trainee,Cape Electric,3
+65,214G5A0224,VENKATA SAI ESWARI C,EEE,Female,Engineer - Trainee,Cape Electric,3
+66,214G5A0312,RAVINDRA REDDY B,MEC,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+67,214G5A0320,VISHNU VARDHAN Y,MEC,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+68,214G5A0319,VARUN SAI Y,MEC,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+69,204G1A0361,PURUSHOTHAM B,MEC,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+70,204G1A0384,SRAVANI G,MEC,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+71,204G1A0233,JAYASREE D,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+72,204G1A0246,MANASA M,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+73,204G1A0253,MUSKAN G,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+74,204G1A0245,MANASA K,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+75,204G1A0267,POOJITHA S,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+76,204G1A02A1,TEJASWINI T,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+77,214G5A0209,MAHESH B,EEE,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+78,204G1A0203,AFRIN TAJ V,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+79,204G1A02A0,SUREKHA S,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+80,204G1A0221,GRACE LYDIA PAUL R,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+81,204G1A0250,MERY STELLA V,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+82,204G1A0399,VYSHNAVI C,MEC,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+83,204G1A0314,ASWAD KHAN P MD,MEC,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+84,204G1A0219,GOWTHAMI B,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+85,204G1A0289,SHAMSHU ZUHA P,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+86,204G1A02A8,VENKATA RAMA LIKITH REDDY S,EEE,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+87,204G1A0433,GAYAZ HUSSAIN K S,ECE,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+88,204G1A0462,MANISHA M,ECE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+89,204G1A0409,ANUSHA A (ALAMURU),ECE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+90,204G1A04B0,SWATHI A,ECE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+91,204G1A0429,EKESWAR REDDY C,ECE,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+92,204G1A0419,CHARAN K,ECE,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+93,204G1A0103,ANUSHA P,CIV,Female,Trainee Analyst,Savantis,3
+94,204G1A0104,ARCHANA B,CIV,Female,Trainee Analyst,Savantis,3
+95,204G1A0108,AYESHA M,CIV,Female,Trainee Analyst,Savantis,3
+96,204G1A0115,BRIJESH M,CIV,Male,Trainee Analyst,Savantis,3
+97,204G1A0128,HARSHITHA B,CIV,Female,Trainee Analyst,Savantis,3
+98,204G1A0129,HOSHITHA PRIYADARSHINI P,CIV,Female,Trainee Analyst,Savantis,3
+99,204G1A0131,JAHNAVI D,CIV,Female,Trainee Analyst,Savantis,3
+100,204G1A0135,KAVITHA E,CIV,Female,Trainee Analyst,Savantis,3
+101,204G1A0141,LASHYA S,CIV,Female,Trainee Analyst,Savantis,3
+102,204G1A0143,MAHAMMAD RIYAZ S,CIV,Male,Trainee Analyst,Savantis,3
+103,204G1A0145,MAMATHA B,CIV,Female,Trainee Analyst,Savantis,3
+104,204G1A0156,NANDINI G,CIV,Female,Trainee Analyst,Savantis,3
+105,204G1A0186,SRAVANI T,CIV,Female,Trainee Analyst,Savantis,3
+106,204G1A0189,SUSHMA SREE S,CIV,Female,Trainee Analyst,Savantis,3
+107,214G5A0104,ASMA TABASUM P,CIV,Female,Trainee Analyst,Savantis,3
+108,214G5A0108,CHANDANA REDDY K,CIV,Female,Trainee Analyst,Savantis,3
+109,214G5A0111,HARSHHITHA M,CIV,Female,Trainee Analyst,Savantis,3
+110,214G5A0123,SHASHAVALI K,CIV,Male,Trainee Analyst,Savantis,3
+111,214G5A0124,SHERYLL B,CIV,Female,Trainee Analyst,Savantis,3
+112,214G5A0129,VINAY KUMAR REDDY B,CIV,Male,Trainee Analyst,Savantis,3
+113,204G1A3221,LAIKHA FIRDOS S,CSD,Female,Trainee Analyst,Savantis,3
+114,204G1A3226,LIKHITHA B,CSD,Female,Trainee Analyst,Savantis,3
+115,204G1A3227,LIKHITHA SRI P,CSD,Female,Trainee Analyst,Savantis,3
+116,204G1A3250,SHRESHA G,CSD,Female,Trainee Analyst,Savantis,3
+117,204G1A0501,ABHIGNA M,CSE,Female,Trainee Analyst,Savantis,3
+118,204G1A0515,ARSHIA PARVEEN H,CSE,Female,Trainee Analyst,Savantis,3
+119,204G1A0529,DIYA FARNAAZ S,CSE,Female,Trainee Analyst,Savantis,3
+120,204G1A05C3,VISHNU B,CSE,Male,Trainee Analyst,Savantis,3
+121,204G1A3309,CHANDANAA SREE N R,CSM,Female,Trainee Analyst,Savantis,3
+122,204G1A3331,PAVANI B,CSM,Female,Trainee Analyst,Savantis,3
+123,204G1A3339,SAI HEMANTH KUMAR M,CSM,Male,Trainee Analyst,Savantis,3
+124,214G5A3302,JAVEED ALI S,CSM,Male,Trainee Analyst,Savantis,3
+125,204G1A0425,DIVIJA C,ECE,Female,Trainee Analyst,Savantis,3
+126,204G1A0457,KISHOR REDDY G,ECE,Male,Trainee Analyst,Savantis,3
+127,204G1A0214,DEEPIKA Y,EEE,Female,Trainee Analyst,Savantis,3
+128,204G1A0217,GANGOTHRI B,EEE,Female,Trainee Analyst,Savantis,3
+129,204G1A0221,GRACE LYDIA PAUL R,EEE,Female,Trainee Analyst,Savantis,3
+130,204G1A0222,HARSHAVARDAN REDDY M,EEE,Male,Trainee Analyst,Savantis,3
+131,204G1A0231,JAHNAVI M,EEE,Female,Trainee Analyst,Savantis,3
+132,204G1A0246,MANASA M,EEE,Female,Trainee Analyst,Savantis,3
+133,204G1A0247,MANEESHA D,EEE,Female,Trainee Analyst,Savantis,3
+134,204G1A0250,MERY STELLA V,EEE,Female,Trainee Analyst,Savantis,3
+135,204G1A0252,MOHAMMED SHARFUDDIN S,EEE,Male,Trainee Analyst,Savantis,3
+136,204G1A0253,MUSKAN G,EEE,Female,Trainee Analyst,Savantis,3
+137,204G1A0256,NANDHINI B (BOYAPATI),EEE,Female,Trainee Analyst,Savantis,3
+138,204G1A0257,NANDINI B (BOJJA),EEE,Female,Trainee Analyst,Savantis,3
+139,204G1A0264,PAVANI T,EEE,Female,Trainee Analyst,Savantis,3
+140,204G1A0265,PAVANI U,EEE,Female,Trainee Analyst,Savantis,3
+141,204G1A0267,POOJITHA S,EEE,Female,Trainee Analyst,Savantis,3
+142,204G1A0271,RAMANJINEYULU M,EEE,Male,Trainee Analyst,Savantis,3
+143,204G1A0278,SAI LATHA A,EEE,Female,Trainee Analyst,Savantis,3
+144,204G1A0279,SAI SAREGAMA D,EEE,Female,Trainee Analyst,Savantis,3
+145,204G1A0289,SHAMSHU ZUHA P,EEE,Female,Trainee Analyst,Savantis,3
+146,204G1A0291,SIREESHA Y,EEE,Female,Trainee Analyst,Savantis,3
+147,204G1A0292,SNEHA REDDY M,EEE,Female,Trainee Analyst,Savantis,3
+148,204G1A0293,SOWBHAGYA B,EEE,Female,Trainee Analyst,Savantis,3
+149,204G1A0296,SRUJANA P,EEE,Female,Trainee Analyst,Savantis,3
+150,204G1A0297,SUBRAMANYAM P,EEE,Male,Trainee Analyst,Savantis,3
+151,204G1A02A1,TEJASWINI T,EEE,Female,Trainee Analyst,Savantis,3
+152,214G5A0217,RAGA PRAMODHINI U,EEE,Female,Trainee Analyst,Savantis,3
+153,214G5A0219,SAI PAVANI KALYANI B,EEE,Female,Trainee Analyst,Savantis,3
+154,214G5A0220,SHANTHI B,EEE,Female,Trainee Analyst,Savantis,3
+155,204G1A0312,ARSHAD HASAN S MD,MEC,Male,Trainee Analyst,Savantis,3
+156,204G1A0315,BASHEERUDDIN S,MEC,Male,Trainee Analyst,Savantis,3
+157,204G1A0320,CHANDAN KUMAR S R,MEC,Male,Trainee Analyst,Savantis,3
+158,204G1A0342,MISBA SADAF P,MEC,Female,Trainee Analyst,Savantis,3
+159,204G1A0354,NITHEESH K,MEC,Male,Trainee Analyst,Savantis,3
+160,204G1A0360,PREM CHANDU B,MEC,Male,Trainee Analyst,Savantis,3
+161,204G1A0361,PURUSHOTHAM B,MEC,Male,Trainee Analyst,Savantis,3
+162,204G1A0394,VAMSI E,MEC,Male,Trainee Analyst,Savantis,3
+163,214G5A0306,BHEEMESH M,MEC,Male,Trainee Analyst,Savantis,3
+164,214G5A0311,MOKSHARITHA P,MEC,Female,Trainee Analyst,Savantis,3
+165,204G1A0455,KEERTHI REDDY R,ECE,Female,Project Engineer Trainee,Regami Solutions,3
+166,204G1A0486,SAI CHARITHA M,ECE,Female,Project Engineer Trainee,Regami Solutions,3
+167,204G1A04B8,USHA KIRANMAI Y,ECE,Female,Project Engineer Trainee,Regami Solutions,3
+168,214G5A0402,ASHA P,ECE,Female,Project Engineer Trainee,Regami Solutions,3
+169,204G1A3258,TEJA SRI G,CSD,Female,Application Support Specialist,OmneNEST Technologies,4
+170,204G1A3303,AKSHAYA P V,CSM,Female,Assistant System Engineer,Tata Consultancy Services,4
+171,204G1A3354,SREE RANGA BHARANI K S,CSM,Male,Assistant System Engineer,Tata Consultancy Services,4
+172,214G5A3303,KOUSHIK K,CSM,Male,Assistant System Engineer,Tata Consultancy Services,4
+173,204G1A0574,PUSHPA K,CSE,Female,Assistant System Engineer,Tata Consultancy Services,4
+174,204G1A0597,SIVA SAI G,CSE,Male,Assistant System Engineer,Tata Consultancy Services,4
+175,204G1A0513,ANNAPURNA A,CSE,Female,Assistant System Engineer,Tata Consultancy Services,4
+176,204G1A3340,SAI LAHARI Y,CSM,Female,Assistant System Engineer,Tata Consultancy Services,4
+177,204G1A3345,BHAM SHANKAR G,CSM,Male,Assistant System Engineer,Tata Consultancy Services,4
+178,204G1A3327,NIKHATH FATHIMA S,CSM,Female,Assistant System Engineer,Tata Consultancy Services,4
+179,204g1A0540,INDU B,CSE,Female,Assistant System Engineer,Tata Consultancy Services,4
+180,204G1A0561,MOUNIKA M,CSE,Female,Enterprise Product Services - Trainee,Movate,4
+181,204G1A0467,MOUNIKA B,ECE,Female,Software Trainee - Tech Support,Snovasys,4
+182,204G1A04B2,TARUN KUMAR REDDY A,ECE,Male,Digitam Marketing Executive,Snovasys,4
+183,204G1A0519,BAGYA LAKSHMI H,CSE,Female,Digitam Marketing Executive,Snovasys,3
+184,204G1A0581,REVANTH KUMAR V,CSE,Male,Member Technical Staff,ZOHO Corporation,8
+185,204G1A0428,DIVYANJALI K,ECE,Female,Analyst Trainee,Deloitte,5
+186,204G1A02A6,VAISHNAVI S,EEE,Female,Analyst Trainee,Deloitte,5
+187,204G1A0456,KIRANMAI A,ECE,Female,Analyst Trainee,Deloitte,5
+188,204G1A0438,HARIKA REDDY K,ECE,Female,Security Analyst,Deloitte,5
+189,204G1A3305,BABA HUSSAIN S,CSM,Male,HL7 Engineer,Telerad Tech,6
+190,204G1A3314,JAGADISH KANDHA B,CSM,Male,Software Trainee,Estuate,3
+191,214G5A0111,HARSHHITHA M,CIV,Female,Package App Development Associate,Accenture,5
+192,204G1A0528,DIVYA SREE B,CSE,Female,Package App Development Associate,Accenture,5
+193,204G1A0218,GAUTHAM L,EEE,Male,Business Development Associate,PlayTo Labs,8
+194,204G1A0290,SHIVA PRASAD REDDY V,EEE,Male,Business Development Associate,PlayTo Labs,8
+195,204G1A0557,MEGHARSHINI A,CSE,Female,Business Development Associate,PlayTo Labs,8
+196,204G1A0585,SAI HARSHAVARDHAN N,CSE,Male,Business Development Associate,PlayTo Labs,8
+197,204G1A3329,NIKITHA SETTY P,CSM,Female,Business Development Associate,PlayTo Labs,8
+198,204G1A3349,SIVANI M,CSM,Female,Business Development Associate,PlayTo Labs,8
+199,214G5A0111,HARSHHITHA M,CIV,Female,Business Development Associate,PlayTo Labs,8
+200,214G5A0129,VINAY KUMAR REDDY B,CIV,Male,Business Development Associate,PlayTo Labs,8
+201,214G5A0502,ANIL KUMAR M,CSE,Male,Business Development Associate,PlayTo Labs,8
+202,214G5A0507,LEENA SRI A,CSE,Female,Business Development Associate,PlayTo Labs,8
+203,204G1A0236,JYOTHI C,EEE,Female,Assistant System Engineer,Tata Consultancy Services,4
+204,204G1A3243,RUPA LAKSHMI M,CSD,Female,Assistant System Engineer,Tata Consultancy Services,4
+205,204G1A05A4,SUNIL BABU Y,CSE,Male,Assistant System Engineer,Tata Consultancy Services,4
+206,204G1A3242,REKHA P,CSD,Female,Assistant System Engineer,Tata Consultancy Services,7
+207,204G1A0502,ABHIRAM D,CSE,Male,Software Engineer,Sagarsoft,6
+208,204G1A0584,SAI CHARAN REDDY N,CSE,Male,Software Engineer,Sagarsoft,6
+209,204G1A0524,BRAMHA TEJA K,CSE,Male,Software Engineer,Sagarsoft,6
+210,204G1A3208,DEEPIKA REDDY B,CSD,Female,Software Engineer,Sagarsoft,5
+211,214G5A3206,UDAY KIRAN D,CSD,Male,Software Engineer,Sagarsoft,5
+212,204G1A02A5,VAIBHAVI SAI A,EEE,Male,Business Development Associate,SkillHacc,4
+213,204G1A02A8,VENKATA RAMA LIKITH REDDY S,EEE,Male,Business Development Associate,SkillHacc,4
+214,204G1A04A0,SREE LAKSHMI G,ECE,Female,Business Development Associate,SkillHacc,4
+215,204G1A04A9,SUSHMITHA P,ECE,Female,Business Development Associate,SkillHacc,4
+216,204G1A04B1,SWATHI V,ECE,Female,Business Development Associate,SkillHacc,4
+217,204G1A05A0,SOUMYA C,CSE,Female,Business Development Associate,SkillHacc,4
+218,204G1A0113,BHUVANESHWAR B,CIV,Male,Business Development Associate,SkillHacc,4
+219,204G1a0156,NANDINI G,CIV,Female,Business Development Associate,SkillHacc,4
+220,204G1A0160,NAVYASREE D,CIV,Female,Business Development Associate,SkillHacc,4
+221,204G1A0173,REETHIKA B,CIV,Female,Business Development Associate,SkillHacc,4
+222,204G1A0174,RUKSANA S,CIV,Female,Business Development Associate,SkillHacc,4
+223,204G1A0178,SAILAJA D,CIV,Female,Business Development Associate,SkillHacc,4
+224,204G1A0180,SHABANA S,CIV,Female,Business Development Associate,SkillHacc,4
+225,204G1A0210,BHAVANA A,EEE,Female,Business Development Associate,SkillHacc,4
+226,204G1A0213,DEEKSHITHA B,EEE,Female,Business Development Associate,SkillHacc,4
+227,204G1A0220,GOWTHAMI Y K,EEE,Female,Business Development Associate,SkillHacc,4
+228,204G1A0222,HARSHAVARDAN REDDY M,EEE,Male,Business Development Associate,SkillHacc,4
+229,204G1A0227,HIMA BINDU T,EEE,Female,Business Development Associate,SkillHacc,4
+230,204G1A0238,KIRANMAI M,EEE,Female,Business Development Associate,SkillHacc,4
+231,204G1A0241,KUSUMANJALI D,EEE,Female,Business Development Associate,SkillHacc,4
+232,204G1A0244,MADHUSREE P,EEE,Female,Business Development Associate,SkillHacc,4
+233,204G1A0249,MASOOD VALI A,EEE,Male,Business Development Associate,SkillHacc,4
+234,204G1A0257,NANDINI B (BOJJA),EEE,Female,Business Development Associate,SkillHacc,4
+235,204g1A0260,NIKITHA P,EEE,Female,Business Development Associate,SkillHacc,4
+236,204g1A0281,SAI SNIGDHA C,EEE,Female,Business Development Associate,SkillHacc,4
+237,204G1A0283,SAMEENA AL MISBAH S,EEE,Female,Business Development Associate,SkillHacc,4
+238,204G1A0291,SIREESHA Y,EEE,Female,Business Development Associate,SkillHacc,4
+239,204G1A0361,PURUSHOTHAM B,MEC,Male,Business Development Associate,SkillHacc,4
+240,204G1A0384,SRAVANI G,MEC,Female,Business Development Associate,SkillHacc,4
+241,204G1A0405,AKHILA M,ECE,Female,Business Development Associate,SkillHacc,4
+242,204G1A0409,ANUSHA A (ALAMURU),ECE,Female,Business Development Associate,SkillHacc,4
+243,204G1A0421,CHARITHA J,ECE,Female,Business Development Associate,SkillHacc,4
+244,204G1A0431,FAREED B S,ECE,Male,Business Development Associate,SkillHacc,4
+245,204G1A0450,JEEVITHA Y,ECE,Female,Business Development Associate,SkillHacc,4
+246,204G1A0454,KAVYA T,ECE,Female,Business Development Associate,SkillHacc,4
+247,204G1A0467,MOUNIKA B,ECE,Female,Business Development Associate,SkillHacc,4
+248,204G1A0469,NEHITHA T,ECE,Female,Business Development Associate,SkillHacc,4
+249,204G1A0472,PALLAVI B,ECE,Female,Business Development Associate,SkillHacc,4
+250,204G1A0473,PALLAVI BAI S,ECE,Female,Business Development Associate,SkillHacc,4
+251,204G1A0485,ROSHINI M,ECE,Female,Business Development Associate,SkillHacc,4
+252,204G1A0487,SAI KEERTHI U,ECE,Female,Business Development Associate,SkillHacc,4
+253,204G1A0501,ABHIGNA M,CSE,Female,Business Development Associate,SkillHacc,4
+254,204G1A0544,JAYASREE A,CSE,Female,Business Development Associate,SkillHacc,4
+255,204G1A0593,SARANYA M,CSE,Female,Business Development Associate,SkillHacc,4
+256,204G1A3231,MOHAMMED IMTHIYAZ S,CSD,Male,Business Development Associate,SkillHacc,4
+257,204G1A3238,PAVANI KALYANI J,CSD,Female,Business Development Associate,SkillHacc,4
+258,204G1A3259,UPENDRA REDDY M,CSD,Male,Business Development Associate,SkillHacc,4
+259,204G1A3305,BABA HUSSAIN S,CSM,Male,Business Development Associate,SkillHacc,4
+260,204G1A3312,GOPINATH V,CSM,Male,Business Development Associate,SkillHacc,4
+261,204G1A3327,NIKHATH FATHIMA S,CSM,Female,Business Development Associate,SkillHacc,4
+262,214G5A0108,CHANDANA REDDY K,CIV,Female,Business Development Associate,SkillHacc,4
+263,214G5A0111,HARSHHITHA M,CIV,Female,Business Development Associate,SkillHacc,4
+264,214G5A0115,MUNEMMA S,CIV,Female,Business Development Associate,SkillHacc,4
+265,214G5A0317,UDAY KIRAN B,MEC,Male,Business Development Associate,SkillHacc,4
+266,214G5A0502,ANIL KUMAR M,CSE,Male,Business Development Associate,SkillHacc,4
+267,214G5A3303,KOUSHIK K,CSM,Male,Business Development Associate,SkillHacc,4
+268,204G1A0259,NAVYA SREE A,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+269,204G1A0294,SRAVANI K,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+270,204G1A0299,SUPRAJA K,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+271,204G1A02A6,VAISHNAVI S,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+272,204G1A02B5,VINDUMATHI G,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+273,204G1A0360,PREM CHANDU B,MEC,Male,Inside Sales Strategist,Rinex Technologies,6
+274,204G1A0405,AKHILA M,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+275,204G1A0445,JAGRUTHI M,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+276,204G1A0471,NIRNAYA T,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+277,204G1A04A8,SUMIYA BEGUM S,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+278,204G1A0523,BHAVANA C,CSE,Female,Inside Sales Strategist,Rinex Technologies,6
+279,204G1A0583,ROSHNI P,CSE,Female,Inside Sales Strategist,Rinex Technologies,6
+280,204G1A0592,SAMYUKTHA K,CSE,Female,Inside Sales Strategist,Rinex Technologies,6
+281,204G1A05C4,VYSHNAVI K,CSE,Female,Inside Sales Strategist,Rinex Technologies,6
+282,204G1A3245,SAI HARATHI P,CSD,Female,Inside Sales Strategist,Rinex Technologies,6
+283,204G1A3307,BHARATH KUMAR G,CSM,Male,Inside Sales Strategist,Rinex Technologies,6
+284,204G1A3314,JAGADISH KANDHA B,CSM,Male,Inside Sales Strategist,Rinex Technologies,6
+285,204G1A3328,NIKHITHA C,CSM,Female,Inside Sales Strategist,Rinex Technologies,6
+286,204G1A3335,PRANATHI R,CSM,Female,Inside Sales Strategist,Rinex Technologies,6
+287,204G1A3339,SAI HEMANTH KUMAR M,CSM,Male,Inside Sales Strategist,Rinex Technologies,6
+288,204G1A3348,SUMANA G M S,CSM,Female,Inside Sales Strategist,Rinex Technologies,6
+289,204G1A3360,USMAN BASHA P,CSM,Male,Inside Sales Strategist,Rinex Technologies,6
+290,214G5A0301,ADIL BASHA G,MEC,Male,Inside Sales Strategist,Rinex Technologies,6
+291,214G5A0406,KAVITHA C,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+292,214G5A0502,ANIL KUMAR M,CSE,Male,Inside Sales Strategist,Rinex Technologies,6
+293,214G5A0506,HEMANTH REDDY K,CSE,Male,Inside Sales Strategist,Rinex Technologies,6
+294,204G1A0312,ARSHAD HASAN S MD,MEC,Male,Inside Sales Strategist,Rinex Technologies,6
+295,204G1A0431,FAREED B S,ECE,Male,Inside Sales Strategist,Rinex Technologies,6
+296,204G1A0330,HARSHA VARDHAN B,MEC,Male,Inside Sales Strategist,Rinex Technologies,6
+297,204G1A0432,GAYATHRI G,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+298,204G1A0585,SAI HARSHAVARDHAN N,CSE,Male,Inside Sales Strategist,Rinex Technologies,6
+299,204G1A0457,KISHOR REDDY G,ECE,Male,Inside Sales Strategist,Rinex Technologies,6
+300,204G1A0218,GAUTHAM L,EEE,Male,Inside Sales Strategist,Rinex Technologies,6
+301,204G1A0533,GNAPIKA BAI M,CSE,Female,Inside Sales Strategist,Rinex Technologies,6
+302,204G1A3214,HARSHAD ALI M,CSD,Male,Inside Sales Strategist,Rinex Technologies,6
+303,204G1A0148,MOHAMMAD SOHAIL M,CIV,Male,Inside Sales Strategist,Rinex Technologies,6
+304,204G1A0255,NANDEESWAR B,EEE,Male,Inside Sales Strategist,Rinex Technologies,6
+305,204G1A0264,PAVANI T,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+306,204G1A0580,RAVEENDRA C,CSE,Male,Inside Sales Strategist,Rinex Technologies,6
+307,204G1A04A6,SUJITHA M,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+308,204G1A0103,ANUSHA P,CIV,Female,Management Trainee,TalentServe,6
+309,204G1A0112,BHAVANI MAHESH S,CIV,Male,Management Trainee,TalentServe,6
+310,204G1A0120,ESHWAR REDDY G,CIV,Male,Management Trainee,TalentServe,6
+311,204G1A0129,HOSHITHA PRIYADARSHINI P,CIV,Female,Management Trainee,TalentServe,6
+312,204G1A0130,INDIRAMMA E,CIV,Female,Management Trainee,TalentServe,6
+313,204G1A0138,KOUSHIK KUMAR V M,CIV,Male,Management Trainee,TalentServe,6
+314,204G1A0140,KUMARI S,CIV,Female,Management Trainee,TalentServe,6
+315,204G1A0143,MAHAMMAD RIYAZ S,CIV,Male,Management Trainee,TalentServe,6
+316,204G1A0156,NANDINI G,CIV,Female,Management Trainee,TalentServe,6
+317,204G1A0160,NAVYASREE D,CIV,Female,Management Trainee,TalentServe,6
+318,204G1A0165,PAVAN G,CIV,Male,Management Trainee,TalentServe,6
+319,204G1A0178,SAILAJA D,CIV,Female,Management Trainee,TalentServe,6
+320,204G1A0180,SHABANA S,CIV,Female,Management Trainee,TalentServe,6
+321,204G1A0184,SRAVANI B,CIV,Female,Management Trainee,TalentServe,6
+322,204G1A0186,SRAVANI T,CIV,Female,Management Trainee,TalentServe,6
+323,204G1A0190,SWATHI K,CIV,Female,Management Trainee,TalentServe,6
+324,214G5A0104,ASMA TABASUM P,CIV,Female,Management Trainee,TalentServe,6
+325,214G5A0108,CHANDANA REDDY K,CIV,Female,Management Trainee,TalentServe,6
+326,214G5A0111,HARSHHITHA M,CIV,Female,Management Trainee,TalentServe,6
+327,214G5A0125,SHILPA B,CIV,Female,Management Trainee,TalentServe,6
+328,214G5A0127,VIJAYA LAKSHMI B,CIV,Female,Management Trainee,TalentServe,6
+329,214G5A0129,VINAY KUMAR REDDY B,CIV,Male,Management Trainee,TalentServe,6
+330,204G1A3202,ASHA K,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+331,204G1A3204,BHARGAVI P,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+332,204G1A3205,CHANDRA SHEKHAR K,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+333,204G1A3206,CHANDRAKALA K,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+334,204G1A3207,DEEPIKA D,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+335,204G1A3216,HARSHITHA J,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+336,204G1A3217,INDU T,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+337,204G1A3224,LAYA SREE B,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+338,204G1A3234,NAVEED HUSSAIN B,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+339,204G1A3238,PAVANI KALYANI J,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+340,204G1A3240,PRAVALLIKA U,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+341,204G1A3241,PREM SAGAR H,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+342,204G1A3243,RUPA LAKSHMI M,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+343,204G1A3246,SAI RIKESH P,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+344,204G1A3247,SAI SREEJA M,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+345,204G1A3249,SAMEER AHAMMAD S,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+346,204G1A3251,SIVA SAI VIVEK S,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+347,204G1A3261,VASAVI NEHA B,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+348,204G1A3264,YATHEESH KUMAR REDDY K,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+349,204G1A3304,ARCHITHA N,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+350,204G1A3307,BHARATH KUMAR G,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+351,204G1A3313,GREESHMA C,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+352,204G1A3315,JYOTHI J,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+353,204G1A3319,KEERTHI B,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+354,204G1A3320,MAHITHA K,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+355,204G1A3326,NIHARIKA P,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+356,204G1A3328,NIKHITHA C,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+357,204G1A3329,NIKITHA SETTY P,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+358,204G1A3335,PRANATHI R,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+359,204G1A3336,REVANTH D,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+360,204G1A3338,RUHEENA P,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+361,204G1A3339,SAI HEMANTH KUMAR M,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+362,204G1A3341,SAI SUJAN C,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+363,204G1A3347,SIREESHA P,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+364,204G1A3349,SIVANI M,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+365,204G1A3357,SUSHMA P,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+366,204G1A3360,USMAN BASHA P,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+367,204G1A3363,VIMALA G,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+368,214G5A3201,NARASIMHA G S,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+369,214G5A3202,PRABHAS A,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+370,214G5A3204,SAI NIKHIL K,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+371,204G1A0501,ABHIGNA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+372,204G1A0504,AFREEN D,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+373,204G1A0509,AMRUTHA B,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+374,204G1A0510,AMRUTHA G,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+375,204G1A0511,ANAND B,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+376,204G1A0521,BHARGAVI M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+377,204G1A0523,BHAVANA C,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+378,204G1A0526,CHANDANA T,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+379,204G1A0528,DIVYA SREE B,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+380,204G1A0529,DIYA FARNAAZ S,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+381,204G1A0531,GANESH KUMAR REDDY C,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+382,204G1A0533,GNAPIKA BAI M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+383,204G1A0539,HEMALATHA K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+384,204G1A0544,JAYASREE A,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+385,204G1A0547,LALITHA R,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+386,204G1A0548,LIKHITHA A,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+387,204G1A0551,MAHESH KUMAR G,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+388,204G1A0552,MANJUSHA P,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+389,204G1A0554,MANOJ REDDY C,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+390,204G1A0557,MEGHARSHINI A,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+391,204G1A0558,MOHAMMAD FARAZ S,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+392,204G1A0588,SAI NITHYUSHA U,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+393,204G1A0559,MOULIKA K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+394,204G1A0561,MOUNIKA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+395,204G1A0563,NANDINI B,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+396,204G1A0564,NANDINI P,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+397,204G1A0567,NAZEEMA D,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+398,204G1A0568,NITHYA R,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+399,204G1A0572,PRANITHA Y,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+400,204G1A0582,RITHIKA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+401,204G1A0591,SAKIYA RABBANI S M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+402,204G1A0592,SAMYUKTHA K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+403,204G1A0593,SARANYA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+404,204G1A0596,SIDRA FARHATH S,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+405,204G1A0599,SOHAIL ZAHEER J,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+406,204G1A05A0,SOUMYA C,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+407,204G1A05A6,SUSHMITHA C,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+408,204G1A05A7,SUSHMITHA D,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+409,204G1A05A8,SUSHMITHA K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+410,204G1A05B0,THANUSHA K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+411,204G1A05B2,THRISHARIKA C,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+412,204G1A05B5,UMA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+413,204G1A05C3,VISHNU B,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+414,204G1A05C4,VYSHNAVI K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+415,214G5A0501,AKSHAYA G,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+416,214G5A0502,ANIL KUMAR M,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+417,214G5A0503,ANITHA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+418,214G5A0505,HARI KRISHNA N,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+419,214G5A0506,HEMANTH REDDY K,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+420,214G5A0507,LEENA SRI A,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+421,214G5A3301,BHASKAR REDDY M,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+422,214G5A3303,KOUSHIK K,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+423,214G5A3306,UDAY KIRAN U,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+424,204G1A0402,AFTAB S,ECE,Male,Management Trainee,TalentServe,6
+425,204G1A0405,AKHILA M,ECE,Female,Management Trainee,TalentServe,6
+426,204G1A0410,ANUSHA A (ANUMPALLI),ECE,Female,Management Trainee,TalentServe,6
+427,204G1A0420,CHARAN SAI D,ECE,Male,Management Trainee,TalentServe,6
+428,204G1A0421,CHARITHA J,ECE,Female,Management Trainee,TalentServe,6
+429,204G1A0427,DIVYA SREE A,ECE,Female,Management Trainee,TalentServe,6
+430,204G1A0432,GAYATHRI G,ECE,Female,Management Trainee,TalentServe,6
+431,204G1A0437,HARIKA K,ECE,Female,Management Trainee,TalentServe,6
+432,204G1A0441,HEMALATHA K,ECE,Female,Management Trainee,TalentServe,6
+433,204G1A0442,HEMALATHA R,ECE,Female,Management Trainee,TalentServe,6
+434,204G1A0443,HIMABINDU N,ECE,Female,Management Trainee,TalentServe,6
+435,204G1A0450,JEEVITHA Y,ECE,Female,Management Trainee,TalentServe,6
+436,204G1A0454,KAVYA T,ECE,Female,Management Trainee,TalentServe,6
+437,204G1A0456,KIRANMAI A,ECE,Female,Management Trainee,TalentServe,6
+438,204G1A0461,MAHITHA K,ECE,Female,Management Trainee,TalentServe,6
+439,204G1A0463,MANJULA REDDY M,ECE,Female,Management Trainee,TalentServe,6
+440,204G1A0465,MOHAMMAD JUNAID S,ECE,Male,Management Trainee,TalentServe,6
+441,204G1A0467,MOUNIKA B,ECE,Female,Management Trainee,TalentServe,6
+442,204G1A0469,NEHITHA T,ECE,Female,Management Trainee,TalentServe,6
+443,204G1A0470,NIKHIL SAI G,ECE,Male,Management Trainee,TalentServe,6
+444,204G1A0471,NIRNAYA T,ECE,Female,Management Trainee,TalentServe,6
+445,204G1A0473,PALLAVI BAI S,ECE,Female,Management Trainee,TalentServe,6
+446,204G1A0475,PAVANI A,ECE,Female,Management Trainee,TalentServe,6
+447,204G1A0480,RAGHAVENDRA PHANI DEEPAK S,ECE,Male,Management Trainee,TalentServe,6
+448,204G1A0481,RAJITHA L,ECE,Female,Management Trainee,TalentServe,6
+449,204G1A0484,ROHINI S,ECE,Female,Management Trainee,TalentServe,6
+450,204G1A0492,SAI SREYA G,ECE,Female,Management Trainee,TalentServe,6
+451,204G1A0496,SHASHI KUMAR J,ECE,Male,Management Trainee,TalentServe,6
+452,204G1A0499,SRAVANI D,ECE,Female,Management Trainee,TalentServe,6
+453,204G1A04A0,SREE LAKSHMI G,ECE,Female,Management Trainee,TalentServe,6
+454,204G1A04A9,SUSHMITHA P,ECE,Female,Management Trainee,TalentServe,6
+455,204G1A04B1,SWATHI V,ECE,Female,Management Trainee,TalentServe,6
+456,204G1A04B3,TARUN KUMAR REDDY K,ECE,Male,Management Trainee,TalentServe,6
+457,204G1A04B4,THANMAYA SREE D,ECE,Female,Management Trainee,TalentServe,6
+458,204G1A04B6,UDAY KUMAR REDDY B,ECE,Male,Management Trainee,TalentServe,6
+459,204G1A04B9,VASANTHA LAKSHMI R,ECE,Female,Management Trainee,TalentServe,6
+460,204G1A04C0,VENKATA LAKSHMI T,ECE,Female,Management Trainee,TalentServe,6
+461,204G1A04C2,VIJAYA LAKSHMI K,ECE,Female,Management Trainee,TalentServe,6
+462,204G1A04C3,VIJAYALAKSHMI S,ECE,Female,Management Trainee,TalentServe,6
+463,214G5A0408,NANDINI G,ECE,Female,Management Trainee,TalentServe,6
+464,214G5A0411,SHASIKALA C,ECE,Female,Management Trainee,TalentServe,6
+465,214G5A0413,VISWAS V,ECE,Male,Management Trainee,TalentServe,6
+466,204G1A0203,AFRIN TAJ V,EEE,Female,Management Trainee,TalentServe,6
+467,204G1A0211,CHANDRA SIDDHARTH A,EEE,Male,Management Trainee,TalentServe,6
+468,204G1A0217,GANGOTHRI B,EEE,Female,Management Trainee,TalentServe,6
+469,204G1A0221,GRACE LYDIA PAUL R,EEE,Female,Management Trainee,TalentServe,6
+470,204G1A0231,JAHNAVI M,EEE,Female,Management Trainee,TalentServe,6
+471,204G1A0240,KUSUMA D,EEE,Female,Management Trainee,TalentServe,6
+472,204G1A0259,NAVYA SREE A,EEE,Female,Management Trainee,TalentServe,6
+473,204G1A0264,PAVANI T,EEE,Female,Management Trainee,TalentServe,6
+474,204G1A0275,SAI JYOSHNA C,EEE,Female,Management Trainee,TalentServe,6
+475,204G1A0277,SAI KUMAR REDDY N,EEE,Male,Management Trainee,TalentServe,6
+476,204G1A0284,SANDHYA A,EEE,Female,Management Trainee,TalentServe,6
+477,204G1A0285,SANTHOSH SAI B,EEE,Male,Management Trainee,TalentServe,6
+478,204G1A0294,SRAVANI K,EEE,Female,Management Trainee,TalentServe,6
+479,204G1A02A2,TEJESWANI P,EEE,Female,Management Trainee,TalentServe,6
+480,214G5A0201,ADISESHA REDDY M,EEE,Male,Management Trainee,TalentServe,6
+481,204G1A0303,AMARNATH K,MEC,Male,Management Trainee,TalentServe,6
+482,204G1A0311,ARAVIND REDDY C,MEC,Male,Management Trainee,TalentServe,6
+483,204G1A0312,ARSHAD HASAN S MD,MEC,Male,Management Trainee,TalentServe,6
+484,204G1A0315,BASHEERUDDIN S,MEC,Male,Management Trainee,TalentServe,6
+485,204G1A0324,CHENNAKESHAVA REDDY A,MEC,Male,Management Trainee,TalentServe,6
+486,204G1A0326,DIVYA G,MEC,Female,Management Trainee,TalentServe,6
+487,204G1A0330,HARSHA VARDHAN B,MEC,Male,Management Trainee,TalentServe,6
+488,204G1A0339,LAKSHMI NARAYANA REDDY V,MEC,Male,Management Trainee,TalentServe,6
+489,204G1A0342,MISBA SADAF P,MEC,Female,Management Trainee,TalentServe,6
+490,204G1A0343,MOHAMMAD JUBER S,MEC,Male,Management Trainee,TalentServe,6
+491,204G1A0353,NAVEENKUMAR REDDY T,MEC,Male,Management Trainee,TalentServe,6
+492,204G1A0361,PURUSHOTHAM B,MEC,Male,Management Trainee,TalentServe,6
+493,204G1A0376,SAITEJA T M,MEC,Male,Management Trainee,TalentServe,6
+494,204G1A0384,SRAVANI G,MEC,Female,Management Trainee,TalentServe,6
+495,204G1A0390,TEJANA PRASANTHI K,MEC,Female,Management Trainee,TalentServe,6
+496,234G1D0703,AISHA SIDDIQA A,EEE,Female,Management Trainee,TalentServe,6
+497,204G1A05C7,AKSHAYA REDDY P G,CSE,Female,Assistant System Engineer,Tata Consultancy Services,4
+498,204G1A0560,MOUNESH G,CSE,Male,Assistant System Engineer,Tata Consultancy Services,4
+499,204G1A3327,NIKHATH FATHIMA S,CSM,Female,Package App Development Associate,Accenture,5
+500,204G1A0587,SAI MANJEERA M L R,CSE,Female,Package App Development Associate,Accenture,5
+501,204G1A05B2,THRISHARIKA C,CSE,Female,Package App Development Associate,Accenture,5
+502,204G1A0567,NAZEEMA D,CSE,Female,Package App Development Associate,Accenture,5
+503,204G1A0220,GOWTHAMI Y K,EEE,Female,Package App Development Associate,Accenture,5
+504,214G5A0108,CHANDANA REDDY K,CIV,Female,Package App Development Associate,Accenture,5
+505,204G1A3326,NIHARIKA P,CSM,Female,Package App Development Associate,Accenture,5
+506,204G1A0322,CHARAN V,MEC,Male,Trainee Engineer,Patodia Group,3
+507,204G1A0376,SAITEJA T M,MEC,Male,Trainee Engineer,Patodia Group,3
+508,204G1A0332,JASHWANTH G,MEC,Male,Trainee Engineer,Patodia Group,3
+509,204G1A0301,AJAY M,MEC,Male,Trainee Engineer,Patodia Group,3
+510,204G1A0355,NITISH S,MEC,Male,Trainee Engineer,Patodia Group,3
+511,204G1A0338,KUMAR C,MEC,Male,Trainee Engineer,Patodia Group,3
+512,214G5A0307,HARISH C,MEC,Male,Trainee Engineer,Patodia Group,3
+513,214G5A0312,RAVINDRA REDDY B,MEC,Male,Trainee Engineer,Patodia Group,3
+514,214G5A0320,VISHNU VARDHAN Y,MEC,Male,Trainee Engineer,Patodia Group,3
+515,204G1A0339,LAKSHMI NARAYANA REDDY V,MEC,Male,Trainee Engineer,Patodia Group,3
+516,214G5A0505,HARI KRISHNA N,CSE,Male,Associate Software Engineer,Tech Mahindra,4
+517,204G1A0528,DIVYA SREE B,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+518,204G1A3308,RAVI BABU V C,CSM,Male,Associate Software Engineer,Tech Mahindra,4
+519,204G1A0434,GOWTHAM KUMAR C,ECE,Male,Associate Software Engineer,Tech Mahindra,4
+520,204G1A0587,SAI MANJEERA M L R,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+521,204G1A0555,MASTAN VALI S,CSE,Male,Systems Engineer,Tata Consultancy Services,9
+522,214G5A0409,PALLAVI A,ECE,Female,Trainee - Test Management,Enzen,9
+523,204G1A05B4,UDAY KIRAN G,CSE,Male,Reconciliation and Administrative Coordinator,QATAR Airways,9
+524,204G1A3207,DEEPIKA D,CSD,Female,Devops Intern,Hashedin by Deloitte,8
+525,204G1A3325,NAZREEN J,CSM,Female,Systems Engineer,Tata Consultancy Services,7
+526,204G1A05C5,YASHASWINI J R,CSE,Female,Systems Engineer,Tata Consultancy Services,7
+527,204G1A0584,SAI CHARAN REDDY N,CSE,Male,Systems Engineer,Tata Consultancy Services,7
+528,204G1A05C7,AKSHAYA REDDY P G,CSE,Female,Associate Software Engineer,Accenture,5
+529,204G1A0538,HARSHITH D,CSE,Male,Associate Software Engineer,Accenture,5
+530,204G1A0515,ARSHIA PARVEEN H,CSE,Female,Associate Software Engineer,Accenture,5
+531,204G1A0525,CHAITANYA B,CSE,Male,Associate Software Engineer,Accenture,5
+532,204G1A0235,JYOSNA A,EEE,Female,Associate Software Engineer,Accenture,5
+533,204G1A0505,AISWARYA J,CSE,Female,Associate Software Engineer,Accenture,5
+534,204G1A0575,RAGHAVI U,CSE,Female,Associate Software Engineer,Accenture,5
+535,204G1A0569,PALLAVI R,CSE,Female,Associate Software Engineer,Accenture,5
+536,204G1A3210,GNANESWARI L,CSD,Female,Associate Software Engineer,Accenture,5
+537,204G1A0530,ESWARI S,CSE,Female,Associate Software Engineer,Accenture,5
+538,204G1A0445,JAGRUTHI M,ECE,Female,Associate Software Engineer,Accenture,5
+539,204G1A3215,HARSHAVARDHAN P,CSD,Male,Associate Software Engineer,Accenture,5
+540,204G1A0406,AKHILA SREE P,ECE,Female,Associate Software Engineer,Accenture,5
+541,204G1A0476,PAVANI B,ECE,Female,Associate Software Engineer,Accenture,5
+542,204G1A0573,PRATHYUSHA V,CSE,Female,Associate Software Engineer,Accenture,5
+543,204G1A0536,HARSHA SRI T,CSE,Female,Associate Software Engineer,Accenture,5
+544,204G1A05A4,SUNIL BABU Y,CSE,Male,Associate Software Engineer,Accenture,5
+545,204G1A0545,JOSHIKA M,CSE,Female,Associate Software Engineer,Accenture,5
+546,204G1A3303,AKSHAYA P V,CSM,Female,Associate Software Engineer,Accenture,5
+547,204G1A3351,SRAVANI G,CSM,Female,Associate Software Engineer,Accenture,5
+548,204G1A0542,JASMIN G,CSE,Female,Associate Software Engineer,Accenture,5
+549,204G1A3325,NAZREEN J,CSM,Female,Associate Software Engineer,Accenture,5
+550,204G1A3250,SHRESHA G,CSD,Female,Associate Software Engineer,Accenture,5
+551,204G1A05C5,YASHASWINI J R,CSE,Female,Associate Software Engineer,Accenture,5
+552,204G1A3252,SREE KANTHI P,CSD,Female,Associate Software Engineer,Accenture,5
+553,214G5A0405,JAYA NANDINI B,ECE,Female,Associate Software Engineer,Accenture,5
+554,204G1A3226,LIKHITHA B,CSD,Female,Associate Software Engineer,Accenture,5
+555,214G5A0217,RAGA PRAMODHINI U,EEE,Female,Associate Software Engineer,Accenture,5
+556,204G1A0498,SOHAIL BABA S,ECE,Male,Associate Software Engineer,Accenture,5
+557,204G1A0507,AJAY KUMAR K,CSE,Male,Associate Software Engineer,Accenture,5
+558,204G1A3342,SAINATH REDDY Y,CSM,Male,Associate Software Engineer,Accenture,5
+559,204G1A0546,JYOTHI N,CSE,Female,Associate Software Engineer,Accenture,5
+560,204G1A0560,MOUNESH G,CSE,Male,Associate Software Engineer,Accenture,5
+561,204G1A3343,SANJAY L,CSM,Male,Associate Software Engineer,Accenture,5
+562,204G1A05A9,SWATHI REDDY M,CSE,Female,Associate Software Engineer,Accenture,5
+563,204G1a04C1,VIJAYA LAKSHMI A,ECE,Female,Associate Software Engineer,Accenture,5
+564,204G1A0516,ASHA NIDHI K,CSE,Female,Associate Software Engineer,Accenture,5
+565,204G1A05C2,VENKATA DHANUNJAYA REDDY K,CSE,Male,Graduate Trainee Engineer,Digit Insurance,5
+566,204G1A0596,SIDRA FARHATH S,CSE,Male,Graduate Trainee Engineer,Digit Insurance,5
+567,204G1A0506,AJAY KISHORE G,CSE,Male,Graduate Trainee Engineer,Digit Insurance,5
+568,204G1A05C5,YASHASWINI J R,CSE,Female,Graduate Trainee Engineer,Digit Insurance,5
+569,204G1A3323,MOHAMMED ABUZARH S,CSM,Male,Graduate Trainee Engineer,Digit Insurance,5
+570,204G1A0167,PRADEEP L,CIV,Male,Area Technical Engineer,The India Cements Ltd,4
+571,214G5A0122,RUPESH K,CIV,Male,Area Technical Engineer,The India Cements Ltd,4
+572,214G5A0118,PRAVEEN KUMAR NAIK M,CIV,Male,Area Relationship Executive,The India Cements Ltd,4
+573,204G1A0358,PRATHAP T,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+574,214G5A0305,BHARATH KUMAR B,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+575,204G1A0354,NITHEESH K,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+576,204G1A0394,VAMSI E,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+577,204G1A0347,MOKSHAGNA REDDY P,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+578,204G1A0359,PRAVEEN KUMAR V,MEC,Male,Graduate Engineer Trainee,INDO-MIM,4
+579,204G1A0551,MAHESH KUMAR G,CSE,Male,Trainee Software Engineer,Wilco Source Systems,4
+580,204G1A3258,TEJA SRI G,CSD,Female,Software Engineer - Trainee,Syntec Systems,3
+581,204G1A05B0,THANUSHA K,CSE,Female,Software Engineer - Trainee,Syntec Systems,3
+582,204G1A3363,VIMALA G,CSM,Female,Software Engineer - Trainee,Syntec Systems,3
+583,204G1A0528,DIVYA SREE B,CSE,Female,Software Engineer - Trainee,Syntec Systems,3
+584,214G5A0212,NARMADA B,EEE,Female,Engineer - Trainee,Cape Electric,3
+585,214G5A0218,SAI CHAITYA K,EEE,Male,Engineer - Trainee,Cape Electric,3
+586,214G5A0224,VENKATA SAI ESWARI C,EEE,Female,Engineer - Trainee,Cape Electric,3
+587,214G5A0312,RAVINDRA REDDY B,MEC,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+588,214G5A0320,VISHNU VARDHAN Y,MEC,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+589,214G5A0319,VARUN SAI Y,MEC,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+590,204G1A0361,PURUSHOTHAM B,MEC,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+591,204G1A0384,SRAVANI G,MEC,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+592,204G1A0233,JAYASREE D,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+593,204G1A0246,MANASA M,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+594,204G1A0253,MUSKAN G,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+595,204G1A0245,MANASA K,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+596,204G1A0267,POOJITHA S,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+597,204G1A02A1,TEJASWINI T,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+598,214G5A0209,MAHESH B,EEE,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+599,204G1A0203,AFRIN TAJ V,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+600,204G1A02A0,SUREKHA S,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+601,204G1A0221,GRACE LYDIA PAUL R,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+602,204G1A0250,MERY STELLA V,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+603,204G1A0399,VYSHNAVI C,MEC,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+604,204G1A0314,ASWAD KHAN P MD,MEC,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+605,204G1A0219,GOWTHAMI B,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+606,204G1A0289,SHAMSHU ZUHA P,EEE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+607,204G1A02A8,VENKATA RAMA LIKITH REDDY S,EEE,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+608,204G1A0433,GAYAZ HUSSAIN K S,ECE,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+609,204G1A0462,MANISHA M,ECE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+610,204G1A0409,ANUSHA A (ALAMURU),ECE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+611,204G1A04B0,SWATHI A,ECE,Female,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+612,204G1A0429,EKESWAR REDDY C,ECE,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+613,204G1A0419,CHARAN K,ECE,Male,Trainee Material Engineer,PiLog India Pvt Ltd.,3
+614,204G1A0103,ANUSHA P,CIV,Female,Trainee Analyst,Savantis,3
+615,204G1A0104,ARCHANA B,CIV,Female,Trainee Analyst,Savantis,3
+616,204G1A0108,AYESHA M,CIV,Female,Trainee Analyst,Savantis,3
+617,204G1A0115,BRIJESH M,CIV,Male,Trainee Analyst,Savantis,3
+618,204G1A0128,HARSHITHA B,CIV,Female,Trainee Analyst,Savantis,3
+619,204G1A0129,HOSHITHA PRIYADARSHINI P,CIV,Female,Trainee Analyst,Savantis,3
+620,204G1A0131,JAHNAVI D,CIV,Female,Trainee Analyst,Savantis,3
+621,204G1A0135,KAVITHA E,CIV,Female,Trainee Analyst,Savantis,3
+622,204G1A0141,LASHYA S,CIV,Female,Trainee Analyst,Savantis,3
+623,204G1A0143,MAHAMMAD RIYAZ S,CIV,Male,Trainee Analyst,Savantis,3
+624,204G1A0145,MAMATHA B,CIV,Female,Trainee Analyst,Savantis,3
+625,204G1A0156,NANDINI G,CIV,Female,Trainee Analyst,Savantis,3
+626,204G1A0186,SRAVANI T,CIV,Female,Trainee Analyst,Savantis,3
+627,204G1A0189,SUSHMA SREE S,CIV,Female,Trainee Analyst,Savantis,3
+628,214G5A0104,ASMA TABASUM P,CIV,Female,Trainee Analyst,Savantis,3
+629,214G5A0108,CHANDANA REDDY K,CIV,Female,Trainee Analyst,Savantis,3
+630,214G5A0111,HARSHHITHA M,CIV,Female,Trainee Analyst,Savantis,3
+631,214G5A0123,SHASHAVALI K,CIV,Male,Trainee Analyst,Savantis,3
+632,214G5A0124,SHERYLL B,CIV,Female,Trainee Analyst,Savantis,3
+633,214G5A0129,VINAY KUMAR REDDY B,CIV,Male,Trainee Analyst,Savantis,3
+634,204G1A3221,LAIKHA FIRDOS S,CSD,Female,Trainee Analyst,Savantis,3
+635,204G1A3226,LIKHITHA B,CSD,Female,Trainee Analyst,Savantis,3
+636,204G1A3227,LIKHITHA SRI P,CSD,Female,Trainee Analyst,Savantis,3
+637,204G1A3250,SHRESHA G,CSD,Female,Trainee Analyst,Savantis,3
+638,204G1A0501,ABHIGNA M,CSE,Female,Trainee Analyst,Savantis,3
+639,204G1A0515,ARSHIA PARVEEN H,CSE,Female,Trainee Analyst,Savantis,3
+640,204G1A0529,DIYA FARNAAZ S,CSE,Female,Trainee Analyst,Savantis,3
+641,204G1A05C3,VISHNU B,CSE,Male,Trainee Analyst,Savantis,3
+642,204G1A3309,CHANDANAA SREE N R,CSM,Female,Trainee Analyst,Savantis,3
+643,204G1A3331,PAVANI B,CSM,Female,Trainee Analyst,Savantis,3
+644,204G1A3339,SAI HEMANTH KUMAR M,CSM,Male,Trainee Analyst,Savantis,3
+645,214G5A3302,JAVEED ALI S,CSM,Male,Trainee Analyst,Savantis,3
+646,204G1A0425,DIVIJA C,ECE,Female,Trainee Analyst,Savantis,3
+647,204G1A0457,KISHOR REDDY G,ECE,Male,Trainee Analyst,Savantis,3
+648,204G1A0214,DEEPIKA Y,EEE,Female,Trainee Analyst,Savantis,3
+649,204G1A0217,GANGOTHRI B,EEE,Female,Trainee Analyst,Savantis,3
+650,204G1A0221,GRACE LYDIA PAUL R,EEE,Female,Trainee Analyst,Savantis,3
+651,204G1A0222,HARSHAVARDAN REDDY M,EEE,Male,Trainee Analyst,Savantis,3
+652,204G1A0231,JAHNAVI M,EEE,Female,Trainee Analyst,Savantis,3
+653,204G1A0246,MANASA M,EEE,Female,Trainee Analyst,Savantis,3
+654,204G1A0247,MANEESHA D,EEE,Female,Trainee Analyst,Savantis,3
+655,204G1A0250,MERY STELLA V,EEE,Female,Trainee Analyst,Savantis,3
+656,204G1A0252,MOHAMMED SHARFUDDIN S,EEE,Male,Trainee Analyst,Savantis,3
+657,204G1A0253,MUSKAN G,EEE,Female,Trainee Analyst,Savantis,3
+658,204G1A0256,NANDHINI B (BOYAPATI),EEE,Female,Trainee Analyst,Savantis,3
+659,204G1A0257,NANDINI B (BOJJA),EEE,Female,Trainee Analyst,Savantis,3
+660,204G1A0264,PAVANI T,EEE,Female,Trainee Analyst,Savantis,3
+661,204G1A0265,PAVANI U,EEE,Female,Trainee Analyst,Savantis,3
+662,204G1A0267,POOJITHA S,EEE,Female,Trainee Analyst,Savantis,3
+663,204G1A0271,RAMANJINEYULU M,EEE,Male,Trainee Analyst,Savantis,3
+664,204G1A0278,SAI LATHA A,EEE,Female,Trainee Analyst,Savantis,3
+665,204G1A0279,SAI SAREGAMA D,EEE,Female,Trainee Analyst,Savantis,3
+666,204G1A0289,SHAMSHU ZUHA P,EEE,Female,Trainee Analyst,Savantis,3
+667,204G1A0291,SIREESHA Y,EEE,Female,Trainee Analyst,Savantis,3
+668,204G1A0292,SNEHA REDDY M,EEE,Female,Trainee Analyst,Savantis,3
+669,204G1A0293,SOWBHAGYA B,EEE,Female,Trainee Analyst,Savantis,3
+670,204G1A0296,SRUJANA P,EEE,Female,Trainee Analyst,Savantis,3
+671,204G1A0297,SUBRAMANYAM P,EEE,Male,Trainee Analyst,Savantis,3
+672,204G1A02A1,TEJASWINI T,EEE,Female,Trainee Analyst,Savantis,3
+673,214G5A0217,RAGA PRAMODHINI U,EEE,Female,Trainee Analyst,Savantis,3
+674,214G5A0219,SAI PAVANI KALYANI B,EEE,Female,Trainee Analyst,Savantis,3
+675,214G5A0220,SHANTHI B,EEE,Female,Trainee Analyst,Savantis,3
+676,204G1A0312,ARSHAD HASAN S MD,MEC,Male,Trainee Analyst,Savantis,3
+677,204G1A0315,BASHEERUDDIN S,MEC,Male,Trainee Analyst,Savantis,3
+678,204G1A0320,CHANDAN KUMAR S R,MEC,Male,Trainee Analyst,Savantis,3
+679,204G1A0342,MISBA SADAF P,MEC,Female,Trainee Analyst,Savantis,3
+680,204G1A0354,NITHEESH K,MEC,Male,Trainee Analyst,Savantis,3
+681,204G1A0360,PREM CHANDU B,MEC,Male,Trainee Analyst,Savantis,3
+682,204G1A0361,PURUSHOTHAM B,MEC,Male,Trainee Analyst,Savantis,3
+683,204G1A0394,VAMSI E,MEC,Male,Trainee Analyst,Savantis,3
+684,214G5A0306,BHEEMESH M,MEC,Male,Trainee Analyst,Savantis,3
+685,214G5A0311,MOKSHARITHA P,MEC,Female,Trainee Analyst,Savantis,3
+686,204G1A0455,KEERTHI REDDY R,ECE,Female,Project Engineer Trainee,Regami Solutions,3
+687,204G1A0486,SAI CHARITHA M,ECE,Female,Project Engineer Trainee,Regami Solutions,3
+688,204G1A04B8,USHA KIRANMAI Y,ECE,Female,Project Engineer Trainee,Regami Solutions,3
+689,214G5A0402,ASHA P,ECE,Female,Project Engineer Trainee,Regami Solutions,3
+690,204G1A3258,TEJA SRI G,CSD,Female,Application Support Specialist,OmneNEST Technologies,4
+691,204G1A3303,AKSHAYA P V,CSM,Female,Assistant System Engineer,Tata Consultancy Services,4
+692,204G1A3354,SREE RANGA BHARANI K S,CSM,Male,Assistant System Engineer,Tata Consultancy Services,4
+693,214G5A3303,KOUSHIK K,CSM,Male,Assistant System Engineer,Tata Consultancy Services,4
+694,204G1A0574,PUSHPA K,CSE,Female,Assistant System Engineer,Tata Consultancy Services,4
+695,204G1A0597,SIVA SAI G,CSE,Male,Assistant System Engineer,Tata Consultancy Services,4
+696,204G1A0513,ANNAPURNA A,CSE,Female,Assistant System Engineer,Tata Consultancy Services,4
+697,204G1A3340,SAI LAHARI Y,CSM,Female,Assistant System Engineer,Tata Consultancy Services,4
+698,204G1A3345,BHAM SHANKAR G,CSM,Male,Assistant System Engineer,Tata Consultancy Services,4
+699,204G1A3327,NIKHATH FATHIMA S,CSM,Female,Assistant System Engineer,Tata Consultancy Services,4
+700,204g1A0540,INDU B,CSE,Female,Assistant System Engineer,Tata Consultancy Services,4
+701,204G1A0561,MOUNIKA M,CSE,Female,Enterprise Product Services - Trainee,Movate,4
+702,204G1A0467,MOUNIKA B,ECE,Female,Software Trainee - Tech Support,Snovasys,4
+703,204G1A04B2,TARUN KUMAR REDDY A,ECE,Male,Digitam Marketing Executive,Snovasys,4
+704,204G1A0519,BAGYA LAKSHMI H,CSE,Female,Digitam Marketing Executive,Snovasys,3
+705,204G1A0581,REVANTH KUMAR V,CSE,Male,Member Technical Staff,ZOHO Corporation,8
+706,204G1A0428,DIVYANJALI K,ECE,Female,Analyst Trainee,Deloitte,5
+707,204G1A02A6,VAISHNAVI S,EEE,Female,Analyst Trainee,Deloitte,5
+708,204G1A0456,KIRANMAI A,ECE,Female,Analyst Trainee,Deloitte,5
+709,204G1A0438,HARIKA REDDY K,ECE,Female,Security Analyst,Deloitte,5
+710,204G1A3305,BABA HUSSAIN S,CSM,Male,HL7 Engineer,Telerad Tech,6
+711,204G1A3314,JAGADISH KANDHA B,CSM,Male,Software Trainee,Estuate,3
+712,214G5A0111,HARSHHITHA M,CIV,Female,Package App Development Associate,Accenture,5
+713,204G1A0528,DIVYA SREE B,CSE,Female,Package App Development Associate,Accenture,5
+714,204G1A0218,GAUTHAM L,EEE,Male,Business Development Associate,PlayTo Labs,8
+715,204G1A0290,SHIVA PRASAD REDDY V,EEE,Male,Business Development Associate,PlayTo Labs,8
+716,204G1A0557,MEGHARSHINI A,CSE,Female,Business Development Associate,PlayTo Labs,8
+717,204G1A0585,SAI HARSHAVARDHAN N,CSE,Male,Business Development Associate,PlayTo Labs,8
+718,204G1A3329,NIKITHA SETTY P,CSM,Female,Business Development Associate,PlayTo Labs,8
+719,204G1A3349,SIVANI M,CSM,Female,Business Development Associate,PlayTo Labs,8
+720,214G5A0111,HARSHHITHA M,CIV,Female,Business Development Associate,PlayTo Labs,8
+721,214G5A0129,VINAY KUMAR REDDY B,CIV,Male,Business Development Associate,PlayTo Labs,8
+722,214G5A0502,ANIL KUMAR M,CSE,Male,Business Development Associate,PlayTo Labs,8
+723,214G5A0507,LEENA SRI A,CSE,Female,Business Development Associate,PlayTo Labs,8
+724,204G1A0236,JYOTHI C,EEE,Female,Assistant System Engineer,Tata Consultancy Services,4
+725,204G1A3243,RUPA LAKSHMI M,CSD,Female,Assistant System Engineer,Tata Consultancy Services,4
+726,204G1A05A4,SUNIL BABU Y,CSE,Male,Assistant System Engineer,Tata Consultancy Services,4
+727,204G1A3242,REKHA P,CSD,Female,Assistant System Engineer,Tata Consultancy Services,7
+728,204G1A0502,ABHIRAM D,CSE,Male,Software Engineer,Sagarsoft,6
+729,204G1A0584,SAI CHARAN REDDY N,CSE,Male,Software Engineer,Sagarsoft,6
+730,204G1A0524,BRAMHA TEJA K,CSE,Male,Software Engineer,Sagarsoft,6
+731,204G1A3208,DEEPIKA REDDY B,CSD,Female,Software Engineer,Sagarsoft,5
+732,214G5A3206,UDAY KIRAN D,CSD,Male,Software Engineer,Sagarsoft,5
+733,204G1A02A5,VAIBHAVI SAI A,EEE,Male,Business Development Associate,SkillHacc,4
+734,204G1A02A8,VENKATA RAMA LIKITH REDDY S,EEE,Male,Business Development Associate,SkillHacc,4
+735,204G1A04A0,SREE LAKSHMI G,ECE,Female,Business Development Associate,SkillHacc,4
+736,204G1A04A9,SUSHMITHA P,ECE,Female,Business Development Associate,SkillHacc,4
+737,204G1A04B1,SWATHI V,ECE,Female,Business Development Associate,SkillHacc,4
+738,204G1A05A0,SOUMYA C,CSE,Female,Business Development Associate,SkillHacc,4
+739,204G1A0113,BHUVANESHWAR B,CIV,Male,Business Development Associate,SkillHacc,4
+740,204G1a0156,NANDINI G,CIV,Female,Business Development Associate,SkillHacc,4
+741,204G1A0160,NAVYASREE D,CIV,Female,Business Development Associate,SkillHacc,4
+742,204G1A0173,REETHIKA B,CIV,Female,Business Development Associate,SkillHacc,4
+743,204G1A0174,RUKSANA S,CIV,Female,Business Development Associate,SkillHacc,4
+744,204G1A0178,SAILAJA D,CIV,Female,Business Development Associate,SkillHacc,4
+745,204G1A0180,SHABANA S,CIV,Female,Business Development Associate,SkillHacc,4
+746,204G1A0210,BHAVANA A,EEE,Female,Business Development Associate,SkillHacc,4
+747,204G1A0213,DEEKSHITHA B,EEE,Female,Business Development Associate,SkillHacc,4
+748,204G1A0220,GOWTHAMI Y K,EEE,Female,Business Development Associate,SkillHacc,4
+749,204G1A0222,HARSHAVARDAN REDDY M,EEE,Male,Business Development Associate,SkillHacc,4
+750,204G1A0227,HIMA BINDU T,EEE,Female,Business Development Associate,SkillHacc,4
+751,204G1A0238,KIRANMAI M,EEE,Female,Business Development Associate,SkillHacc,4
+752,204G1A0241,KUSUMANJALI D,EEE,Female,Business Development Associate,SkillHacc,4
+753,204G1A0244,MADHUSREE P,EEE,Female,Business Development Associate,SkillHacc,4
+754,204G1A0249,MASOOD VALI A,EEE,Male,Business Development Associate,SkillHacc,4
+755,204G1A0257,NANDINI B (BOJJA),EEE,Female,Business Development Associate,SkillHacc,4
+756,204g1A0260,NIKITHA P,EEE,Female,Business Development Associate,SkillHacc,4
+757,204g1A0281,SAI SNIGDHA C,EEE,Female,Business Development Associate,SkillHacc,4
+758,204G1A0283,SAMEENA AL MISBAH S,EEE,Female,Business Development Associate,SkillHacc,4
+759,204G1A0291,SIREESHA Y,EEE,Female,Business Development Associate,SkillHacc,4
+760,204G1A0361,PURUSHOTHAM B,MEC,Male,Business Development Associate,SkillHacc,4
+761,204G1A0384,SRAVANI G,MEC,Female,Business Development Associate,SkillHacc,4
+762,204G1A0405,AKHILA M,ECE,Female,Business Development Associate,SkillHacc,4
+763,204G1A0409,ANUSHA A (ALAMURU),ECE,Female,Business Development Associate,SkillHacc,4
+764,204G1A0421,CHARITHA J,ECE,Female,Business Development Associate,SkillHacc,4
+765,204G1A0431,FAREED B S,ECE,Male,Business Development Associate,SkillHacc,4
+766,204G1A0450,JEEVITHA Y,ECE,Female,Business Development Associate,SkillHacc,4
+767,204G1A0454,KAVYA T,ECE,Female,Business Development Associate,SkillHacc,4
+768,204G1A0467,MOUNIKA B,ECE,Female,Business Development Associate,SkillHacc,4
+769,204G1A0469,NEHITHA T,ECE,Female,Business Development Associate,SkillHacc,4
+770,204G1A0472,PALLAVI B,ECE,Female,Business Development Associate,SkillHacc,4
+771,204G1A0473,PALLAVI BAI S,ECE,Female,Business Development Associate,SkillHacc,4
+772,204G1A0485,ROSHINI M,ECE,Female,Business Development Associate,SkillHacc,4
+773,204G1A0487,SAI KEERTHI U,ECE,Female,Business Development Associate,SkillHacc,4
+774,204G1A0501,ABHIGNA M,CSE,Female,Business Development Associate,SkillHacc,4
+775,204G1A0544,JAYASREE A,CSE,Female,Business Development Associate,SkillHacc,4
+776,204G1A0593,SARANYA M,CSE,Female,Business Development Associate,SkillHacc,4
+777,204G1A3231,MOHAMMED IMTHIYAZ S,CSD,Male,Business Development Associate,SkillHacc,4
+778,204G1A3238,PAVANI KALYANI J,CSD,Female,Business Development Associate,SkillHacc,4
+779,204G1A3259,UPENDRA REDDY M,CSD,Male,Business Development Associate,SkillHacc,4
+780,204G1A3305,BABA HUSSAIN S,CSM,Male,Business Development Associate,SkillHacc,4
+781,204G1A3312,GOPINATH V,CSM,Male,Business Development Associate,SkillHacc,4
+782,204G1A3327,NIKHATH FATHIMA S,CSM,Female,Business Development Associate,SkillHacc,4
+783,214G5A0108,CHANDANA REDDY K,CIV,Female,Business Development Associate,SkillHacc,4
+784,214G5A0111,HARSHHITHA M,CIV,Female,Business Development Associate,SkillHacc,4
+785,214G5A0115,MUNEMMA S,CIV,Female,Business Development Associate,SkillHacc,4
+786,214G5A0317,UDAY KIRAN B,MEC,Male,Business Development Associate,SkillHacc,4
+787,214G5A0502,ANIL KUMAR M,CSE,Male,Business Development Associate,SkillHacc,4
+788,214G5A3303,KOUSHIK K,CSM,Male,Business Development Associate,SkillHacc,4
+789,204G1A0259,NAVYA SREE A,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+790,204G1A0294,SRAVANI K,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+791,204G1A0299,SUPRAJA K,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+792,204G1A02A6,VAISHNAVI S,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+793,204G1A02B5,VINDUMATHI G,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+794,204G1A0360,PREM CHANDU B,MEC,Male,Inside Sales Strategist,Rinex Technologies,6
+795,204G1A0405,AKHILA M,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+796,204G1A0445,JAGRUTHI M,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+797,204G1A0471,NIRNAYA T,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+798,204G1A04A8,SUMIYA BEGUM S,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+799,204G1A0523,BHAVANA C,CSE,Female,Inside Sales Strategist,Rinex Technologies,6
+800,204G1A0583,ROSHNI P,CSE,Female,Inside Sales Strategist,Rinex Technologies,6
+801,204G1A0592,SAMYUKTHA K,CSE,Female,Inside Sales Strategist,Rinex Technologies,6
+802,204G1A05C4,VYSHNAVI K,CSE,Female,Inside Sales Strategist,Rinex Technologies,6
+803,204G1A3245,SAI HARATHI P,CSD,Female,Inside Sales Strategist,Rinex Technologies,6
+804,204G1A3307,BHARATH KUMAR G,CSM,Male,Inside Sales Strategist,Rinex Technologies,6
+805,204G1A3314,JAGADISH KANDHA B,CSM,Male,Inside Sales Strategist,Rinex Technologies,6
+806,204G1A3328,NIKHITHA C,CSM,Female,Inside Sales Strategist,Rinex Technologies,6
+807,204G1A3335,PRANATHI R,CSM,Female,Inside Sales Strategist,Rinex Technologies,6
+808,204G1A3339,SAI HEMANTH KUMAR M,CSM,Male,Inside Sales Strategist,Rinex Technologies,6
+809,204G1A3348,SUMANA G M S,CSM,Female,Inside Sales Strategist,Rinex Technologies,6
+810,204G1A3360,USMAN BASHA P,CSM,Male,Inside Sales Strategist,Rinex Technologies,6
+811,214G5A0301,ADIL BASHA G,MEC,Male,Inside Sales Strategist,Rinex Technologies,6
+812,214G5A0406,KAVITHA C,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+813,214G5A0502,ANIL KUMAR M,CSE,Male,Inside Sales Strategist,Rinex Technologies,6
+814,214G5A0506,HEMANTH REDDY K,CSE,Male,Inside Sales Strategist,Rinex Technologies,6
+815,204G1A0312,ARSHAD HASAN S MD,MEC,Male,Inside Sales Strategist,Rinex Technologies,6
+816,204G1A0431,FAREED B S,ECE,Male,Inside Sales Strategist,Rinex Technologies,6
+817,204G1A0330,HARSHA VARDHAN B,MEC,Male,Inside Sales Strategist,Rinex Technologies,6
+818,204G1A0432,GAYATHRI G,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+819,204G1A0585,SAI HARSHAVARDHAN N,CSE,Male,Inside Sales Strategist,Rinex Technologies,6
+820,204G1A0457,KISHOR REDDY G,ECE,Male,Inside Sales Strategist,Rinex Technologies,6
+821,204G1A0218,GAUTHAM L,EEE,Male,Inside Sales Strategist,Rinex Technologies,6
+822,204G1A0533,GNAPIKA BAI M,CSE,Female,Inside Sales Strategist,Rinex Technologies,6
+823,204G1A3214,HARSHAD ALI M,CSD,Male,Inside Sales Strategist,Rinex Technologies,6
+824,204G1A0148,MOHAMMAD SOHAIL M,CIV,Male,Inside Sales Strategist,Rinex Technologies,6
+825,204G1A0255,NANDEESWAR B,EEE,Male,Inside Sales Strategist,Rinex Technologies,6
+826,204G1A0264,PAVANI T,EEE,Female,Inside Sales Strategist,Rinex Technologies,6
+827,204G1A0580,RAVEENDRA C,CSE,Male,Inside Sales Strategist,Rinex Technologies,6
+828,204G1A04A6,SUJITHA M,ECE,Female,Inside Sales Strategist,Rinex Technologies,6
+829,204G1A0103,ANUSHA P,CIV,Female,Management Trainee,TalentServe,6
+830,204G1A0112,BHAVANI MAHESH S,CIV,Male,Management Trainee,TalentServe,6
+831,204G1A0120,ESHWAR REDDY G,CIV,Male,Management Trainee,TalentServe,6
+832,204G1A0129,HOSHITHA PRIYADARSHINI P,CIV,Female,Management Trainee,TalentServe,6
+833,204G1A0130,INDIRAMMA E,CIV,Female,Management Trainee,TalentServe,6
+834,204G1A0138,KOUSHIK KUMAR V M,CIV,Male,Management Trainee,TalentServe,6
+835,204G1A0140,KUMARI S,CIV,Female,Management Trainee,TalentServe,6
+836,204G1A0143,MAHAMMAD RIYAZ S,CIV,Male,Management Trainee,TalentServe,6
+837,204G1A0156,NANDINI G,CIV,Female,Management Trainee,TalentServe,6
+838,204G1A0160,NAVYASREE D,CIV,Female,Management Trainee,TalentServe,6
+839,204G1A0165,PAVAN G,CIV,Male,Management Trainee,TalentServe,6
+840,204G1A0178,SAILAJA D,CIV,Female,Management Trainee,TalentServe,6
+841,204G1A0180,SHABANA S,CIV,Female,Management Trainee,TalentServe,6
+842,204G1A0184,SRAVANI B,CIV,Female,Management Trainee,TalentServe,6
+843,204G1A0186,SRAVANI T,CIV,Female,Management Trainee,TalentServe,6
+844,204G1A0190,SWATHI K,CIV,Female,Management Trainee,TalentServe,6
+845,214G5A0104,ASMA TABASUM P,CIV,Female,Management Trainee,TalentServe,6
+846,214G5A0108,CHANDANA REDDY K,CIV,Female,Management Trainee,TalentServe,6
+847,214G5A0111,HARSHHITHA M,CIV,Female,Management Trainee,TalentServe,6
+848,214G5A0125,SHILPA B,CIV,Female,Management Trainee,TalentServe,6
+849,214G5A0127,VIJAYA LAKSHMI B,CIV,Female,Management Trainee,TalentServe,6
+850,214G5A0129,VINAY KUMAR REDDY B,CIV,Male,Management Trainee,TalentServe,6
+851,204G1A3202,ASHA K,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+852,204G1A3204,BHARGAVI P,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+853,204G1A3205,CHANDRA SHEKHAR K,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+854,204G1A3206,CHANDRAKALA K,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+855,204G1A3207,DEEPIKA D,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+856,204G1A3216,HARSHITHA J,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+857,204G1A3217,INDU T,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+858,204G1A3224,LAYA SREE B,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+859,204G1A3234,NAVEED HUSSAIN B,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+860,204G1A3238,PAVANI KALYANI J,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+861,204G1A3240,PRAVALLIKA U,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+862,204G1A3241,PREM SAGAR H,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+863,204G1A3243,RUPA LAKSHMI M,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+864,204G1A3246,SAI RIKESH P,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+865,204G1A3247,SAI SREEJA M,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+866,204G1A3249,SAMEER AHAMMAD S,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+867,204G1A3251,SIVA SAI VIVEK S,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+868,204G1A3261,VASAVI NEHA B,CSD,Female,Graduate Engineer Trainee,TalentServe,6
+869,204G1A3264,YATHEESH KUMAR REDDY K,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+870,204G1A3304,ARCHITHA N,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+871,204G1A3307,BHARATH KUMAR G,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+872,204G1A3313,GREESHMA C,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+873,204G1A3315,JYOTHI J,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+874,204G1A3319,KEERTHI B,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+875,204G1A3320,MAHITHA K,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+876,204G1A3326,NIHARIKA P,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+877,204G1A3328,NIKHITHA C,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+878,204G1A3329,NIKITHA SETTY P,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+879,204G1A3335,PRANATHI R,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+880,204G1A3336,REVANTH D,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+881,204G1A3338,RUHEENA P,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+882,204G1A3339,SAI HEMANTH KUMAR M,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+883,204G1A3341,SAI SUJAN C,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+884,204G1A3347,SIREESHA P,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+885,204G1A3349,SIVANI M,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+886,204G1A3357,SUSHMA P,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+887,204G1A3360,USMAN BASHA P,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+888,204G1A3363,VIMALA G,CSM,Female,Graduate Engineer Trainee,TalentServe,6
+889,214G5A3201,NARASIMHA G S,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+890,214G5A3202,PRABHAS A,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+891,214G5A3204,SAI NIKHIL K,CSD,Male,Graduate Engineer Trainee,TalentServe,6
+892,204G1A0501,ABHIGNA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+893,204G1A0504,AFREEN D,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+894,204G1A0509,AMRUTHA B,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+895,204G1A0510,AMRUTHA G,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+896,204G1A0511,ANAND B,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+897,204G1A0521,BHARGAVI M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+898,204G1A0523,BHAVANA C,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+899,204G1A0526,CHANDANA T,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+900,204G1A0528,DIVYA SREE B,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+901,204G1A0529,DIYA FARNAAZ S,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+902,204G1A0531,GANESH KUMAR REDDY C,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+903,204G1A0533,GNAPIKA BAI M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+904,204G1A0539,HEMALATHA K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+905,204G1A0544,JAYASREE A,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+906,204G1A0547,LALITHA R,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+907,204G1A0548,LIKHITHA A,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+908,204G1A0551,MAHESH KUMAR G,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+909,204G1A0552,MANJUSHA P,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+910,204G1A0554,MANOJ REDDY C,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+911,204G1A0557,MEGHARSHINI A,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+912,204G1A0558,MOHAMMAD FARAZ S,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+913,204G1A0588,SAI NITHYUSHA U,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+914,204G1A0559,MOULIKA K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+915,204G1A0561,MOUNIKA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+916,204G1A0563,NANDINI B,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+917,204G1A0564,NANDINI P,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+918,204G1A0567,NAZEEMA D,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+919,204G1A0568,NITHYA R,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+920,204G1A0572,PRANITHA Y,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+921,204G1A0582,RITHIKA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+922,204G1A0591,SAKIYA RABBANI S M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+923,204G1A0592,SAMYUKTHA K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+924,204G1A0593,SARANYA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+925,204G1A0596,SIDRA FARHATH S,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+926,204G1A0599,SOHAIL ZAHEER J,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+927,204G1A05A0,SOUMYA C,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+928,204G1A05A6,SUSHMITHA C,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+929,204G1A05A7,SUSHMITHA D,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+930,204G1A05A8,SUSHMITHA K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+931,204G1A05B0,THANUSHA K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+932,204G1A05B2,THRISHARIKA C,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+933,204G1A05B5,UMA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+934,204G1A05C3,VISHNU B,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+935,204G1A05C4,VYSHNAVI K,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+936,214G5A0501,AKSHAYA G,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+937,214G5A0502,ANIL KUMAR M,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+938,214G5A0503,ANITHA M,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+939,214G5A0505,HARI KRISHNA N,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+940,214G5A0506,HEMANTH REDDY K,CSE,Male,Graduate Engineer Trainee,TalentServe,6
+941,214G5A0507,LEENA SRI A,CSE,Female,Graduate Engineer Trainee,TalentServe,6
+942,214G5A3301,BHASKAR REDDY M,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+943,214G5A3303,KOUSHIK K,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+944,214G5A3306,UDAY KIRAN U,CSM,Male,Graduate Engineer Trainee,TalentServe,6
+945,204G1A0402,AFTAB S,ECE,Male,Management Trainee,TalentServe,6
+946,204G1A0405,AKHILA M,ECE,Female,Management Trainee,TalentServe,6
+947,204G1A0410,ANUSHA A (ANUMPALLI),ECE,Female,Management Trainee,TalentServe,6
+948,204G1A0420,CHARAN SAI D,ECE,Male,Management Trainee,TalentServe,6
+949,204G1A0421,CHARITHA J,ECE,Female,Management Trainee,TalentServe,6
+950,204G1A0427,DIVYA SREE A,ECE,Female,Management Trainee,TalentServe,6
+951,204G1A0432,GAYATHRI G,ECE,Female,Management Trainee,TalentServe,6
+952,204G1A0437,HARIKA K,ECE,Female,Management Trainee,TalentServe,6
+953,204G1A0441,HEMALATHA K,ECE,Female,Management Trainee,TalentServe,6
+954,204G1A0442,HEMALATHA R,ECE,Female,Management Trainee,TalentServe,6
+955,204G1A0443,HIMABINDU N,ECE,Female,Management Trainee,TalentServe,6
+956,204G1A0450,JEEVITHA Y,ECE,Female,Management Trainee,TalentServe,6
+957,204G1A0454,KAVYA T,ECE,Female,Management Trainee,TalentServe,6
+958,204G1A0456,KIRANMAI A,ECE,Female,Management Trainee,TalentServe,6
+959,204G1A0461,MAHITHA K,ECE,Female,Management Trainee,TalentServe,6
+960,204G1A0463,MANJULA REDDY M,ECE,Female,Management Trainee,TalentServe,6
+961,204G1A0465,MOHAMMAD JUNAID S,ECE,Male,Management Trainee,TalentServe,6
+962,204G1A0467,MOUNIKA B,ECE,Female,Management Trainee,TalentServe,6
+963,204G1A0469,NEHITHA T,ECE,Female,Management Trainee,TalentServe,6
+964,204G1A0470,NIKHIL SAI G,ECE,Male,Management Trainee,TalentServe,6
+965,204G1A0471,NIRNAYA T,ECE,Female,Management Trainee,TalentServe,6
+966,204G1A0473,PALLAVI BAI S,ECE,Female,Management Trainee,TalentServe,6
+967,204G1A0475,PAVANI A,ECE,Female,Management Trainee,TalentServe,6
+968,204G1A0480,RAGHAVENDRA PHANI DEEPAK S,ECE,Male,Management Trainee,TalentServe,6
+969,204G1A0481,RAJITHA L,ECE,Female,Management Trainee,TalentServe,6
+970,204G1A0484,ROHINI S,ECE,Female,Management Trainee,TalentServe,6
+971,204G1A0492,SAI SREYA G,ECE,Female,Management Trainee,TalentServe,6
+972,204G1A0496,SHASHI KUMAR J,ECE,Male,Management Trainee,TalentServe,6
+973,204G1A0499,SRAVANI D,ECE,Female,Management Trainee,TalentServe,6
+974,204G1A04A0,SREE LAKSHMI G,ECE,Female,Management Trainee,TalentServe,6
+975,204G1A04A9,SUSHMITHA P,ECE,Female,Management Trainee,TalentServe,6
+976,204G1A04B1,SWATHI V,ECE,Female,Management Trainee,TalentServe,6
+977,204G1A04B3,TARUN KUMAR REDDY K,ECE,Male,Management Trainee,TalentServe,6
+978,204G1A04B4,THANMAYA SREE D,ECE,Female,Management Trainee,TalentServe,6
+979,204G1A04B6,UDAY KUMAR REDDY B,ECE,Male,Management Trainee,TalentServe,6
+980,204G1A04B9,VASANTHA LAKSHMI R,ECE,Female,Management Trainee,TalentServe,6
+981,204G1A04C0,VENKATA LAKSHMI T,ECE,Female,Management Trainee,TalentServe,6
+982,204G1A04C2,VIJAYA LAKSHMI K,ECE,Female,Management Trainee,TalentServe,6
+983,204G1A04C3,VIJAYALAKSHMI S,ECE,Female,Management Trainee,TalentServe,6
+984,214G5A0408,NANDINI G,ECE,Female,Management Trainee,TalentServe,6
+985,214G5A0411,SHASIKALA C,ECE,Female,Management Trainee,TalentServe,6
+986,214G5A0413,VISWAS V,ECE,Male,Management Trainee,TalentServe,6
+987,204G1A0203,AFRIN TAJ V,EEE,Female,Management Trainee,TalentServe,6
+988,204G1A0211,CHANDRA SIDDHARTH A,EEE,Male,Management Trainee,TalentServe,6
+989,204G1A0217,GANGOTHRI B,EEE,Female,Management Trainee,TalentServe,6
+990,204G1A0221,GRACE LYDIA PAUL R,EEE,Female,Management Trainee,TalentServe,6
+991,204G1A0231,JAHNAVI M,EEE,Female,Management Trainee,TalentServe,6
+992,204G1A0240,KUSUMA D,EEE,Female,Management Trainee,TalentServe,6
+993,204G1A0259,NAVYA SREE A,EEE,Female,Management Trainee,TalentServe,6
+994,204G1A0264,PAVANI T,EEE,Female,Management Trainee,TalentServe,6
+995,204G1A0275,SAI JYOSHNA C,EEE,Female,Management Trainee,TalentServe,6
+996,204G1A0277,SAI KUMAR REDDY N,EEE,Male,Management Trainee,TalentServe,6
+997,204G1A0284,SANDHYA A,EEE,Female,Management Trainee,TalentServe,6
+998,204G1A0285,SANTHOSH SAI B,EEE,Male,Management Trainee,TalentServe,6
+999,204G1A0294,SRAVANI K,EEE,Female,Management Trainee,TalentServe,6
+1000,204G1A02A2,TEJESWANI P,EEE,Female,Management Trainee,TalentServe,6
+1001,214G5A0201,ADISESHA REDDY M,EEE,Male,Management Trainee,TalentServe,6
+1002,204G1A0303,AMARNATH K,MEC,Male,Management Trainee,TalentServe,6
+1003,204G1A0311,ARAVIND REDDY C,MEC,Male,Management Trainee,TalentServe,6
+1004,204G1A0312,ARSHAD HASAN S MD,MEC,Male,Management Trainee,TalentServe,6
+1005,204G1A0315,BASHEERUDDIN S,MEC,Male,Management Trainee,TalentServe,6
+1006,204G1A0324,CHENNAKESHAVA REDDY A,MEC,Male,Management Trainee,TalentServe,6
+1007,204G1A0326,DIVYA G,MEC,Female,Management Trainee,TalentServe,6
+1008,204G1A0330,HARSHA VARDHAN B,MEC,Male,Management Trainee,TalentServe,6
+1009,204G1A0339,LAKSHMI NARAYANA REDDY V,MEC,Male,Management Trainee,TalentServe,6
+1010,204G1A0342,MISBA SADAF P,MEC,Female,Management Trainee,TalentServe,6
+1011,204G1A0343,MOHAMMAD JUBER S,MEC,Male,Management Trainee,TalentServe,6
+1012,204G1A0353,NAVEENKUMAR REDDY T,MEC,Male,Management Trainee,TalentServe,6
+1013,204G1A0361,PURUSHOTHAM B,MEC,Male,Management Trainee,TalentServe,6
+1014,204G1A0376,SAITEJA T M,MEC,Male,Management Trainee,TalentServe,6
+1015,204G1A0384,SRAVANI G,MEC,Female,Management Trainee,TalentServe,6
+1016,204G1A0390,TEJANA PRASANTHI K,MEC,Female,Management Trainee,TalentServe,6
+1017,234G1D0703,AISHA SIDDIQA A,EEE,Female,Management Trainee,TalentServe,6
+1018,204G1A05C7,AKSHAYA REDDY P G,CSE,Female,Assistant System Engineer,Tata Consultancy Services,4
+1019,204G1A0560,MOUNESH G,CSE,Male,Assistant System Engineer,Tata Consultancy Services,4
+1020,204G1A3327,NIKHATH FATHIMA S,CSM,Female,Package App Development Associate,Accenture,5
+1021,204G1A0587,SAI MANJEERA M L R,CSE,Female,Package App Development Associate,Accenture,5
+1022,204G1A05B2,THRISHARIKA C,CSE,Female,Package App Development Associate,Accenture,5
+1023,204G1A0567,NAZEEMA D,CSE,Female,Package App Development Associate,Accenture,5
+1024,204G1A0220,GOWTHAMI Y K,EEE,Female,Package App Development Associate,Accenture,5
+1025,214G5A0108,CHANDANA REDDY K,CIV,Female,Package App Development Associate,Accenture,5
+1026,204G1A3326,NIHARIKA P,CSM,Female,Package App Development Associate,Accenture,5
+1027,204G1A0322,CHARAN V,MEC,Male,Trainee Engineer,Patodia Group,3
+1028,204G1A0376,SAITEJA T M,MEC,Male,Trainee Engineer,Patodia Group,3
+1029,204G1A0332,JASHWANTH G,MEC,Male,Trainee Engineer,Patodia Group,3
+1030,204G1A0301,AJAY M,MEC,Male,Trainee Engineer,Patodia Group,3
+1031,204G1A0355,NITISH S,MEC,Male,Trainee Engineer,Patodia Group,3
+1032,204G1A0338,KUMAR C,MEC,Male,Trainee Engineer,Patodia Group,3
+1033,214G5A0307,HARISH C,MEC,Male,Trainee Engineer,Patodia Group,3
+1034,214G5A0312,RAVINDRA REDDY B,MEC,Male,Trainee Engineer,Patodia Group,3
+1035,214G5A0320,VISHNU VARDHAN Y,MEC,Male,Trainee Engineer,Patodia Group,3
+1036,204G1A0339,LAKSHMI NARAYANA REDDY V,MEC,Male,Trainee Engineer,Patodia Group,3
+1037,214G5A0505,HARI KRISHNA N,CSE,Male,Associate Software Engineer,Tech Mahindra,4
+1038,204G1A0528,DIVYA SREE B,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+1039,204G1A3308,RAVI BABU V C,CSM,Male,Associate Software Engineer,Tech Mahindra,4
+1040,204G1A0434,GOWTHAM KUMAR C,ECE,Male,Associate Software Engineer,Tech Mahindra,4
+1041,204G1A0587,SAI MANJEERA M L R,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+1042,194G1A0532,FIRDOUSE BEGUM M,CSE,Female,Software Engineer - Developer,Amadeus,12
+1043,194G1A0293,SAMEER S,EEE,Male,Software Developer,Value Labs,8
+1044,194G1A05B7,THARUN KUMAR REDDY K G,CSE,Male,Associate Product Engineer,DeltaX,7
+1045,194G1A0526,DHASTHAGIRI REDDY J,CSE,Male,Associate Trainee,Apps Associates,6
+1046,194G1A0227,DRAKSHAYANI E,EEE,Female,Graduate Engineer Trainee,Hexaware,4
+1047,194G1A0231,GIRIJAKSHI H,EEE,Female,Graduate Engineer Trainee,Hexaware,4
+1048,194G1A0252,LAYA Y,EEE,Female,Graduate Engineer Trainee,Hexaware,4
+1049,194G1A0279,ROHITHA G,EEE,Female,Graduate Engineer Trainee,Hexaware,4
+1050,194G1A0293,SAMEER S,EEE,Male,Graduate Engineer Trainee,Hexaware,4
+1051,194G1A0409,BHAVYA S,ECE,Female,Graduate Engineer Trainee,Hexaware,4
+1052,194G1A0428,HARIPRIYA G R,ECE,Female,Graduate Engineer Trainee,Hexaware,4
+1053,194G1A0445,MADIHA AIMON T,ECE,Female,Premier Graduate Engineer Trainee,Hexaware,6
+1054,194G1A0453,MEGHANA K,ECE,Female,Graduate Engineer Trainee,Hexaware,4
+1055,194G1A0466,PAVITHRA B,ECE,Female,Premier Graduate Engineer Trainee,Hexaware,6
+1056,194G1A0486,SAI SUSMITHA R,ECE,Female,Graduate Engineer Trainee,Hexaware,4
+1057,194G1A0489,SAMEER BASHA N,ECE,Male,Graduate Engineer Trainee,Hexaware,4
+1058,194G1A04A1,SIVARAMI REDDY A,ECE,Male,Graduate Engineer Trainee,Hexaware,4
+1059,194G1A04B0,SYED BABA SAFFIR B,ECE,Male,Graduate Engineer Trainee,Hexaware,4
+1060,194G1A04B5,UDAY BHASKAR Y,ECE,Male,Graduate Engineer Trainee,Hexaware,4
+1061,194G1A04B8,VEDACHARITH Y N K,ECE,Male,Graduate Engineer Trainee,Hexaware,4
+1062,194G1A04C5,VISHNUVARDHAN REDDY N,ECE,Male,Graduate Engineer Trainee,Hexaware,4
+1063,194G1A0512,BABITHA SREE P,CSE,Female,Graduate Engineer Trainee,Hexaware,4
+1064,194G1A0533,GOWRI P,CSE,Female,Graduate Engineer Trainee,Hexaware,4
+1065,194G1A0559,MOHAMMED JAVED P,CSE,Male,Graduate Engineer Trainee,Hexaware,4
+1066,194G1A0563,NAGA MOHAN REDDY K,CSE,Male,Graduate Engineer Trainee,Hexaware,4
+1067,194G1A0571,PAVAN KALYAN C,CSE,Male,Graduate Engineer Trainee,Hexaware,4
+1068,194G1A0579,RAVITEJA REDDY R,CSE,Male,Graduate Engineer Trainee,Hexaware,4
+1069,194G1A0591,SAKETH G,CSE,Male,Graduate Engineer Trainee,Hexaware,4
+1070,194G1A05A0,SHAHIDA S,CSE,Female,Graduate Engineer Trainee,Hexaware,4
+1071,194G1A05A1,SHANTHI PRIYA N,CSE,Female,Graduate Engineer Trainee,Hexaware,4
+1072,194G1A05A7,SREE NIKHITA S,CSE,Female,Graduate Engineer Trainee,Hexaware,4
+1073,194G1A05B3,SUSMITHA C R G,CSE,Female,Graduate Engineer Trainee,Hexaware,4
+1074,204G5A0217,VENKATA BHEESHMASENA REDDY E,EEE,Male,Graduate Engineer Trainee,Hexaware,4
+1075,204G5A0404,LAKSHMI PRIYA G,ECE,Female,Graduate Engineer Trainee,Hexaware,4
+1076,204G5A0510,SREE KETHAN S,CSE,Male,Graduate Engineer Trainee,Hexaware,4
+1077,194G1A02B3,VASEFAA S,EEE,Female,Graduate Engineer Trainee,Hexaware,4
+1078,194G1A0416,DEVIKA P,ECE,Female,Graduate Engineer Trainee,Hexaware,4
+1079,194G1A0535,HAINDAVI O,CSE,Female,Graduate Engineer Trainee,Hexaware,4
+1080,194G1A0592,SAMEER BASHA S,CSE,Male,Graduate Engineer Trainee,Hexaware,4
+1081,194G1A05C8,YUVASREE A,CSE,Female,Graduate Engineer Trainee,Hexaware,4
+1082,194G1A0494,SHAGUFTHA RABBANI B,ECE,Female,Graduate Engineer Trainee,Hexaware,4
+1083,194G1A0480,SAI CHARAN T,ECE,Male,Graduate Engineer Trainee,Hexaware,4
+1084,194G1A0549,LAKSHMI PRIYA M,CSE,Female,Assistant System Engineer,TCS - Codevita,4
+1085,194G1A0565,NAMRATHA V,CSE,Female,Assistant System Engineer,TCS - Codevita,4
+1086,194G1A0326,GURU RAGHAVENDRA T,MEC,Male,Assistant System Engineer,TCS - Codevita,7
+1087,194G1A0532,FIRDOUSE BEGUM M,CSE,Female,Software Developer,IBM,8
+1088,204G5A0403,KARAN KUMAR K,ECE,Male,Design Engineer,Smart SoC,5
+1089,194G1A0480,SAI CHARAN T,ECE,Male,Associate Software Engineer,Tech Mahindra,4
+1090,194G1A0494,SHAGUFTHA RABBANI B,ECE,Female,Associate Software Engineer,Tech Mahindra,4
+1091,194G1A0499,SINDHU PRIYA B,ECE,Female,Associate Software Engineer,Tech Mahindra,4
+1092,194G1A0506,AKSHAYA N,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+1093,194G1A0510,ARSHIYA ANJUM P,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+1094,194G1A0534,GOWTHAMI D,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+1095,194G1A0541,JAYASREE S,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+1096,194G1A0546,KEERTHANA J,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+1097,194G1A0579,RAVITEJA REDDY R,CSE,Male,Associate Software Engineer,Tech Mahindra,4
+1098,194G1A0593,SAMPATH KUMAR REDDY T,CSE,Male,Associate Software Engineer,Tech Mahindra,4
+1099,194G1A05A0,SHAHIDA S,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+1100,194G1A05A1,SHANTHI PRIYA N,CSE,Female,Associate Software Engineer,Tech Mahindra,4
+1101,194G1A05B2,SUDHARSHAN REDDY D,CSE,Male,Associate Software Engineer,Tech Mahindra,4
+1102,194G1A05B7,THARUN KUMAR REDDY K G,CSE,Male,Associate Software Engineer,Tech Mahindra,4
+1103,204G5A0412,SANDHYA M,ECE,Female,Associate Software Engineer,Tech Mahindra,4
+1104,194G1A0422,GANESH C,ECE,Male,Associate Engineer,Cloud Kinetics,4
+1105,194G1A04B0,SYED BABA SAFFIR B,ECE,Male,Associate Engineer,Cloud Kinetics,4
+1106,194G1A05A9,SREEJA S,CSE,Female,Associate Engineer,Cloud Kinetics,4
+1107,194G1A0546,KEERTHANA J,CSE,Female,Associate Engineer,Cloud Kinetics,4
+1108,194G1A05A0,SHAHIDA S,CSE,Female,Associate Engineer,Cloud Kinetics,4
+1109,194G1A05C6,VINEETHA K,CSE,Female,Associate Engineer,Cloud Kinetics,4
+1110,204G5A0510,SREE KETHAN S,CSE,Male,Associate Engineer,Cloud Kinetics,4
+1111,194G1A0549,LAKSHMI PRIYA M,CSE,Female,,Virtusa NeuralHack S6,5
+1112,194G1A01A7,VYSHNAVI K,CIV,Female,Programmer Anlyst,CTS,6
+1113,194G1A01A9,WASIM AKRAM D,CIV,Male,Programmer Anlyst Trainee,CTS,4
+1114,194G1A0422,GANESH C,ECE,Male,Programmer Anlyst,CTS,6
+1115,194G1A04B0,SYED BABA SAFFIR B,ECE,Male,Programmer Anlyst,CTS,6
+1116,194G1A0510,ARSHIYA ANJUM P,CSE,Female,Programmer Anlyst,CTS,6
+1117,194G1A0512,BABITHA SREE P,CSE,Female,Programmer Anlyst,CTS,6
+1118,194G1A0524,DEEPIKA M,CSE,Female,Programmer Anlyst Trainee,CTS,4
+1119,194G1A0540,JAYA SRI C,CSE,Female,Programmer Anlyst,CTS,6
+1120,194G1A0541,JAYASREE S,CSE,Female,Programmer Anlyst,CTS,6
+1121,194G1A0543,KALYANI P (POTHURI),CSE,Female,Programmer Anlyst Trainee,CTS,4
+1122,194G1A0546,KEERTHANA J,CSE,Female,Programmer Anlyst,CTS,6
+1123,194G1A05A0,SHAHIDA S,CSE,Female,Programmer Anlyst,CTS,6
+1124,194G1A05C6,VINEETHA K,CSE,Female,Programmer Anlyst Trainee,CTS,4
+1125,204G5A0217,VENKATA BHEESHMASENA REDDY E,EEE,Male,Programmer Anlyst,CTS,6
+1126,204G5A0501,ARAVIND B,CSE,Male,Programmer Anlyst Trainee,CTS,4
+1127,204G5A0106,HARSHA VARDHAN GOWD P,CIV,Male,Systems Engineer,TCS,7
+1128,194G1A0222,CHINMAYEE P J,EEE,Female,Systems Engineer,TCS,7
+1129,194G1A0226,DILSHAD M,EEE,Female,Systems Engineer,TCS,7
+1130,194G1A0231,GIRIJAKSHI H,EEE,Female,Systems Engineer,TCS,7
+1131,204G5A0202,BASHA D,EEE,Male,Systems Engineer,TCS,7
+1132,194G1A0512,BABITHA SREE P,CSE,Female,Systems Engineer,TCS,7
+1133,194G1A0523,DEEPAK N,CSE,Male,Systems Engineer,TCS,7
+1134,194G1A0543,KALYANI P (POTHURI),CSE,Female,Systems Engineer,TCS,7
+1135,194G1A0534,GOWTHAMI D,CSE,Female,Systems Engineer,TCS,7
+1136,194G1A0466,PAVITHRA B,ECE,Female,Systems Engineer,TCS,7
+1137,194G1A0465,NIKITA SOMASEKHAR Y,ECE,Female,Systems Engineer,TCS,7
+1138,194G1A05B6,TEJASWINI C,CSE,Female,Systems Engineer,TCS,7
+1139,194G1A05B7,THARUN KUMAR REDDY K G,CSE,Male,Systems Engineer,TCS,7
+1140,194G1A0557,MANOJ A,CSE,Male,Systems Engineer,TCS,7
+1141,194G1A0589,SAI SRAVANI S,CSE,Female,Systems Engineer,TCS,7
+1142,194G1A05B1,SRUTHI Y,CSE,Female,Systems Engineer,TCS,7
+1143,194G1A0502,AFIFA T S,CSE,Female,Systems Engineer,TCS,7
+1144,194G1A0526,DHASTHAGIRI REDDY J,CSE,Male,Systems Engineer,TCS,7
+1145,194G1A0549,LAKSHMI PRIYA M,CSE,Female,Systems Engineer,TCS,7
+1146,194G1A0159,MOUNIKA S,CIV,Female,Graduate Engineer Trainee,ReNew Power,6
+1147,204G5A0109,PRADEEP G,CIV,Male,Graduate Engineer Trainee,ReNew Power,6
+1148,194G1A0222,CHINMAYEE P J,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1149,194G1A0223,DHANALAKSHMI M,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1150,194G1A0226,DILSHAD M,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1151,194G1A0239,INDRANI B,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1152,194G1A0245,JYOTHI V R G,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1153,194G1A0254,MANASA C,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1154,194G1A0255,MANASA K,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1155,194G1A0259,MOHAMMAD ARBAAZ P,EEE,Male,Graduate Engineer Trainee,ReNew Power,6
+1156,194G1A0269,NIKHILESH VIJAY C,EEE,Male,Graduate Engineer Trainee,ReNew Power,6
+1157,194G1A0280,SADDAM P,EEE,Male,Graduate Engineer Trainee,ReNew Power,6
+1158,194G1A0282,SADIYA S,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1159,194G1A0283,SAHANA S R,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1160,194G1A0289,SAI TEJA M,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1161,194G1A02B2,PRABHAVATHI V,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1162,194G1A02C0,WAJIDA SULTANA K,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1163,194G1A02C3,THANMAI P M,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1164,204G5A0201,ANJALI DEVI R,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1165,204G5A0202,BASHA D,EEE,Male,Graduate Engineer Trainee,ReNew Power,6
+1166,204G5A0204,BHAVYA SREE N,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1167,204G5A0205,HIMA BINDU G,EEE,Female,Graduate Engineer Trainee,ReNew Power,6
+1168,204G5A0207,JASWANTH REDDY K,EEE,Male,Graduate Engineer Trainee,ReNew Power,6
+1169,194G1A0326,GURU RAGHAVENDRA T,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1170,194G1A0339,KAVYA R,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1171,194G1A0351,MANU K V,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1172,194G1A0362,NAVEEN KUMAR Y,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1173,194G1A0363,NAVEEN M,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1174,194G1A0375,RAJA RAM REDDY P,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1175,194G1A0388,SHAHID SALMAN S,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1176,194G1A03B3,ZUBAIR AHMED S,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1177,204G5A0301,ALEKHYA M,MEC,Female,Graduate Engineer Trainee,ReNew Power,6
+1178,204G5A0307,KRISHNA MANOHAR D,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1179,204G5A0308,KUMAR RAJU A,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1180,204G5A0309,LOKESH BABU M,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1181,204G5A0313,PRAVEEN KUMAR R,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1182,204G5A0316,SAI HARISH P,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1183,204G5A0324,VIJAY KUMAR R,MEC,Male,Graduate Engineer Trainee,ReNew Power,6
+1184,194G1A0589,SAI SRAVANI S,CSE,Female,Application Development Associate,Accenture,5
+1185,194G1A0242,JAHNAVI B,EEE,Female,Associate Software Engineer,CGI,4
+1186,194G1A0285,SAI DEEPTHI G,EEE,Female,Associate Software Engineer,CGI,4
+1187,194G1A0296,SHAKEELA BEE D,EEE,Female,Associate Software Engineer,CGI,4
+1188,194G1A0441,LASYA VARMA C G,ECE,Female,Associate Software Engineer,CGI,4
+1189,194G1A0449,MEGHAMALA R,ECE,Female,Associate Software Engineer,CGI,4
+1190,194G1A0452,MEGHANA D G,ECE,Female,Associate Software Engineer,CGI,4
+1191,194G1A0458,NAGA MANEESHA K,ECE,Female,Associate Software Engineer,CGI,4
+1192,194G1A0478,SAFIYYAH FARHEEN S,ECE,Female,Associate Software Engineer,CGI,4
+1193,194G1A0482,SAI LIKHITHA K,ECE,Female,Associate Software Engineer,CGI,4
+1194,194G1A0495,SHAHEEN BEGUM D,ECE,Female,Associate Software Engineer,CGI,4
+1195,194G1A04A3,SREEJA C L,ECE,Female,Associate Software Engineer,CGI,4
+1196,194G1A04A7,SUNEELA K,ECE,Female,Associate Software Engineer,CGI,4
+1197,194G1A04C0,VENKATA SREEHITHA K,ECE,Female,Associate Software Engineer,CGI,4
+1198,194G1A0518,CHANDU MEGHANA A,CSE,Female,Associate Software Engineer,CGI,4
+1199,194G1A0575,PRANITHA V,CSE,Female,Associate Software Engineer,CGI,4
+1200,194G1A0597,SASI PRIYA N,CSE,Female,Associate Software Engineer,CGI,4
+1201,194G1A05B9,UMAISA ANJUM J,CSE,Female,Associate Software Engineer,CGI,4
+1202,194G1A05C2,VARSHITHA N,CSE,Female,Associate Software Engineer,CGI,4
+1203,194G1A0448,MAMATHA T,ECE,Female,Associate Software Engineer,CGI,4
+1204,194G1A0265,NASREEN S,EEE,Female,Associate Software Engineer,CGI,4
+1205,194G1A0281,SADHA MUSKAN G,EEE,Female,Associate Software Engineer,CGI,4
+1206,194G1A0568,NIKHITA A,CSE,Female,Associate Software Engineer,CGI,4
+1207,194G1A05C0,USHA RANI B,CSE,Female,Associate Software Engineer,CGI,4
+1208,194G1A0505,AKSHAYA G,CSE,Female,Assistant System Engineer,TCS,4
+1209,194G1A0518,CHANDU MEGHANA A,CSE,Female,Assistant System Engineer,TCS,4
+1210,194G1A0536,HEMANTH KUMAR N G,CSE,Male,Assistant System Engineer,TCS,4
+1211,194G1A0541,JAYASREE S,CSE,Female,Assistant System Engineer,TCS,4
+1212,194G1A0559,MOHAMMED JAVED P,CSE,Male,Assistant System Engineer,TCS,4
+1213,194G1A0571,PAVAN KALYAN C,CSE,Male,Assistant System Engineer,TCS,4
+1214,194G1A0592,SAMEER BASHA S,CSE,Male,Assistant System Engineer,TCS,4
+1215,194G1A05C2,VARSHITHA N,CSE,Female,Assistant System Engineer,TCS,4
+1216,194G1A0420,FAROOK AHMED ALI S,ECE,Male,Assistant System Engineer,TCS,4
+1217,194G1A0425,HARI RAGHAVENDRA P,ECE,Male,Assistant System Engineer,TCS,4
+1218,194G1A0428,HARIPRIYA G R,ECE,Female,Assistant System Engineer,TCS,4
+1219,194G1A04A7,SUNEELA K,ECE,Female,Assistant System Engineer,TCS,4
+1220,194G1A04B9,VENKAT MOHAN P,ECE,Male,Assistant System Engineer,TCS,4
+1221,204G5A0403,KARAN KUMAR K,ECE,Male,Assistant System Engineer,TCS,4
+1222,194G1A02B2,PRABHAVATHI V,EEE,Female,Assistant System Engineer,TCS,4
+1223,194G1A0351,MANU K V,MEC,Male,Assistant System Engineer,TCS,4
+1224,194G1A0387,SAMATHA P,MEC,Female,Assistant System Engineer,TCS,4
+1225,194G1A0391,SHIVANI L,MEC,Female,Assistant System Engineer,TCS,4
+1226,194G1A0554,MADHUSUDHAN REDDY L,CSE,Male,Assistant System Engineer,TCS,4
+1227,194G1A05B3,SUSMITHA C R G,CSE,Female,Assistant System Engineer,TCS,4
+1228,194G1A0482,SAI LIKHITHA K,ECE,Female,Assistant System Engineer,TCS,4
+1229,194G1A0252,LAYA Y,EEE,Female,Assistant System Engineer,TCS,4
+1230,194G1A0436,HYMAVATHI V,ECE,Female,Assistant System Engineer,TCS,4
+1231,204G5A0506,PRATHYUSHA C,CSE,Female,Assistant System Engineer,TCS,4
+1232,204G5A0509,SRAVANI K,CSE,Female,Assistant System Engineer,TCS,4
+1233,194G1A0555,MALLESH S,CSE,Male,Assistant System Engineer,TCS,4
+1234,194G1A0201,AFREED BABA K,EEE,Male,Technology Analyst,Invenics,5
+1235,194G1A0235,HARSHA VARDHAN P,EEE,Male,Technology Analyst,Invenics,5
+1236,194G1A0288,SAI NIKHIL V,EEE,Male,Technology Analyst,Invenics,5
+1237,194G1A0581,ROHINI M,CSE,Female,Technology Analyst,Invenics,5
+1238,194G1A05C1,VAMSI KRISHNA P,CSE,Male,Technology Analyst,Invenics,5
+1239,204G5A0208,PRATHUSHA K,EEE,Female,Technology Analyst,Invenics,5
+1240,204G5A0508,SHATAJ K,CSE,Female,Technology Analyst,Invenics,5
+1241,204G5A0512,SAI ESWAR GRANDHI,CSE,Male,Technology Analyst,Invenics,5
+1242,194G1A0479,SAI CHANDANA K,ECE,Female,Trainee Software Engineer,Lumen,8
+1243,194G1A0553,MADHUSUDHAN REDDY B,CSE,Male,Trainee Software Engineer,Lumen,8
+1244,194G1A0556,MANIDEEP V,CSE,Male,Trainee Software Engineer,Lumen,8
+1245,194G1A05B8,UDAYESHWAR V,CSE,Male,Trainee Software Engineer,Lumen,8
+1246,194G1A0178,SAI SHREYA N,CIV,Female,Trainee Analyst,Savantis,3
+1247,194G1A0191,SREYA M,CIV,Female,Trainee Analyst,Savantis,3
+1248,194G1A0199,UDAYASREE K,CIV,Female,Trainee Analyst,Savantis,3
+1249,194G1A0205,AYESHA SIDDIKA G,EEE,Female,Trainee Analyst,Savantis,3
+1250,194G1A0206,AYESHA TABASSUM B,EEE,Female,Trainee Analyst,Savantis,3
+1251,194G1A0208,BHARGAV REDDY A,EEE,Male,Trainee Analyst,Savantis,3
+1252,194G1A0212,BHOOMIKA REDDY M,EEE,Female,Trainee Analyst,Savantis,3
+1253,194G1A0219,CHANDU REDDY K,EEE,Female,Trainee Analyst,Savantis,3
+1254,194G1A0234,HARSHA VARDHAN M,EEE,Male,Trainee Analyst,Savantis,3
+1255,194G1A0272,PRATHYUSHA B,EEE,Female,Trainee Analyst,Savantis,3
+1256,194G1A0278,RIZWAN S,EEE,Male,Trainee Analyst,Savantis,3
+1257,194G1A0284,SAI CHARITH P,EEE,Male,Trainee Analyst,Savantis,3
+1258,194G1A0295,SATANANDA REDDY K,EEE,Male,Trainee Analyst,Savantis,3
+1259,194G1A02A1,SRAVANTHI S,EEE,Female,Trainee Analyst,Savantis,3
+1260,194G1A02A6,SUPRAJA M,EEE,Female,Trainee Analyst,Savantis,3
+1261,194G1A0314,BHARATH KUMAR REDDY L,MEC,Male,Trainee Analyst,Savantis,3
+1262,194G1A0331,HARSHAVARDHAN G,MEC,Male,Trainee Analyst,Savantis,3
+1263,194G1A0369,PRANEETH B,MEC,Male,Trainee Analyst,Savantis,3
+1264,194G1A0392,SIDDARTHA REDDY R,MEC,Male,Trainee Analyst,Savantis,3
+1265,194G1A03A9,VISHNU VARDHAN REDDY P,MEC,Male,Trainee Analyst,Savantis,3
+1266,194G1A0404,ARCHANA V,ECE,Female,Trainee Analyst,Savantis,3
+1267,194G1A0405,ASIYA T,ECE,Female,Trainee Analyst,Savantis,3
+1268,194G1A0411,CHANDANA PRIYA K,ECE,Female,Trainee Analyst,Savantis,3
+1269,194G1A0413,CHARISHMA M,ECE,Female,Trainee Analyst,Savantis,3
+1270,194G1A0414,DEEKSHITHA G,ECE,Female,Trainee Analyst,Savantis,3
+1271,194G1A0419,DIVYA SAI M,ECE,Female,Trainee Analyst,Savantis,3
+1272,194G1A0451,MEGHANA B (BEDUDHURI),ECE,Female,Trainee Analyst,Savantis,3
+1273,194G1A0460,NAIMISHA N,ECE,Female,Trainee Analyst,Savantis,3
+1274,194G1A0464,NIHARIKA D,ECE,Female,Trainee Analyst,Savantis,3
+1275,194G1A0468,PRAHARSHINI V,ECE,Female,Trainee Analyst,Savantis,3
+1276,194G1A0469,PRANEETH S,ECE,Male,Trainee Analyst,Savantis,3
+1277,194G1A0475,ROHINI T,ECE,Female,Trainee Analyst,Savantis,3
+1278,194G1A0483,SAI MANOJ C,ECE,Male,Trainee Analyst,Savantis,3
+1279,194G1A0498,SHRI LAASYA A,ECE,Female,Trainee Analyst,Savantis,3
+1280,194G1A04A0,SIRISHA S,ECE,Female,Trainee Analyst,Savantis,3
+1281,194G1A04A2,SRAVANI C,ECE,Female,Trainee Analyst,Savantis,3
+1282,194G1A04A8,SUPRIYA A,ECE,Female,Trainee Analyst,Savantis,3
+1283,194G1A04B1,TANUSHA LAKSHMI C,ECE,Female,Trainee Analyst,Savantis,3
+1284,194G1A04B6,VARSHA P,ECE,Female,Trainee Analyst,Savantis,3
+1285,194G1A0508,ARCHANA C,CSE,Female,Trainee Analyst,Savantis,3
+1286,194G1A0509,ARSHAD S,CSE,Male,Trainee Analyst,Savantis,3
+1287,194G1A0520,CHETHANA GOWD B,CSE,Female,Trainee Analyst,Savantis,3
+1288,194G1A0531,ESWAR VARMA P,CSE,Male,Trainee Analyst,Savantis,3
+1289,194G1A0544,KAMBAGIRI SWAMY P,CSE,Male,Trainee Analyst,Savantis,3
+1290,194G1A0545,KAVYA K,CSE,Female,Trainee Analyst,Savantis,3
+1291,194G1A0551,LIKHITHA C,CSE,Female,Trainee Analyst,Savantis,3
+1292,194G1A0552,MADHAVILATHA C G,CSE,Female,Trainee Analyst,Savantis,3
+1293,194G1A0566,NAVEEN KUMAR M,CSE,Male,Trainee Analyst,Savantis,3
+1294,194G1A0578,RAMYA C,CSE,Female,Trainee Analyst,Savantis,3
+1295,194G1A0580,RENUKA C,CSE,Female,Trainee Analyst,Savantis,3
+1296,194G1A0583,SAHITHI K,CSE,Female,Trainee Analyst,Savantis,3
+1297,194G1A0585,SAI KIRAN NAIK K,CSE,Male,Trainee Analyst,Savantis,3
+1298,194G1A0586,SAI PREETHI G,CSE,Female,Trainee Analyst,Savantis,3
+1299,194G1A0590,SAI SUPRAJA N,CSE,Female,Trainee Analyst,Savantis,3
+1300,194G1A05A5,SOWDHANYA K,CSE,Female,Trainee Analyst,Savantis,3
+1301,194G1A05B0,SRI CHANDANA N,CSE,Female,Trainee Analyst,Savantis,3
+1302,204G5A0215,SHASHANK B,EEE,Male,Trainee Analyst,Savantis,3
+1303,204G5A0216,SUBHANI SUHAIL S,EEE,Male,Trainee Analyst,Savantis,3
+1304,204G5A0302,ARUN KUMAR B,MEC,Male,Trainee Analyst,Savantis,3
+1305,204G5A0318,SAI TEJASWINI T,MEC,Female,Trainee Analyst,Savantis,3
+1306,204G5A0504,GIRIJA RANI M,CSE,Female,Trainee Analyst,Savantis,3
+1307,204G5A0216,SUBHANI SUHAIL S,EEE,Male,Graduate Engineer Trainee,Re Sustainability Ltd,4
+1308,194G1A0398,THIRUCHARAN E,MEC,Male,Graduate Engineer Trainee,Re Sustainability Ltd,4
+1309,204G5A0302,ARUN KUMAR B,MEC,Male,Graduate Engineer Trainee,Re Sustainability Ltd,4
+1310,204G5A0318,SAI TEJASWINI T,MEC,Female,Graduate Engineer Trainee,Re Sustainability Ltd,4
+1311,194G1A0169,PEDDA NARASIMHA P,CIV,Male,Graduate Engineer Trainee,Re Sustainability Ltd,4
+1312,204G5A0103,GANESH S,CIV,Male,Graduate Engineer Trainee,Re Sustainability Ltd,4
+1313,194G1A0477,RUKSANA K,ECE,Female,Analyst Trainee,Deloitte,5
+1314,194G1A0482,SAI LIKHITHA K,ECE,Female,Analyst Trainee,Deloitte,5
+1315,194G1A04C5,VISHNUVARDHAN REDDY N,ECE,Male,Analyst Trainee,Deloitte,5
+1316,194G1A0545,KAVYA K,CSE,Female,Analyst Trainee,Deloitte,5
+1317,194G1A0563,NAGA MOHAN REDDY K,CSE,Male,Analyst Trainee,Deloitte,5
+1318,194G1A0593,SAMPATH KUMAR REDDY T,CSE,Male,Analyst Trainee,Deloitte,5
+1319,194G1A05B1,SRUTHI Y,CSE,Female,Analyst Trainee,Deloitte,5
+1320,194G1A05B2,SUDHARSHAN REDDY D,CSE,Male,Analyst Trainee,Deloitte,5
+1321,204G5A0405,LIKHITHA V,ECE,Female,Analyst Trainee,Deloitte,5
+1322,194G1A0338,KARUNAKAR U,MEC,Male,Graduate Engineer Trainee,KIA,5
+1323,194G1A0314,BHARATH KUMAR REDDY L,MEC,Male,Graduate Engineer Trainee,KIA,5
+1324,194G1A0207,BHARATH KUMAR M,EEE,Male,Graduate Engineer Trainee,KIA,5
+1325,194G1A0278,RIZWAN S,EEE,Male,Graduate Engineer Trainee,KIA,5
+1326,194G1A0384,SAI PAVAN B,MEC,Male,Graduate Engineer Trainee,KIA,5
+1327,194G1A0367,PAVAN KUMAR REDDY D,MEC,Male,Graduate Engineer Trainee,KIA,5
+1328,194G1A0508,ARCHANA C,CSE,Female,Jr. Design Engineer,Cadsys,5
+1329,194G1A0542,KALYANI P (PATIL),CSE,Female,Jr. Design Engineer,Cadsys,4
+1330,194G1A0426,HARI SAI P,ECE,Male,Jr. Design Engineer,Cadsys,4
+1331,194G1A04B1,TANUSHA LAKSHMI C,ECE,Female,Jr. Design Engineer,Cadsys,4
+1332,194G1A04C7,VYSHNAVI K,ECE,Female,Jr. Design Engineer,Cadsys,4
+1333,194G1A04C2,VIJAY KUMAR K,ECE,Male,Jr. Design Engineer,Cadsys,4
+1334,194G1A0586,SAI PREETHI G,CSE,Female,Jr. Design Engineer,Cadsys,4
+1335,194G1A0311,BALAJI K,MEC,Male,Graduate Engineer Trainee,KIA,5
+1336,194G1A0322,FAYAZ K,MEC,Male,Graduate Engineer Trainee,KIA,5
+1337,194G1A0396,SREE LAKSHMI V,MEC,Female,Graduate Apprentice Trainee,Mahindra & Mahindra Ltd.,6
+1338,194G1A0427,HARINI K,ECE,Female,Graduate Apprentice Trainee,Mahindra & Mahindra Ltd.,6
+1339,194G1A0450,MEGHANA B (BATTA),ECE,Female,Graduate Apprentice Trainee,Mahindra & Mahindra Ltd.,6
+1340,194G1A0295,SATANANDA REDDY K,EEE,Male,Graduate Apprentice Trainee,Mahindra & Mahindra Ltd.,6
+1341,194G1A0509,ARSHAD S,CSE,Male,Intern Junior Developer,Arshil Digital Pvt Ltd.,4
+1342,194G1A0506,AKSHAYA N,CSE,Female,Associate System Engineer,IBM,5
+1343,194G1A0518,CHANDU MEGHANA A,CSE,Female,Associate System Engineer,IBM,5
+1344,194G1A0461,NAVEEN KUMAR M,ECE,Male,Graduate Trainee Engineer,Aarvee Associates,5
+1345,204G5A0325,YUVRAJ NAIK V,MEC,Male,Junior Engineer - PPC,Hyundai Steel,3
+1346,194G1A0108,CHIGICHERLA ASHOK KUMAR,CIV,Male,Tekla Engineer,Enlight CAD,2
+1347,194G1A0111,CHARMALA BHANU PRAKASH,CIV,Male,Tekla Engineer,Enlight CAD,2
+1348,194G1A0113,KRISTIPATI BHAVANI,CIV,Female,Tekla Engineer,Enlight CAD,2
+1349,194G1A0116,GAJULA CHIRANJEEVI,CIV,Male,Tekla Engineer,Enlight CAD,2
+1350,194G1A0120,D B DEENA KUMARI,CIV,Female,Tekla Engineer,Enlight CAD,2
+1351,194G1A0127,GANGARU HANUMAN,CIV,Male,Tekla Engineer,Enlight CAD,2
+1352,194G1A0145,GANDHAVEETI LAKSHMI,CIV,Female,Tekla Engineer,Enlight CAD,2
+1353,194G1A0160,ALUGU NAGARAJU,CIV,Male,Tekla Engineer,Enlight CAD,2
+1354,194G1A0161,MEKALA NAGASWETHA,CIV,Female,Tekla Engineer,Enlight CAD,2
+1355,194G1A0163,PALYAM NARENDRA,CIV,Male,Tekla Engineer,Enlight CAD,2
+1356,194G1A0168,PILLAGOVULA PAVANI,CIV,Female,Tekla Engineer,Enlight CAD,2
+1357,194G1A0169,PALLAPOTHULA PEDDA NARASIMHA,CIV,Male,Tekla Engineer,Enlight CAD,2
+1358,194G1A0190,YARRACHAGANTI SREENIVASA REDDY,CIV,Male,Tekla Engineer,Enlight CAD,2
+1359,194G1A0192,CHAKALI SUBASH VENKAT,CIV,Male,Tekla Engineer,Enlight CAD,2
+1360,194G1A01A6,CHINTA VYSHNAVI,CIV,Female,Tekla Engineer,Enlight CAD,2
+1361,204G5A0101,J T BHAGYAMMA,CIV,Female,Tekla Engineer,Enlight CAD,2
+1362,204G5A0102,PAYASAM BHARATH SIMHA REDDY,CIV,Male,Tekla Engineer,Enlight CAD,2
+1363,204G5A0103,SIRAGAMVANDLAPALLI GANESH,CIV,Male,Tekla Engineer,Enlight CAD,2
+1364,204G5A0104,NITTURU HARATHI,CIV,Female,Tekla Engineer,Enlight CAD,2
+1365,204G5A0105,MANDALA HARIKRISHNA,CIV,Male,Tekla Engineer,Enlight CAD,2
+1366,204G5A0107,BILLURI JASHWANTH,CIV,Male,Tekla Engineer,Enlight CAD,2
+1367,204G5A0108,RAYADURG JOIS ANILKUMAR POORNA PRAGNA,CIV,Male,Tekla Engineer,Enlight CAD,2
+1368,204G5A0111,CHERLA REVANTH KUMAR,CIV,Male,Tekla Engineer,Enlight CAD,2
+1369,204G5A0112,MALEPATI SANDEEP KUMAR REDDY,CIV,Male,Tekla Engineer,Enlight CAD,2
+1370,204G5A0114,CHAKALI KAMBAGIRI THARUN,CIV,Male,Tekla Engineer,Enlight CAD,2
+1371,204G5A0116,SADDALA YASWANTH RAJ,CIV,Male,Tekla Engineer,Enlight CAD,2
+1372,194G1A0317,DOKKA CHANDU,MEC,Male,Tekla Engineer,Enlight CAD,2
+1373,194G1A0324,GANTHIMARRI GANESH,MEC,Male,Tekla Engineer,Enlight CAD,2
+1374,194G1A0334,G HEMANTHA KESAV,MEC,Male,Tekla Engineer,Enlight CAD,2
+1375,194G1A0370,BESAI PRANEETH REDDY,MEC,Male,Tekla Engineer,Enlight CAD,2
+1376,194G1A0376,VADDE RAMANA,MEC,Male,Tekla Engineer,Enlight CAD,2
+1377,194G1A0383,KARANAM RAMESH GARI SAI NANJUNDESWARA,MEC,Male,Tekla Engineer,Enlight CAD,2
+1378,194G1A03A1,CHARUGUNDLA VASU,MEC,Male,Tekla Engineer,Enlight CAD,2
+1379,204G5A0303,MUKTHAPURAM HARIKA,MEC,Female,Tekla Engineer,Enlight CAD,2
+1380,204G5A0306,THOTHUGA JAGADEESH,MEC,Male,Tekla Engineer,Enlight CAD,2
+1381,204G5A0314,ERUKULA PRUDVIRAJ,MEC,Male,Tekla Engineer,Enlight CAD,2
+1382,204G5A0315,ANGADI RAHAMTHULLA,MEC,Male,Tekla Engineer,Enlight CAD,2
+1383,204G5A0318,TABJULA SAI TEJASWINI,MEC,Female,Tekla Engineer,Enlight CAD,2
+1384,204G5A0320,SYED SHAHIR,MEC,Male,Tekla Engineer,Enlight CAD,2
+1385,204G5A0322,VADDI VASANTH KUMAR,MEC,Male,Tekla Engineer,Enlight CAD,2
+1386,194G1A0122,DHARANI J,CIV,Female,Engineer Trainee,Steel Cube Engineering,3
+1387,194G1A0139,JYOSHNA Y,CIV,Female,Engineer Trainee,Steel Cube Engineering,3
+1388,194G1A0185,SARAH AREEN S,CIV,Female,Engineer Trainee,Steel Cube Engineering,3
+1389,194G1A01B0,YASWANTH KUMAR M K,CIV,Male,Engineer Trainee,Steel Cube Engineering,3
+1390,204G5A0101,BHAGYAMMA J T,CIV,Female,Engineer Trainee,Steel Cube Engineering,3
+1391,204G5A0104,HARATHI N,CIV,Female,Engineer Trainee,Steel Cube Engineering,3
+1392,194G1A0308,ARAVIND RAJ G,MEC,Male,Engineer Trainee,Steel Cube Engineering,3
+1393,194G1A0343,MAHABOOB BASHA P,MEC,Male,Engineer Trainee,Steel Cube Engineering,3
+1394,194G1A0368,PRADEEP V,MEC,Male,Engineer Trainee,Steel Cube Engineering,3
+1395,204G5A0323,VIGNA RAJA REDDY V,MEC,Male,Engineer Trainee,Steel Cube Engineering,3
+1396,194G1A0347,MANIKANTA REDDY M,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1397,194G1A0341,LOKESH S,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1398,194G1A0319,CHARAN TEJ P,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1399,194G1A0344,MAHABOOB BASHA S,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1400,194G1A0305,AMARNATH V J,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1401,194G1A0342,MADHUSUDHAN A,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1402,194G1A0365,NITHIN BRAMHA REDDY V,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1403,194G1A0317,CHANDU D,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1404,194G1A0321,DHANALAKSHMI K,MEC,Female,Graduate Engineer Trainee,NVH India,2
+1405,194G1A0335,HIMAVANTH KUMAR K,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1406,204G5A0303,HARIKA M,MEC,Female,Graduate Engineer Trainee,NVH India,2
+1407,194G1A0359,NAGESH REDDY T,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1408,204G5A0312,MOHAMMED TOUSEEF S,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1409,194G1A0304,AKHIL G,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1410,194G1A0308,ARAVIND RAJ G,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1411,194G1A03A6,VINAY KUMAR REDDY R,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1412,194G1A0366,NOOR BASHA D,MEC,Male,Graduate Engineer Trainee,NVH India,2
+1413,194G1A0160,NAGARAJU A,CIV,Male,Graduate Engineer Trainee,Galacon Infra,2
+1414,194G1A0192,SUBASH VENKAT C,CIV,Male,Graduate Engineer Trainee,Galacon Infra,2
+1415,204G5A0114,THARUN C K,CIV,Male,Graduate Engineer Trainee,Galacon Infra,2
+1416,194G1A01A0,UMAR FAROOQ A,CIV,Male,Graduate Engineer Trainee,Galacon Infra,2
+1417,204G5A0116,YASWANTH RAJ S,CIV,Male,Graduate Engineer Trainee,Galacon Infra,2
+1418,194G1A0334,HEMANTA KESAVA G,MEC,Male,Graduate Engineer Trainee,KIA ,5
+1419,204G5A0502,CHANDRA MOHAN P,CSE,Male,Software Engineer,Trigent,4
+1420,194G1A0220,CHARAN G,EEE,Male,Executive Trainee,ESAF Small Finance bank,3
+1421,194G1A0511,AYESHA MINAZ S,CSE,Female,Engineer Trainee - Networking,Movate,4
+1422,194G1A0418,DIVYA R,ECE,Female,Trainee - INCS,Movate,2
+1423,194G1A0429,HARSHITHA E,ECE,Female,Trainee - INCS,Movate,2
+1424,194G1A0479,SAI CHANDANA K,ECE,Female,Trainee - INCS,Movate,2
+1425,194G1A04C0,VENKATA SREEHITHA K,ECE,Female,Trainee - INCS,Movate,2
+1426,194G1A05B9,UMAISA ANJUM J,CSE,Female,Trainee - INCS,Movate,2
+1427,194G1A0222,CHINMAYEE P J,EEE,Female,Trainee - INCS,Movate,2
+1428,204G5A0204,BHAVYA SREE N,EEE,Female,Trainee - INCS,Movate,2
+1429,194G1A02A6,SUPRAJA M,EEE,Female,Graduate Engineer Trainee,ArcelorMittal Nippon Steel India,6
+1430,194G1A05B0,SRI CHANDANA N,CSE,Female,Associate Technical Engineer,Kyndril,6
+1431,194G1A05C3,VENU J,CSE,Male,Software Development Engineer,Cloud Collab Technologies Pvt. Ltd,4
+1432,194G1A0172,RAVI KUMAR M,CIV,Male,Trainee Test Analyst,Strategic Research Insights LLP,4
+1433,194G1A0232,GOVARDHINI SV,EEE,Female,Trainee Test Analyst,Strategic Research Insights LLP,4
+1434,194G1A0446,MAHAMMAD AKBAR FAZAL G,ECE,Male,Trainee Programmer Analyst,Strategic Research Insights LLP,4
+1435,194G1A04A4,SRUJANA Y,ECE,Female,Trainee Programmer Analyst,Strategic Research Insights LLP,4
+1436,194G1A0599,SHAHEEN TAJ S,CSE,Female,Trainee Programmer Analyst,Strategic Research Insights LLP,4
+1437,194G1A0460,NAIMISHA N,ECE,Female,Test Engineer,Sapiens Technologies,6
+1438,194G1A0220,CHARAN G,EEE,Male,Associate Engineer,Cloud Kinetics,4
+1439,194G1A0566,NAVEEN KUMAR M,CSE,Male,Associate Engineer,Cloud Kinetics,4
+1440,194G1A02A5,SUJITHA A,EEE,Female,Associate Software Engineer,Test Yantra Software Solutions,3
+1441,194G1A0144,KISHORE D,CIV,Male,Business Development Intern,Skillhacc,6
+1442,194G1A02B1,UMADEVI D,EEE,Female,Business Development Intern,Skillhacc,6
+1443,194G1A0382,SAI KUMAR B,MEC,Male,Business Development Intern,Skillhacc,6
+1444,204G5A0206,INDRASENA REDDY B,EEE,Male,Business Development Intern,Skillhacc,6
+1445,204G5A0314,PRUDVIRAJ E,MEC,Male,Business Development Intern,Skillhacc,6
+1446,204G5A0325,YUVRAJ NAIK V,MEC,Male,Business Development Intern,Skillhacc,6
+1447,204G5A0312,MOHAMMED TOUSEEF S,MEC,Male,Business Development Intern,Skillhacc,6
+1448,204G5A0504,GIRIJA RANI M,CSE,Female,Business Development Intern,Skillhacc,6
+1449,204G5A0302,ARUN KUMAR B,MEC,Male,Business Development Intern,Skillhacc,6
+1450,194G1A0438,JASWANTH G C,ECE,Male,Business Development Intern,Skillhacc,6
+1451,194G1A0462,NAVYA DEEPIKA S,ECE,Female,Software Engineer,Velankani Electronics Pvt Ltd,3
+1452,194G1A0279,ROHITHA G,EEE,Female,Packaged App Development Associate,Accenture,5
+1453,194G1A0418,DIVYA D,ECE,Female,Packaged App Development Associate,Accenture,5
+1454,194G1A0527,DINSH G,CSE,Male,Software Development Engineer,Cloud Collab Technologies Pvt. Ltd,4
+1455,194G1A0304,AKHIL G,MEC,Male,Graduate Engineer Trainee,Hyundai Transys,4
+1456,204G5A0302,ARUN KUMAR B,MEC,Male,Graduate Engineer Trainee,Hyundai Transys,4
+1457,194G1A0461,NAVEEN KUMAR M,ECE,Male,Software Trainee,Craft Silicon,4
+1458,194G1A0579,RAVITEJA REDDY R,CSE,Male,Associate Software Engineer,Accenture,5
+1459,194G1A0531,ESWAR VARMA P,CSE,Male,Associate Software Engineer,Accenture,5
+1460,204G5A0412,SANDHYA M,ECE,Female,Associate Software Engineer,Accenture,5
+1461,194G1A0159,MOUNIKA S,CIV,Female,Associate Software Engineer,Accenture,5
+1462,194G1A0289,SAI TEJA M,EEE,Female,Supervisor,Britannia,4
+1463,194G1A0252,LAYA M,EEE,Female,Associate Software Engineer,Accenture,5
+1464,194G1A0373,RAGHUVEERA REDDY S,MEC,Male,Graduate Engineer Trainee,KIA ,5
+1465,194G1A0291,SAJID HUSSAIN S,EEE,Male,Software Developer,Marolix TechnologySolutions Pvt. Ltd.,5
+1466,184G1A0501,AJITH D,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1467,184G1A0502,ANKITHA P,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1468,184G1A0510,BHUVANA B,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1469,184G1A0512,CHANDRIKA D,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1470,184G1A0514,DIVYA D,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1471,184G1A0516,DRAKSHAYINI B,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1472,184G1A0517,GNANA DEEPIKA S R G,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1473,184G1A0522,HARSHITHA A,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1474,184G1A0523,HEMA SREE G,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1475,184G1A0525,KATHI JATUL KUBRA S,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1476,184G1A0529,KEERTHANA K,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1477,184G1A0533,LAKSHMI MANASA G,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1478,184G1A0534,LATHASRI K,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1479,184G1A0536,LAXMI M,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1480,184G1A0537,LOKESH B,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1481,184G1A0540,MALLIKA C,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1482,184G1A0541,MANASA P,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1483,184G1A0543,MANISH RANJAN,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1484,184G1A0546,MEGHARAJU M,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1485,184G1A0547,MINISHA Y,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1486,184G1A0548,MOMEENA S,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1487,184G1A0550,MUHAMMAD JUNAID S,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1488,184G1A0553,NAVEEN KUMAR P,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1489,184G1A0556,PAVITHRA C,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1490,184G1A0559,PRATHIBHA A,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1491,184G1A0565,REVATHI REDDY N,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1492,184G1A0566,RUCHITHA K,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1493,184G1A0569,RUPESWARA REDDY P,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1494,184G1A0573,SAI JYOSHNA B,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1495,184G1A0576,SAI PALLAVI S,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1496,184G1A0577,SAI SREEKANTH B,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1497,184G1A0579,SAI SUSHMA B,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1498,184G1A0581,SAI THEJA R G,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1499,184G1A0584,SANTHOSHI R S,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1500,184G1A0585,SHAHUL T,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1501,184G1A0590,SIVA KALYANI Y,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1502,184G1A0597,SUBAHAN ALI KHAN P,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1503,184G1A0598,SUCHITHA P,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1504,184G1A0599,SUDHARSHINI M,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1505,184G1A05A1,SUMANA BAI K,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1506,184G1A05A5,THRIPURA V,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1507,184G1A05A7,UMME HONEY S,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1508,184G1A05A8,VARSHA D,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1509,184G1A05B1,VENKATESH V,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1510,184G1A05B4,VINAY J,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1511,184G1A05B5,KRISHNA SAMPADA A,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1512,184G1A05B6,AFRAH S,CSE,Female,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1513,194G5A0509,TEJDEEP REDDY K,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1514,194G5A0511,VENKATA PRASAD REDDY B,CSE,Male,Software Engineer - Sr. Officer,DBS Asia Hub 2 Pvt Ltd,9
+1515,194G5A0508,TEJA C,CSE,Male,Associate Software Engineer,Synamedia,8
+1516,184G1A0417,DHARMESH P,ECE,Male,Associate Technical Consultant,Synamedia,8
+1517,184G1A0529,KEERTHANA K,CSE,Female,System Engineer,TCS,7
+1518,184G1A0550,MUHAMMAD JUNAID S,CSE,Male,System Engineer,TCS,7
+1519,184G1A0413,CHAITRA P,ECE,Female,System Engineer,TCS,7
+1520,194G5A0408,SRAVAN KUMAR P,ECE,Male,System Engineer,TCS,7
+1521,184G1A0543,MANISH RANJAN,CSE,Male,Programmer Analyst,Cognizant,7
+1522,184G1A05B4,VINAY J,CSE,Male,Programmer Analyst,Cognizant,7
+1523,184G1A0438,LOKESHWAR K,ECE,Male,Programmer Analyst,Cognizant,7
+1524,184G1A0445,MEGHANA U,ECE,Female,Programmer Analyst,Cognizant,7
+1525,184G1A0501,AJITH D,CSE,Female,Associate Engineer,Infor,7
+1526,184G1A0507,BHAVYA SREE A,CSE,Female,Associate Engineer,Infor,7
+1527,184G1A0516,DRAKSHAYINI B,CSE,Female,Associate Engineer,Infor,7
+1528,184G1A0540,MALLIKA C,CSE,Female,Associate Engineer,Infor,7
+1529,184G1A0542,MANISH KUMAR R,CSE,Male,Associate Engineer,Infor,7
+1530,184G1A0586,SHIRISHA K,CSE,Female,Associate Engineer,Infor,7
+1531,184G1A0401,AFREEN S,ECE,Female,Associate Engineer,Infor,7
+1532,184G1A0418,DIVYA SREE N,ECE,Female,Associate Engineer,Infor,7
+1533,184G1A0437,LOKESH C B,ECE,Male,Associate Engineer,Infor,7
+1534,184G1A0476,RAJESH A,ECE,Male,Associate Engineer,Infor,7
+1535,184G1A0418,DIVYA SREE N,ECE,Female,Junior System Engineer,EPAM Systems,6
+1536,194G5A0212,SAI CHARAN REDDY R,EEE,Male,Quality Control Engineer,AstraZeneca,6
+1537,184G1A0328,LOKESH KUMAR REDDY G,MEC,Male,Graduate Engineer Trainee,NPCI,6
+1538,184G1A0514,DIVYA D,CSE,Female,Software Engineer,HCL,6
+1539,184G1A0529,KEERTHANA K,CSE,Female,Software Engineer,Accolite Digital Ind Pvt. Ltd,5
+1540,184G1A0597,SUBAHAN ALI KHAN P,CSE,Male,Premier Graduate Engineer Trainee,Hexaware Technologies,5
+1541,184G1A05B4,VINAY J,CSE,Male,Premier Graduate Engineer Trainee,Hexaware Technologies,5
+1542,184G1A0556,PAVITHRA C,CSE,Female,Associate Engineer,Hitachi Vantara,5
+1543,184G1A0507,BHAVYA SREE A,CSE,Female,Digital Specialist Engineer,Infosys (InfyTQ),5
+1544,184G1A0536,LAXMI M,CSE,Female,Digital Specialist Engineer,Infosys (InfyTQ),5
+1545,184G1A0543,MANISH RANJAN,CSE,Male,Digital Specialist Engineer,Infosys (InfyTQ),5
+1546,184G1A0502,ANKITHA P,CSE,Female,Programmer Trainee Analyst,Cognizant,5
+1547,184G1A0509,BHAVYA V,CSE,Female,Programmer Trainee Analyst,Cognizant,5
+1548,184G1A0517,GNANA DEEPIKA S R G,CSE,Female,Programmer Trainee Analyst,Cognizant,5
+1549,184G1A0529,KEERTHANA K,CSE,Female,Programmer Trainee Analyst,Cognizant,5
+1550,184G1A0541,MANASA P,CSE,Female,Programmer Trainee Analyst,Cognizant,5
+1551,184G1A0548,MOMEENA S,CSE,Female,Programmer Trainee Analyst,Cognizant,5
+1552,184G1A0550,MUHAMMAD JUNAID S,CSE,Male,Programmer Trainee Analyst,Cognizant,5
+1553,184G1A0556,PAVITHRA C,CSE,Female,Programmer Trainee Analyst,Cognizant,5
+1554,184G1A0577,SAI SREEKANTH B,CSE,Male,Programmer Trainee Analyst,Cognizant,5
+1555,184G1A0581,SAI THEJA R G,CSE,Female,Programmer Trainee Analyst,Cognizant,5
+1556,184G1A0582,SAIF SADIQ S,CSE,Male,Programmer Trainee Analyst,Cognizant,5
+1557,184G1A0585,SHAHUL T,CSE,Female,Programmer Trainee Analyst,Cognizant,5
+1558,184G1A05B1,VENKATESH V,CSE,Male,Programmer Trainee Analyst,Cognizant,5
+1559,184G1A05B6,AFRAH S,CSE,Female,Programmer Trainee Analyst,Cognizant,5
+1560,184G1A0401,AFREEN S,ECE,Female,Programmer Trainee Analyst,Cognizant,5
+1561,184G1A0417,DHARMESH P,ECE,Male,Programmer Trainee Analyst,Cognizant,5
+1562,184G1A04B0,VAMSI K,ECE,Male,Programmer Trainee Analyst,Cognizant,5
+1563,184G1A04B7,YASWANTH KUMAR V,ECE,Male,Programmer Trainee Analyst,Cognizant,5
+1564,184G1A0510,BHUVANA B,CSE,Female,Software Engineer,HCL,5
+1565,184G1A0528,JYOTHIRMAI T,CSE,Female,Software Engineer,HCL,5
+1566,184G1A0598,SUSHITHA P,CSE,Female,Software Engineer,HCL,5
+1567,184G1A05A4,TASNEEM S,CSE,Female,Software Engineer,HCL,5
+1568,184G1A05A7,UMME HONEY S,CSE,Female,Software Engineer,HCL,5
+1569,184G1A0408,BHANU PRIYA J,ECE,Female,Software Engineer,HCL,5
+1570,184G1A0418,DIVYA SREE N,ECE,Female,Software Engineer,HCL,5
+1571,184G1A0427,HARSHA VARDHAN K,ECE,Male,Software Engineer,HCL,5
+1572,184G1A0462,PARTHASARATHY K,ECE,Male,Software Engineer,HCL,5
+1573,184G1A0474,RAFIYA BEGUM M,ECE,Female,Software Engineer,HCL,5
+1574,184G1A04A6,SURESH M E,ECE,Male,Software Engineer,HCL,5
+1575,184G1A0213,CHANDRIKA K,EEE,Female,Software Engineer,HCL,5
+1576,184G1A0233,KAVYA B,EEE,Female,Software Engineer,HCL,5
+1577,184G1A0502,ANKITHA P,CSE,F,Associate System Engineer,IBM,5
+1578,184G1A0507,BHAVYA SREE A,CSE,F,Associate System Engineer,IBM,5
+1579,184G1A0509,BHAVYA V,CSE,F,Associate System Engineer,IBM,5
+1580,184G1A0514,DIVYA D,CSE,Female,Associate System Engineer,IBM,5
+1581,184G1A0525,KATHI JATUL KUBRA S,CSE,Female,Associate System Engineer,IBM,5
+1582,184G1A0534,LATHASRI K,CSE,F,Associate System Engineer,IBM,5
+1583,184G1A0535,LAVANYA J,CSE,F,Associate System Engineer,IBM,5
+1584,184G1A0540,MALLIKA C,CSE,F,Associate System Engineer,IBM,5
+1585,184G1A0545,MEGHANA C,CSE,Female,Associate System Engineer,IBM,5
+1586,184G1A0558,PRANATHI R,CSE,Female,Associate System Engineer,IBM,5
+1587,184G1A0559,PRATHIBHA A,CSE,F,Associate System Engineer,IBM,5
+1588,184G1A0563,RAMYA SAI E,CSE,F,Associate System Engineer,IBM,5
+1589,184G1A0565,REVATHI REDDY N,CSE,Female,Associate System Engineer,IBM,5
+1590,184G1A0584,SANTHOSHI R S,CSE,Female,Associate System Engineer,IBM,5
+1591,184G1A0588,SHREYA K,CSE,F,Associate System Engineer,IBM,5
+1592,184G1A05A1,SUMANA BAI K,CSE,Female,Associate System Engineer,IBM,5
+1593,184G1A05A4,TASNEEM S,CSE,F,Associate System Engineer,IBM,5
+1594,184G1A05A7,UMME HONEY S,CSE,Female,Associate System Engineer,IBM,5
+1595,184G1A05B3,VYSHNAVI T,CSE,F,Associate System Engineer,IBM,5
+1596,184G1A0401,AFREEN S,ECE,Female,Associate System Engineer,IBM,5
+1597,184G1A0418,DIVYA SREE N,ECE,Female,Associate System Engineer,IBM,5
+1598,184G1A0423,GEETHIKA REDDY P,ECE,F,Associate System Engineer,IBM,5
+1599,184G1A0445,MEGHANA U,ECE,F,Associate System Engineer,IBM,5
+1600,184G1A0450,MOUNIKA SAI M,ECE,Female,Associate System Engineer,IBM,5
+1601,184G1A0465,PAVITRA A,ECE,F,Associate System Engineer,IBM,5
+1602,184G1A0470,PRAVEENA T,ECE,F,Associate System Engineer,IBM,5
+1603,184G1A0473,RACHANA B,ECE,F,Associate System Engineer,IBM,5
+1604,184G1A0499,SHREYA C,ECE,Female,Associate System Engineer,IBM,5
+1605,184G1A04A0,SINDHUJA E,ECE,Female,Associate System Engineer,IBM,5
+1606,184G1A04B2,VAMSI PRIYA P,ECE,F,Associate System Engineer,IBM,5
+1607,184G1A04B9,YOSHITHA K,ECE,Female,Associate System Engineer,IBM,5
+1608,194G5A0411,TULASI K,ECE,Female,Associate System Engineer,IBM,5
+1609,194G5A0412,VIDYADHARI P,ECE,F,Associate System Engineer,IBM,5
+1610,184G1A0241,LIKHITA M,EEE,F,Associate System Engineer,IBM,5
+1611,184G1A0272,RENUKA V,EEE,F,Associate System Engineer,IBM,5
+1612,184G1A0278,SHALU R,EEE,F,Associate System Engineer,IBM,5
+1613,184G1A0475,RAGHAVA A,ECE,Male,Graduate Engineer Trainee,LTI,5
+1614,184G1A0190,YAGNA SREE C,CIV,Female,Analyst,Capgemini,4
+1615,184G1A0507,BHAVYA SREE A,CSE,Female,Analyst,Capgemini,4
+1616,184G1A0512,CHANDRIKA D,CSE,Female,Analyst,Capgemini,4
+1617,184G1A0532,LAKSHMI JYOSHNA M,CSE,Female,Analyst,Capgemini,4
+1618,184G1A0535,LAVANYA J,CSE,Female,Analyst,Capgemini,4
+1619,184G1A0574,SAI LAHARI K,CSE,Female,Analyst,Capgemini,4
+1620,184G1A0575,SAI NAGA MOUNIKA E,CSE,Female,Analyst,Capgemini,4
+1621,184G1A0576,SAI PALLAVI S,CSE,Female,Analyst,Capgemini,4
+1622,184G1A05A9,VEENA T,CSE,Female,Analyst,Capgemini,4
+1623,194G5A0512,YASWANTH KUMAR K,CSE,Male,Analyst,Capgemini,4
+1624,184G1A0403,AKHILA K,ECE,Female,Analyst,Capgemini,4
+1625,184G1A0405,ASHWINI D,ECE,Female,Analyst,Capgemini,4
+1626,184G1A0414,CHINNA ANJINEYULU M,ECE,Male,Analyst,Capgemini,4
+1627,184G1A0433,KAVITHA M,ECE,Female,Analyst,Capgemini,4
+1628,184G1A0453,NAGESH Y,ECE,Male,Analyst,Capgemini,4
+1629,184G1A0456,NEELIMA S,ECE,Female,Analyst,Capgemini,4
+1630,184G1A0474,RAFIYA BEGUM M,ECE,Female,Analyst,Capgemini,4
+1631,184G1A0481,SADIYA BANU R B,ECE,Female,Analyst,Capgemini,4
+1632,184G1A04A0,SINDHUJA E,ECE,Female,Analyst,Capgemini,4
+1633,184G1A04B4,VINATHI K,ECE,Female,Analyst,Capgemini,4
+1634,184G1A04B9,YOSHITHA K,ECE,Female,Analyst,Capgemini,4
+1635,194G5A0411,TULASI K,ECE,Female,Analyst,Capgemini,4
+1636,194G5A0412,VIDYADHARI P,ECE,Female,Analyst,Capgemini,4
+1637,184G1A0208,AYESHA SIDDIQUA,EEE,Female,Analyst,Capgemini,4
+1638,184G1A0232,KARUNA SAMUEL N,EEE,Male,Analyst,Capgemini,4
+1639,184G1A0233,KAVYA B,EEE,Female,Analyst,Capgemini,4
+1640,184G1A0238,KONDANNA G,EEE,Male,Analyst,Capgemini,4
+1641,184G1A0245,MADHURI LAKSHMI P,EEE,Female,Analyst,Capgemini,4
+1642,184G1A0250,MANASA Y,EEE,Female,Analyst,Capgemini,4
+1643,184G1A0275,SAILATHA M,EEE,Female,Analyst,Capgemini,4
+1644,184G1A0277,SHAHID D,EEE,Male,Analyst,Capgemini,4
+1645,184G1A0286,SRAVANI N,EEE,Female,Analyst,Capgemini,4
+1646,184G1A0288,SREENIDHI K,EEE,Female,Analyst,Capgemini,4
+1647,194G5A0224,USHA BHARGAVI R,EEE,Female,Analyst,Capgemini,4
+1648,184G1A0317,RAMAKANTH HARINI,MEC,Male,Analyst,Capgemini,4
+1649,184G1A0343,ISHWARYS SN,MEC,Female,Analyst,Capgemini,4
+1650,184G1A0349,NUTHAN NARAYANA S,MEC,Male,Analyst,Capgemini,4
+1651,184G1A0351,PAVAN KUMAR C,MEC,Male,Analyst,Capgemini,4
+1652,194G5A0323,SAI VAMSI K,MEC,Male,Analyst,Capgemini,4
+1653,184G1A0103,AKHIL BALAJI K,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1654,184G1A0108,CHAITANYA S,CIV,Female,Programmer Trainee Analyst,Cognizant,4
+1655,184G1A0110,CHANDU K,CIV,Female,Programmer Trainee Analyst,Cognizant,4
+1656,184G1A0124,KARTHIKEYA REDDY A,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1657,184G1A0147,NIKHIL SAI Y,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1658,184G1A0149,PAVAN KUMAR R,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1659,184G1A0153,PRAVEEN KUMAR G,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1660,184G1A0159,RAMEEJA M,CIV,Female,Programmer Trainee Analyst,Cognizant,4
+1661,184G1A0160,RAMESH M,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1662,184G1A0162,SAHITHI D,CIV,Female,Programmer Trainee Analyst,Cognizant,4
+1663,184G1A0169,SIMRAN G,CIV,Female,Programmer Trainee Analyst,Cognizant,4
+1664,184G1A0176,SRI SHAKTHI G L,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1665,184G1A0177,SRUJANA REDDY K,CIV,Female,Programmer Trainee Analyst,Cognizant,4
+1666,184G1A0181,SWETHA T,CIV,Female,Programmer Trainee Analyst,Cognizant,4
+1667,184G1A0190,YAGNA SREE C,CIV,Female,Programmer Trainee Analyst,Cognizant,4
+1668,194G5A0101,AKHIL P,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1669,194G5A0103,ASIF RAJA M,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1670,194G5A0107,HARSHA VARDHAN G,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1671,194G5A0125,SHALUDDIN S M,CIV,Male,Programmer Trainee Analyst,Cognizant,4
+1672,184G1A0501,AJITH D,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1673,184G1A0505,BHARGAVI R,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1674,184G1A0506,BHAVITHA T N,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1675,184G1A0508,BHAVYA SRI P,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1676,184G1A0514,DIVYA D,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1677,184G1A0515,DIVYA S,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1678,184G1A0521,HARIKRISHNA B,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1679,184G1A0522,HARSHITHA A,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1680,184G1A0527,JYOTHI A,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1681,184G1A0528,JYOTHIRMAI T,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1682,184G1A0530,KEERTHI N,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1683,184G1A0531,KOMALA M,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1684,184G1A0534,LATHASRI K,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1685,184G1A0540,MALLIKA C,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1686,184G1A0545,MEGHANA C,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1687,184G1A0546,MEGHARAJU M,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1688,184G1A0554,NAVYA DEEPTHI T,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1689,184G1A0555,PADMINI B,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1690,184G1A0560,PUSHPALATHA B,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1691,184G1A0563,RAMYA SAI E,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1692,184G1A0564,RAVI TEJA M,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1693,184G1A0565,REVATHI REDDY N,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1694,184G1A0567,RUPA G,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1695,184G1A0569,RUPESWARA REDDY P,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1696,184G1A0574,SAI LAHARI K,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1697,184G1A0575,SAI NAGA MOUNIKA E,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1698,184G1A0580,SAI TEJASWINI M,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1699,184G1A0589,SIREESHA M,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1700,184G1A0590,SIVA KALYANI Y,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1701,184G1A05A5,THRIPURA V,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1702,184G1A05A7,UMME HONEY S,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1703,184G1A05B0,VENKATA SREE DEVI P,CSE,Female,Programmer Trainee Analyst,Cognizant,4
+1704,194G5A0510,VENKATA NARESH D,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1705,194G5A0511,VENKATA PRASAD REDDY B,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1706,194G5A0512,YASWANTH KUMAR K,CSE,Male,Programmer Trainee Analyst,Cognizant,4
+1707,164G1A04A8,USAMA TABISH M,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1708,174G1A0428,IRFAN KHAN B,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1709,184G1A0403,AKHILA K,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1710,184G1A0408,BHANU PRIYA J,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1711,184G1A0409,BHARATH RAJ K,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1712,184G1A0411,BHAVYA SREE A,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1713,184G1A0412,CHAITANYA S,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1714,184G1A0413,CHAITRA P,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1715,184G1A0415,DARSHANA P,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1716,184G1A0416,DAYA PRAKASH G C,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1717,184G1A0418,DIVYA SREE N,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1718,184G1A0422,GAGANASRI M,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1719,184G1A0423,GEETHIKA REDDY P,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1720,184G1A0425,HANISHA M N,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1721,184G1A0428,HARSHITHA K,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1722,184G1A0429,HEMANTH KUMAR M,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1723,184G1A0437,LOKESH C B,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1724,184G1A0443,MANSOOR M,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1725,184G1A0447,MOHAMMAD SADIQ P,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1726,184G1A0449,MOHAMMED SUHAIL K,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1727,184G1A0450,MOUNIKA SAI M,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1728,184G1A0451,NAGA LAHARI Y,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1729,184G1A0455,NAVEEN T,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1730,184G1A0459,NIVEDITHA Y,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1731,184G1A0461,NOOR MOHAMMAD D,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1732,184G1A0464,PAVANI S,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1733,184G1A0465,PAVITRA A,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1734,184G1A0467,PRANATHI L,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1735,184G1A0468,PRATHYUSHA K,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1736,184G1A0470,PRAVEENA T,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1737,184G1A0472,PRUTHVI K,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1738,184G1A0482,SAI ABHIJITH M P,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1739,184G1A0483,SAI DEEPTHI S,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1740,184G1A0485,SAI MADHURIMA K,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1741,184G1A0486,SAI MEGHANA B,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1742,184G1A0488,SAI MYTHRI C,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1743,184G1A0489,SAI TEJDEEP K,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1744,184G1A0491,SAMEENA M,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1745,184G1A0492,SANDEEP B,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1746,184G1A0495,SHAIK SANIA G,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1747,184G1A0499,SHREYA C,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1748,184G1A04A2,SREEKANTH REDDY J,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1749,184G1A04A5,SUCHARITHA D C,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1750,184G1A04A7,SWETHA REDDY G,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1751,184G1A04B2,VAMSI PRIYA P,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1752,184G1A04B4,VINATHI K,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1753,184G1A04B8,YASWANTHI P E,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1754,194G5A0403,CHAITANYA B,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1755,194G5A0405,RAJIYA D,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1756,194G5A0406,SABHIHA TAJ S,ECE,Female,Programmer Trainee Analyst,Cognizant,4
+1757,194G5A0407,SAJID BASHA D,ECE,Male,Programmer Trainee Analyst,Cognizant,4
+1758,184G1A0203,AJAY KUMAR REDDY K,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1759,184G1A0211,CHANDRAKANTH K,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1760,184G1A0214,DHEEKSHITHA K,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1761,184G1A0218,HANUMANTH REDDY E,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1762,184G1A0220,HARINI Y,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1763,184G1A0224,JASMINE M,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1764,184G1A0227,JUNAID YASEEN G,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1765,184G1A0228,JYOSHNA A,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1766,184G1A0232,KARUNA SAMUEL N,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1767,184G1A0239,LAVANYA K,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1768,184G1A0241,LIKHITA M,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1769,184G1A0242,LIKHITHA S,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1770,184G1A0244,MADHURI G,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1771,184G1A0249,MANASA L,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1772,184G1A0250,MANASA Y,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1773,184G1A0255,NAVYA SREE K,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1774,184G1A0265,PRAVEENA S,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1775,184G1A0275,SAILATHA M,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1776,184G1A0278,SHALU R,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1777,184G1A0280,SIVA GOWTHAM C,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1778,184G1A0289,SREENIVASULU S,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1779,184G1A0292,SUDHEER CHANDRA M,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1780,184G1A0293,SUMASRI M,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1781,184G1A0295,SUSHMA V,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1782,184G1A0296,TEJASWINI V,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1783,184G1A0299,VENKATESH V,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1784,184G1A02A2,VYSHNAVI K,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1785,194G5A0203,CHARANYA P,EEE,Female,Programmer Trainee Analyst,Cognizant,4
+1786,194G5A0205,GANESH G,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1787,194G5A0209,MATHLOOB AHMED BASHA S,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1788,194G5A0226,VINAY KUMAR P,EEE,Male,Programmer Trainee Analyst,Cognizant,4
+1789,184G1A0303,ARYANUMESH T,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1790,184G1A0305,BALAJI B,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1791,184G1A0306,BALAJI M,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1792,184G1A0309,CHINNA B,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1793,184G1A0313,FARZANA D,MEC,Female,Programmer Trainee Analyst,Cognizant,4
+1794,184G1A0317,HARINI R,MEC,Female,Programmer Trainee Analyst,Cognizant,4
+1795,184G1A0318,HARSHAVARDHAN A,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1796,184G1A0320,JAHNAVI C,MEC,Female,Programmer Trainee Analyst,Cognizant,4
+1797,184G1A0327,LIKHITH C,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1798,184G1A0329,MADHUSHARAN M,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1799,184G1A0330,MAHESH G,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1800,184G1A0331,MAHESH REDDY K G,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1801,184G1A0333,KRISHNA SAI PRASAD B,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1802,184G1A0341,MUKESH P,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1803,184G1A0347,NIKHIL N K,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1804,184G1A0348,NITHESH KUMAR C,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1805,184G1A0366,UMAR S,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1806,184G1A0375,YASHWANTH A,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1807,194G5A0310,KIRAN KUMAR K,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1808,194G5A0311,LAKSHMI G,MEC,Female,Programmer Trainee Analyst,Cognizant,4
+1809,194G5A0325,SHARAN TEJA D,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1810,194G5A0326,SIVA PRASAD B,MEC,Male,Programmer Trainee Analyst,Cognizant,4
+1811,194G5A0330,THEJASWINI U,MEC,Female,Programmer Trainee Analyst,Cognizant,4
+1812,184G1A0516,DRAKSHAYINI B,CSE,Female,Graduate Engineer Trainee,Hexaware Technologies,4
+1813,184G1A0517,GNANA DEEPIKA S R G,CSE,Female,Graduate Engineer Trainee,Hexaware Technologies,4
+1814,184G1A0525,KATHI JATUL KUBRA S,CSE,Female,Graduate Engineer Trainee,Hexaware Technologies,4
+1815,184G1A0533,LAKSHMI MANASA G,CSE,Female,Graduate Engineer Trainee,Hexaware Technologies,4
+1816,184G1A0552,NAVEEN KUMAR G,CSE,Male,Graduate Engineer Trainee,Hexaware Technologies,4
+1817,184G1A0559,PRATHIBHA A,CSE,Female,Graduate Engineer Trainee,Hexaware Technologies,4
+1818,184G1A0561,MANASA I,CSE,Female,Graduate Engineer Trainee,Hexaware Technologies,4
+1819,184G1A0579,SAI SUSHMA B,CSE,Female,Graduate Engineer Trainee,Hexaware Technologies,4
+1820,184G1A0587,SHIVASHANKARA VARAPRASAD B,CSE,Male,Graduate Engineer Trainee,Hexaware Technologies,4
+1821,184G1A05A7,UMME HONEY S,CSE,Female,Graduate Engineer Trainee,Hexaware Technologies,4
+1822,184G1A0434,KRISHNA SAI P,ECE,Male,Graduate Engineer Trainee,Hexaware Technologies,4
+1823,184G1A0461,NOOR MOHAMMAD D,ECE,Male,Graduate Engineer Trainee,Hexaware Technologies,4
+1824,184G1A0474,RAFIYA BEGUM M,ECE,Female,Graduate Engineer Trainee,Hexaware Technologies,4
+1825,184G1A0488,SAI MYTHRI C,ECE,Male,Graduate Engineer Trainee,Hexaware Technologies,4
+1826,184G1A0490,SAI UDAY TEJA U,ECE,Male,Graduate Engineer Trainee,Hexaware Technologies,4
+1827,184G1A0220,HARINI Y,EEE,Male,Graduate Engineer Trainee,Hexaware Technologies,4
+1828,184G1A0457,NIHA ANJUM S,ECE,Female,Trainee Engineer,KPIT,4
+1829,184G1A0472,PRUTHVI K,ECE,Male,Trainee Engineer,KPIT,4
+1830,184G1A0203,AJAY KUMAR REDDY K,EEE,Male,Trainee Engineer,KPIT,4
+1831,184G1A0285,SPANDANA P,EEE,Female,Trainee Engineer,KPIT,4
+1832,184G1A0288,SREENIDHI K,EEE,Female,Trainee Engineer,KPIT,4
+1833,184G1A0506,BAVITHA T N,CSE,Female,Software Engineer,Mindtree,4
+1834,184G1A0551,NANDINI K,CSE,Female,Software Engineer,Mindtree,4
+1835,184G1A0586,SHIRISHA K,CSE,Female,Software Engineer,Mindtree,4
+1836,184G1A0593,SREE SRAVYA G,CSE,Female,Software Engineer,Mindtree,4
+1837,184G1A0597,SUBAHAN ALI KHAN P,CSE,Male,Software Engineer,Mindtree,4
+1838,184G1A0598,SUCHITHA P,CSE,Female,Software Engineer,Mindtree,4
+1839,194G5A0507,SHAHID AFRIDI B,CSE,Male,Software Engineer,Mindtree,4
+1840,184G1A0442,MANASA G,ECE,Female,Software Engineer,Mindtree,4
+1841,184G1A0457,NIHA ANJUM S,ECE,Female,Software Engineer,Mindtree,4
+1842,184G1A04B9,YOSHITHA K,ECE,Female,Software Engineer,Mindtree,4
+1843,184G1A0229,JYOTHI PRIYA K,EEE,Female,Software Engineer,Mindtree,4
+1844,184G1A0245,MADHURI LAKSHMI P,EEE,Female,Software Engineer,Mindtree,4
+1845,184G1A0556,PAVITHRA C,CSE,Female,Associate Engineer - Technology,Virtusa,4
+1846,184G1A0102,AFRIN SHAHANAZ S,CIV,Female,System Engineer,Infosys,4
+1847,184G1A0113,GEETHA C,CIV,Female,System Engineer,Infosys,4
+1848,184G1A0124,KARTHIKEYA REDDY A,CIV,Male,System Engineer,Infosys,4
+1849,184G1A0134,MEGHANA A,CIV,Female,System Engineer,Infosys,4
+1850,184G1A0175,SREEDHAR B,CIV,Male,System Engineer,Infosys,4
+1851,184G1A0180,SUSHMA S,CIV,Female,System Engineer,Infosys,4
+1852,184G1A0187,VENKATA SUSHANTH G,CIV,Male,System Engineer,Infosys,4
+1853,194G5A0106,DHANUNJAYA REDDY S,CIV,Male,System Engineer,Infosys,4
+1854,194G5A0110,KRITHIKA S,CIV,Female,System Engineer,Infosys,4
+1855,194G5A0123,PRASAD A,CIV,Male,System Engineer,Infosys,4
+1856,184G1A0515,DIVYA S,CSE,Female,System Engineer,Infosys,4
+1857,184G1A0528,JYOTHIRMAI T,CSE,Female,System Engineer,Infosys,4
+1858,184G1A05A3,SWATHI K,CSE,Female,System Engineer,Infosys,4
+1859,184G1A05B2,VIJAYASREE K,CSE,Female,System Engineer,Infosys,4
+1860,184G1A05B4,VINAY J,CSE,Male,System Engineer,Infosys,4
+1861,194G5A0502,DILWAR P,CSE,Male,System Engineer,Infosys,4
+1862,184G1A0403,AKHILA K,ECE,Female,System Engineer,Infosys,4
+1863,184G1A0417,DHARMESH P,ECE,Male,System Engineer,Infosys,4
+1864,184G1A0443,MANSOOR M,ECE,Male,System Engineer,Infosys,4
+1865,184G1A0474,RAFIYA BEGUM M,ECE,Female,System Engineer,Infosys,4
+1866,184G1A0476,RAJESH A,ECE,Male,System Engineer,Infosys,4
+1867,194G5A0412,VIDYADHARI P,ECE,Female,System Engineer,Infosys,4
+1868,184G1A0213,CHANDRIKA K,EEE,Female,System Engineer,Infosys,4
+1869,184G1A0229,JYOTHI PRIYA K,EEE,Female,System Engineer,Infosys,4
+1870,184G1A0232,KARUNA SAMUEL N,EEE,Male,System Engineer,Infosys,4
+1871,184G1A0245,MADHURI LAKSHMI P,EEE,Female,System Engineer,Infosys,4
+1872,184G1A0251,MEGHANA S,EEE,Female,System Engineer,Infosys,4
+1873,184G1A0279,SHILPA B,EEE,Female,System Engineer,Infosys,4
+1874,184G1A0290,SREEVANI P,EEE,Female,System Engineer,Infosys,4
+1875,194G5A0204,DAMODHAR REDDY M,EEE,Male,System Engineer,Infosys,4
+1876,184G1A0374,ZAWATA AFNAAN A,MEC,Female,System Engineer,Infosys,4
+1877,194G5A0319,PAVAN KALYAN A,MEC,Male,System Engineer,Infosys,4
+1878,194G5A0326,SIVA PRASAD B,MEC,Male,System Engineer,Infosys,4
+1879,194G5A0329,SUSMITHA V,MEC,Female,System Engineer,Infosys,4
+1880,194G5A0331,USHA RANI M,MEC,Female,System Engineer,Infosys,4
+1881,194G5A0332,VENKATESULU A,MEC,Male,System Engineer,Infosys,4
+1882,184G1A0502,ANKITHA P,CSE,Female,System Engineer,Infosys (InfyTQ),4
+1883,184G1A0525,KATHI JATUL KUBRA S,CSE,Female,System Engineer,Infosys (InfyTQ),4
+1884,184G1A0529,KEERTHANA K,CSE,Female,System Engineer,Infosys (InfyTQ),4
+1885,184G1A0542,MANISH KUMAR R,CSE,Male,System Engineer,Infosys (InfyTQ),4
+1886,184G1A0270,RAMYATEJA G,EEE,Female,System Engineer,Infosys (InfyTQ),4
+1887,184G1A0401,AFREEN S,ECE,Female,Software Engineer,Tata Elxsi,4
+1888,184G1A0436,LIKITHA M,ECE,Female,Software Engineer,Tata Elxsi,4
+1889,184G1A04B1,VAMSI KRISHNA L,ECE,Male,Software Engineer,Tata Elxsi,4
+1890,184G1A0102,AFRIN S,CIV,Female,Project Engineer,Wipro,4
+1891,184G1A0103,AKHIL BALAJI K,CIV,Male,Project Engineer,Wipro,4
+1892,184G1A0109,CHANDANA B,CIV,Female,Project Engineer,Wipro,4
+1893,184G1A0120,JAYAPAL NAIDU T,CIV,Male,Project Engineer,Wipro,4
+1894,184G1A0125,KAVITHA D,CIV,Female,Project Engineer,Wipro,4
+1895,184G1A0132,MAHESH M,CIV,Male,Project Engineer,Wipro,4
+1896,184G1A0134,MEGHANA A,CIV,Female,Project Engineer,Wipro,4
+1897,184G1A0146,NEERAJA BAI K,CIV,Female,Project Engineer,Wipro,4
+1898,184G1A0147,NIKHIL SAI Y,CIV,Male,Project Engineer,Wipro,4
+1899,184G1A0149,PAVAN KUMAR R,CIV,Male,Project Engineer,Wipro,4
+1900,184G1A0156,RAJESH K,CIV,Male,Project Engineer,Wipro,4
+1901,184G1A0162,SAHITHI D,CIV,Female,Project Engineer,Wipro,4
+1902,184G1A0164,SAI VINAY KUMAR T,CIV,Male,Project Engineer,Wipro,4
+1903,184G1A0167,SHAKEER HUSSAIN S,CIV,Male,Project Engineer,Wipro,4
+1904,184G1A0169,SIMRAN G,CIV,Female,Project Engineer,Wipro,4
+1905,184G1A0175,SREEDHAR B,CIV,Male,Project Engineer,Wipro,4
+1906,184G1A0177,SRUJANA REDDY K,CIV,Female,Project Engineer,Wipro,4
+1907,184G1A0189,VYSHNAVI B G,CIV,Female,Project Engineer,Wipro,4
+1908,194G5A0127,SUPRAJA K,CIV,Female,Project Engineer,Wipro,4
+1909,194G5A0128,VARUN KUMAR R,CIV,Male,Project Engineer,Wipro,4
+1910,174G1A0588,SRAVANI G,CSE,Female,Project Engineer,Wipro,4
+1911,174G1A05A8,VASANTHA LAKSHMI P,CSE,Female,Project Engineer,Wipro,4
+1912,184G1A0170,SIVA DEEP B,CSE,Male,Project Engineer,Wipro,4
+1913,184G1A0502,ANKITHA P,CSE,Female,Project Engineer,Wipro,4
+1914,184G1A0503,ARAVIND G,CSE,Male,Project Engineer,Wipro,4
+1915,184G1A0504,BHARATH KUMAR REDDY T,CSE,Male,Project Engineer,Wipro,4
+1916,184G1A0506,BHAVITHA T N,CSE,Female,Project Engineer,Wipro,4
+1917,184G1A0507,BHAVYA SREE A,CSE,Female,Project Engineer,Wipro,4
+1918,184G1A0508,BHAVYA SRI P,CSE,Female,Project Engineer,Wipro,4
+1919,184G1A0509,BHAVYA V,CSE,Male,Project Engineer,Wipro,4
+1920,184G1A0510,BHUVANA B,CSE,Male,Project Engineer,Wipro,4
+1921,184G1A0511,CHANDANA SOWJANYA A,CSE,Male,Project Engineer,Wipro,4
+1922,184G1A0512,CHANDRIKA D,CSE,Female,Project Engineer,Wipro,4
+1923,184G1A0514,DIVYA D,CSE,Female,Project Engineer,Wipro,4
+1924,184G1A0515,DIVYA S,CSE,Female,Project Engineer,Wipro,4
+1925,184G1A0516,DRAKSHAYINI B,CSE,Female,Project Engineer,Wipro,4
+1926,184G1A0517,GNANA DEEPIKA S R G,CSE,Female,Project Engineer,Wipro,4
+1927,184G1A0521,HARIKRISHNA B,CSE,Male,Project Engineer,Wipro,4
+1928,184G1A0526,JAVEED H,CSE,Male,Project Engineer,Wipro,4
+1929,184G1A0527,JYOTHI A,CSE,Female,Project Engineer,Wipro,4
+1930,184G1A0528,JYOTHIRMAI T,CSE,Female,Project Engineer,Wipro,4
+1931,184G1A0529,KEERTHANA K,CSE,Female,Project Engineer,Wipro,4
+1932,184G1A0530,KEERTHI N,CSE,Female,Project Engineer,Wipro,4
+1933,184G1A0532,LAKSHMI JYOSHNA M,CSE,Female,Project Engineer,Wipro,4
+1934,184G1A0533,LAKSHMI MANASA G,CSE,Female,Project Engineer,Wipro,4
+1935,184G1A0534,LATHASRI K,CSE,Male,Project Engineer,Wipro,4
+1936,184G1A0535,LAVANYA J,CSE,Female,Project Engineer,Wipro,4
+1937,184G1A0536,LAXMI M,CSE,Female,Project Engineer,Wipro,4
+1938,184G1A0537,LOKESH B,CSE,Male,Project Engineer,Wipro,4
+1939,184G1A0540,MALLIKA C,CSE,Female,Project Engineer,Wipro,4
+1940,184G1A0541,MANASA P,CSE,Female,Project Engineer,Wipro,4
+1941,184G1A0543,MANISH RANJAN,CSE,Male,Project Engineer,Wipro,4
+1942,184G1A0544,MANJULA B,CSE,Female,Project Engineer,Wipro,4
+1943,184G1A0548,MOMEENA S,CSE,Female,Project Engineer,Wipro,4
+1944,184G1A0550,MUHAMMAD JUNAID S,CSE,Male,Project Engineer,Wipro,4
+1945,184G1A0552,NAVEEN KUMAR G,CSE,Male,Project Engineer,Wipro,4
+1946,184G1A0553,NAVEEN KUMAR P,CSE,Male,Project Engineer,Wipro,4
+1947,184G1A0554,NAVYA DEEPTHI T,CSE,Male,Project Engineer,Wipro,4
+1948,184G1A0555,PADMINI B,CSE,Male,Project Engineer,Wipro,4
+1949,184G1A0556,PAVITHRA C,CSE,Female,Project Engineer,Wipro,4
+1950,184G1A0560,PUSHPALATHA B,CSE,Female,Project Engineer,Wipro,4
+1951,184G1A0566,RUCHITHA K,CSE,Female,Project Engineer,Wipro,4
+1952,184G1A0569,RUPESWARA REDDY P,CSE,Male,Project Engineer,Wipro,4
+1953,184G1A0573,SAI JYOSHNA B,CSE,Male,Project Engineer,Wipro,4
+1954,184G1A0574,SAI LAHARI K,CSE,Male,Project Engineer,Wipro,4
+1955,184G1A0579,SAI SUSHMA B,CSE,Female,Project Engineer,Wipro,4
+1956,184G1A0580,SAI TEJASWINI M,CSE,Male,Project Engineer,Wipro,4
+1957,184G1A0584,SANTHOSHI R S,CSE,Female,Project Engineer,Wipro,4
+1958,184G1A0585,SHAHUL T,CSE,Male,Project Engineer,Wipro,4
+1959,184G1A0586,SHIRISHA K,CSE,Female,Project Engineer,Wipro,4
+1960,184G1A0588,SHREYA K,CSE,Male,Project Engineer,Wipro,4
+1961,184G1A0589,SIREESHA M,CSE,Male,Project Engineer,Wipro,4
+1962,184G1A0597,SUBAHAN ALI KHAN P,CSE,Male,Project Engineer,Wipro,4
+1963,184G1A0598,SUCHITHA P,CSE,Female,Project Engineer,Wipro,4
+1964,184G1A05A1,SUMANA BAI K,CSE,Female,Project Engineer,Wipro,4
+1965,184G1A05A3,SWATHI K,CSE,Female,Project Engineer,Wipro,4
+1966,184G1A05A4,TASNEEM S,CSE,Female,Project Engineer,Wipro,4
+1967,184G1A05A5,THRIPURA V,CSE,Female,Project Engineer,Wipro,4
+1968,184G1A05A6,UDAYASREE K,CSE,Female,Project Engineer,Wipro,4
+1969,184G1A05A7,UMME HONEY S,CSE,Female,Project Engineer,Wipro,4
+1970,184G1A05A8,VARSHA D,CSE,Female,Project Engineer,Wipro,4
+1971,184G1A05B1,VENKATESH V,CSE,Male,Project Engineer,Wipro,4
+1972,184G1A05B4,VINAY J,CSE,Male,Project Engineer,Wipro,4
+1973,184G1A05B5,KRISHNA SAMPADA A,CSE,Male,Project Engineer,Wipro,4
+1974,184G1A05B6,AFRAH S,CSE,Female,Project Engineer,Wipro,4
+1975,194G5A0501,BHASKAR K,CSE,Male,Project Engineer,Wipro,4
+1976,194G5A0508,TEJA C,CSE,Male,Project Engineer,Wipro,4
+1977,194G5A0509,TEJDEEP REDDY K,CSE,Male,Project Engineer,Wipro,4
+1978,194G5A0510,VENKATA NARESH D,CSE,Male,Project Engineer,Wipro,4
+1979,174G1A0443,MAHENDRA M,ECE,Male,Project Engineer,Wipro,4
+1980,184G1A0401,AFREEN S,ECE,Female,Project Engineer,Wipro,4
+1981,184G1A0402,AJAY KUMAR C V,ECE,Male,Project Engineer,Wipro,4
+1982,184G1A0404,ANITHA C,ECE,Male,Project Engineer,Wipro,4
+1983,184G1A0408,BHANU PRIYA J,ECE,Female,Project Engineer,Wipro,4
+1984,184G1A0409,BHARATH RAJ K,ECE,Male,Project Engineer,Wipro,4
+1985,184G1A0410,BHARGAVI B,ECE,Female,Project Engineer,Wipro,4
+1986,184G1A0412,CHAITANYA S,ECE,Female,Project Engineer,Wipro,4
+1987,184G1A0413,CHAITRA P,ECE,Female,Project Engineer,Wipro,4
+1988,184G1A0415,DARSHANA P,ECE,Female,Project Engineer,Wipro,4
+1989,184G1A0417,DHARMESH P,ECE,Male,Project Engineer,Wipro,4
+1990,184G1A0418,DIVYA SREE N,ECE,Female,Project Engineer,Wipro,4
+1991,184G1A0419,DIVYA TEJA B,ECE,Male,Project Engineer,Wipro,4
+1992,184G1A0422,GAGANASRI M,ECE,Female,Project Engineer,Wipro,4
+1993,184G1A0423,GEETHIKA REDDY P,ECE,Female,Project Engineer,Wipro,4
+1994,184G1A0424,GOWTHAMI D,ECE,Female,Project Engineer,Wipro,4
+1995,184G1A0430,JAGAN D,ECE,Male,Project Engineer,Wipro,4
+1996,184G1A0431,KAFIL AHAMMAD K,ECE,Male,Project Engineer,Wipro,4
+1997,184G1A0433,KAVITHA M,ECE,Female,Project Engineer,Wipro,4
+1998,184G1A0434,KRISHNA SAI P,ECE,Male,Project Engineer,Wipro,4
+1999,184G1A0436,LIKITHA M (MALAKATHALLA),ECE,Female,Project Engineer,Wipro,4
+2000,184G1A0437,LOKESH C B,ECE,Male,Project Engineer,Wipro,4
+2001,184G1A0438,LOKESHWAR K,ECE,Male,Project Engineer,Wipro,4
+2002,184G1A0442,MANASA G,ECE,Female,Project Engineer,Wipro,4
+2003,184G1A0444,MARY PRAGNA P,ECE,Female,Project Engineer,Wipro,4
+2004,184G1A0450,MOUNIKA SAI M,ECE,Female,Project Engineer,Wipro,4
+2005,184G1A0451,NAGA LAHARI Y,ECE,Male,Project Engineer,Wipro,4
+2006,184G1A0455,NAVEEN T,ECE,Male,Project Engineer,Wipro,4
+2007,184G1A0456,NEELIMA S,ECE,Female,Project Engineer,Wipro,4
+2008,184G1A0459,NIVEDITHA Y,ECE,Female,Project Engineer,Wipro,4
+2009,184G1A0461,NOOR MOHAMMAD D,ECE,Male,Project Engineer,Wipro,4
+2010,184G1A0467,PRANATHI L,ECE,Female,Project Engineer,Wipro,4
+2011,184G1A0471,PRIYANKA K,ECE,Female,Project Engineer,Wipro,4
+2012,184G1A0473,RACHANA B,ECE,Male,Project Engineer,Wipro,4
+2013,184G1A0476,RAJESH A,ECE,Male,Project Engineer,Wipro,4
+2014,184G1A0479,RIZWANA T,ECE,Female,Project Engineer,Wipro,4
+2015,184G1A0480,RUCHITHA G,ECE,Female,Project Engineer,Wipro,4
+2016,184G1A0481,SADIYA BANU R B,ECE,Male,Project Engineer,Wipro,4
+2017,184G1A0482,SAI ABHIJITH M P,ECE,Male,Project Engineer,Wipro,4
+2018,184G1A0486,SAI MEGHANA B,ECE,Male,Project Engineer,Wipro,4
+2019,184G1A0487,SAI MOUNIKA E,ECE,Female,Project Engineer,Wipro,4
+2020,184G1A0488,SAI MYTHRI C,ECE,Male,Project Engineer,Wipro,4
+2021,184G1A0490,SAI UDAY TEJA U,ECE,Male,Project Engineer,Wipro,4
+2022,184G1A0491,SAMEENA M,ECE,Female,Project Engineer,Wipro,4
+2023,184G1A0492,SANDEEP B,ECE,Male,Project Engineer,Wipro,4
+2024,184G1A0495,SHAIK SANIA G,ECE,Female,Project Engineer,Wipro,4
+2025,184G1A0496,SHAKEELA D,ECE,Male,Project Engineer,Wipro,4
+2026,184G1A0497,SHASANK A,ECE,Male,Project Engineer,Wipro,4
+2027,184G1A0498,SHIREESHA P,ECE,Female,Project Engineer,Wipro,4
+2028,184G1A0499,SHREYA C,ECE,Female,Project Engineer,Wipro,4
+2029,184G1A04A0,SINDHUJA E,ECE,Female,Project Engineer,Wipro,4
+2030,184G1A04A1,SREE RAMYA K,ECE,Female,Project Engineer,Wipro,4
+2031,184G1A04A2,SREEKANTH REDDY J,ECE,Male,Project Engineer,Wipro,4
+2032,184G1A04A5,SUCHARITHA D C,ECE,Female,Project Engineer,Wipro,4
+2033,184G1A04A6,SURESH M E,ECE,Male,Project Engineer,Wipro,4
+2034,184G1A04A7,SWETHA REDDY G,ECE,Female,Project Engineer,Wipro,4
+2035,184G1A04A8,SYAM PRASAD V,ECE,Male,Project Engineer,Wipro,4
+2036,184G1A04A9,TANUSHA O,ECE,Female,Project Engineer,Wipro,4
+2037,184G1A04B0,VAMSI K,ECE,Male,Project Engineer,Wipro,4
+2038,184G1A04B1,VAMSI KRISHNA L,ECE,Male,Project Engineer,Wipro,4
+2039,184G1A04B2,VAMSI PRIYA P,ECE,Male,Project Engineer,Wipro,4
+2040,184G1A04B5,VISWA CHAITHANYA C,ECE,Male,Project Engineer,Wipro,4
+2041,184G1A04B7,YASWANTH KUMAR V,ECE,Male,Project Engineer,Wipro,4
+2042,184G1A04B9,YOSHITHA K,ECE,Female,Project Engineer,Wipro,4
+2043,194G5A0401,BALAJI NAIDU K,ECE,Male,Project Engineer,Wipro,4
+2044,194G5A0402,BHARGAVI S,ECE,Female,Project Engineer,Wipro,4
+2045,194G5A0405,RAJIYA D,ECE,Female,Project Engineer,Wipro,4
+2046,194G5A0406,SABHIHA TAJ S,ECE,Female,Project Engineer,Wipro,4
+2047,194G5A0407,SAJID BASHA D,ECE,Male,Project Engineer,Wipro,4
+2048,194G5A0408,SRAVAN KUMAR P,ECE,Male,Project Engineer,Wipro,4
+2049,184G1A0201,ADVAITHA REDDY P N,EEE,Female,Project Engineer,Wipro,4
+2050,184G1A0202,AFRINTAJ S A,EEE,Female,Project Engineer,Wipro,4
+2051,184G1A0203,AJAY KUMAR REDDY K,EEE,Male,Project Engineer,Wipro,4
+2052,184G1A0211,CHANDRAKANTH K,EEE,Male,Project Engineer,Wipro,4
+2053,184G1A0213,CHANDRIKA K,EEE,Male,Project Engineer,Wipro,4
+2054,184G1A0214,DHEEKSHITHA K,EEE,Female,Project Engineer,Wipro,4
+2055,184G1A0217,GIRISH KUMAR G,EEE,Male,Project Engineer,Wipro,4
+2056,184G1A0221,HARSHA VARDHAN RAJ Y,EEE,Male,Project Engineer,Wipro,4
+2057,184G1A0224,JASMINE M,EEE,Male,Project Engineer,Wipro,4
+2058,184G1A0231,KARTHIK YADAV P,EEE,Male,Project Engineer,Wipro,4
+2059,184G1A0234,KAZOL D,EEE,Female,Project Engineer,Wipro,4
+2060,184G1A0235,KEERTHANA K,EEE,Female,Project Engineer,Wipro,4
+2061,184G1A0240,LAVANYA P,EEE,Female,Project Engineer,Wipro,4
+2062,184G1A0241,LIKHITA M,EEE,Female,Project Engineer,Wipro,4
+2063,184G1A0242,LIKHITHA S,EEE,Female,Project Engineer,Wipro,4
+2064,184G1A0243,MADHU PRIYA K,EEE,Female,Project Engineer,Wipro,4
+2065,184G1A0246,MAHAMMAD HANEEF G,EEE,Male,Project Engineer,Wipro,4
+2066,184G1A0247,MAHAMMED SARFARAZ NAWAZ P,EEE,Male,Project Engineer,Wipro,4
+2067,184G1A0249,MANASA L,EEE,Female,Project Engineer,Wipro,4
+2068,184G1A0254,NAGA SRAVANI B,EEE,Male,Project Engineer,Wipro,4
+2069,184G1A0261,PAVANI P,EEE,Female,Project Engineer,Wipro,4
+2070,184G1A0263,PRASHANTH P,EEE,Male,Project Engineer,Wipro,4
+2071,184G1A0264,PRAVEEN KUMAR G,EEE,Male,Project Engineer,Wipro,4
+2072,184G1A0269,RAM BABU G,EEE,Male,Project Engineer,Wipro,4
+2073,184G1A0272,RENUKA V,EEE,Female,Project Engineer,Wipro,4
+2074,184G1A0273,SAI KUMAR T,EEE,Male,Project Engineer,Wipro,4
+2075,184G1A0278,SHALU R,EEE,Female,Project Engineer,Wipro,4
+2076,184G1A0279,SHILPA B,EEE,Female,Project Engineer,Wipro,4
+2077,184G1A0282,SIVAPUTHRA M,EEE,Male,Project Engineer,Wipro,4
+2078,184G1A0285,SPANDANA P,EEE,Female,Project Engineer,Wipro,4
+2079,184G1A0291,SREEVIDYA T,EEE,Female,Project Engineer,Wipro,4
+2080,184G1A0292,SUDHEER CHANDRA M,EEE,Male,Project Engineer,Wipro,4
+2081,184G1A0293,SUMASRI M,EEE,Male,Project Engineer,Wipro,4
+2082,184G1A0296,TEJASWINI V,EEE,Female,Project Engineer,Wipro,4
+2083,184G1A0299,VENKATESH V,EEE,Male,Project Engineer,Wipro,4
+2084,184G1A02A2,VYSHNAVI K,EEE,Female,Project Engineer,Wipro,4
+2085,184G1A02A3,VYSHNAVI N,EEE,Female,Project Engineer,Wipro,4
+2086,194G5A0202,ARIF D,EEE,Male,Project Engineer,Wipro,4
+2087,194G5A0203,CHARANYA P,EEE,Female,Project Engineer,Wipro,4
+2088,194G5A0204,DAMODHAR REDDY M,EEE,Male,Project Engineer,Wipro,4
+2089,194G5A0205,GANESH G,EEE,Male,Project Engineer,Wipro,4
+2090,194G5A0207,LIKHITA M,EEE,Female,Project Engineer,Wipro,4
+2091,194G5A0208,MANIMEGHALA P,EEE,Female,Project Engineer,Wipro,4
+2092,194G5A0218,SIRISHA C,EEE,Female,Project Engineer,Wipro,4
+2093,194G5A0219,SIVA TEJA KUMAR C,EEE,Male,Project Engineer,Wipro,4
+2094,194G5A0221,SRI GAYATHRI D,EEE,Female,Project Engineer,Wipro,4
+2095,194G5A0224,USHA BHARGAVI R,EEE,Female,Project Engineer,Wipro,4
+2096,194G5A0225,VIJAY MANOHAR V,EEE,Male,Project Engineer,Wipro,4
+2097,194G5A0226,VINAY KUMAR P,EEE,Male,Project Engineer,Wipro,4
+2098,184G1A0303,ARYANUMESH T,MEC,Male,Project Engineer,Wipro,4
+2099,184G1A0306,BALAJI M,MEC,Male,Project Engineer,Wipro,4
+2100,184G1A0309,CHINNA B,MEC,Male,Project Engineer,Wipro,4
+2101,184G1A0314,GANGA PRASAD K,MEC,Male,Project Engineer,Wipro,4
+2102,184G1A0318,HARSHAVARDHAN A,MEC,Male,Project Engineer,Wipro,4
+2103,184G1A0319,JAGADEESH M,MEC,Male,Project Engineer,Wipro,4
+2104,184G1A0320,JAHNAVI C,MEC,Female,Project Engineer,Wipro,4
+2105,184G1A0325,KIRAN KUMAR G,MEC,Male,Project Engineer,Wipro,4
+2106,184G1A0327,LIKHITH C,MEC,Male,Project Engineer,Wipro,4
+2107,184G1A0330,MAHESH G,MEC,Male,Project Engineer,Wipro,4
+2108,184G1A0333,KRISHNA SAI PRASAD B,MEC,Male,Project Engineer,Wipro,4
+2109,184G1A0334,MAMATHA E,MEC,Female,Project Engineer,Wipro,4
+2110,184G1A0339,MOUNIKA P,MEC,Female,Project Engineer,Wipro,4
+2111,184G1A0343,NAGA ISHWARYA S,MEC,Female,Project Engineer,Wipro,4
+2112,184G1A0350,PAVAN KALYAN J,MEC,Male,Project Engineer,Wipro,4
+2113,184G1A0352,RAMACHANDRA S,MEC,Male,Project Engineer,Wipro,4
+2114,184G1A0353,REVANTH NAIK N,MEC,Male,Project Engineer,Wipro,4
+2115,184G1A0365,SULTHAN MOHIDDIN S,MEC,Male,Project Engineer,Wipro,4
+2116,184G1A0367,UMESH SWATHANTRA H,MEC,Male,Project Engineer,Wipro,4
+2117,184G1A0374,ZAWATA AFNAAN A,MEC,Female,Project Engineer,Wipro,4
+2118,194G5A0302,ARAVIND D,MEC,Male,Project Engineer,Wipro,4
+2119,194G5A0305,BHASKAR L,MEC,Male,Project Engineer,Wipro,4
+2120,194G5A0307,GEETHIKA M,MEC,Female,Project Engineer,Wipro,4
+2121,194G5A0311,LAKSHMI G,MEC,Female,Project Engineer,Wipro,4
+2122,194G5A0316,MOHAMMED MUDASSIR QURAISHI,MEC,Male,Project Engineer,Wipro,4
+2123,194G5A0323,SAI VAMSI K,MEC,Male,Project Engineer,Wipro,4
+2124,194G5A0325,SHARAN TEJA D,MEC,Male,Project Engineer,Wipro,4
+2125,194G5A0326,SIVA PRASAD B,MEC,Male,Project Engineer,Wipro,4
+2126,194G5A0329,SUSMITHA V,MEC,Female,Project Engineer,Wipro,4
+2127,194G5A0330,THEJASWINI U,MEC,Female,Project Engineer,Wipro,4
+2128,194G5A0331,USHA RANI M,MEC,Female,Project Engineer,Wipro,4
+2129,194G5A0333,VIJAYA BHASKAR Y,MEC,Male,Project Engineer,Wipro,4
+2130,184G1A0560,PUSHPALATHA B,CSE,Female,Associate Consultant,Atos,4
+2131,184G1A0149,PAVAN KUMAR R,CIV,Male,Assistant System Engineer,TCS,4
+2132,174G1A0588,SRAVANI G,CSE,Female,Assistant System Engineer,TCS,4
+2133,184G1A0502,ANKITHA P,CSE,Female,Assistant System Engineer,TCS,4
+2134,184G1A0505,BHARGAVI R,CSE,Female,Assistant System Engineer,TCS,4
+2135,184G1A0508,BHAVYA SRI P,CSE,Female,Assistant System Engineer,TCS,4
+2136,184G1A0509,BHAVYA V,CSE,Female,Assistant System Engineer,TCS,4
+2137,184G1A0510,BHUVANA B,CSE,Female,Assistant System Engineer,TCS,4
+2138,184G1A0514,DIVYA D,CSE,Female,Assistant System Engineer,TCS,4
+2139,184G1A0516,DRAKSHAYINI B,CSE,Female,Assistant System Engineer,TCS,4
+2140,184G1A0517,GNANA DEEPIKA S R G,CSE,Female,Assistant System Engineer,TCS,4
+2141,184G1A0519,GOWTHAM REDDY B,CSE,Male,Assistant System Engineer,TCS,4
+2142,184G1A0525,KATHI JATUL KUBRA S,CSE,Female,Assistant System Engineer,TCS,4
+2143,184G1A0532,LAKSHMI JYOSHNA M,CSE,Female,Assistant System Engineer,TCS,4
+2144,184G1A0533,LAKSHMI MANASA G,CSE,Female,Assistant System Engineer,TCS,4
+2145,184G1A0534,LATHASRI K,CSE,Female,Assistant System Engineer,TCS,4
+2146,184G1A0535,LAVANYA J,CSE,Female,Assistant System Engineer,TCS,4
+2147,184G1A0538,MADHAVI T,CSE,Female,Assistant System Engineer,TCS,4
+2148,184G1A0541,MANASA P,CSE,Female,Assistant System Engineer,TCS,4
+2149,184G1A0542,MANISH KUMAR R,CSE,Male,Assistant System Engineer,TCS,4
+2150,184G1A0543,MANISH RANJAN,CSE,Male,Assistant System Engineer,TCS,4
+2151,184G1A0548,MOMEENA S,CSE,Female,Assistant System Engineer,TCS,4
+2152,184G1A0552,NAVEEN KUMAR G,CSE,Male,Assistant System Engineer,TCS,4
+2153,184G1A0553,NAVEEN KUMAR P,CSE,Male,Assistant System Engineer,TCS,4
+2154,184G1A0557,POOJITHA T,CSE,Female,Assistant System Engineer,TCS,4
+2155,184G1A0559,PRATHIBHA A,CSE,Female,Assistant System Engineer,TCS,4
+2156,184G1A0563,RAMYA SAI E,CSE,Female,Assistant System Engineer,TCS,4
+2157,184G1A0569,RUPESWARA REDDY P,CSE,Male,Assistant System Engineer,TCS,4
+2158,184G1A0576,SAI PALLAVI S,CSE,Female,Assistant System Engineer,TCS,4
+2159,184G1A0584,SANTHOSHI R S,CSE,Female,Assistant System Engineer,TCS,4
+2160,184G1A0588,SHREYA K,CSE,Female,Assistant System Engineer,TCS,4
+2161,184G1A0598,SUCHITHA P,CSE,Female,Assistant System Engineer,TCS,4
+2162,184G1A0599,SUDHARSHINI M,CSE,Female,Assistant System Engineer,TCS,4
+2163,184G1A05A1,SUMANA BAI K,CSE,Female,Assistant System Engineer,TCS,4
+2164,184G1A05A4,TASNEEM S,CSE,Female,Assistant System Engineer,TCS,4
+2165,184G1A05A5,THRIPURA V,CSE,Female,Assistant System Engineer,TCS,4
+2166,184G1A05A8,VARSHA D,CSE,Female,Assistant System Engineer,TCS,4
+2167,184G1A05A9,VEENA T,CSE,Female,Assistant System Engineer,TCS,4
+2168,184G1A05B0,VENKATA SREE DEVI P,CSE,Female,Assistant System Engineer,TCS,4
+2169,184G1A05B1,VENKATESH V,CSE,Male,Assistant System Engineer,TCS,4
+2170,184G1A05B3,VYSHNAVI T,CSE,Female,Assistant System Engineer,TCS,4
+2171,184G1A05B6,AFRAH S,CSE,Female,Assistant System Engineer,TCS,4
+2172,194G5A0501,BHASKAR K,CSE,Male,Assistant System Engineer,TCS,4
+2173,174G1A0443,MAHENDRA M,ECE,Male,Assistant System Engineer,TCS,4
+2174,184G1A0401,AFREEN S,ECE,Female,Assistant System Engineer,TCS,4
+2175,184G1A0406,BABA FAKRUDDIN S,ECE,Male,Assistant System Engineer,TCS,4
+2176,184G1A0407,BABJAN S,ECE,Female,Assistant System Engineer,TCS,4
+2177,184G1A0412,CHAITANYA S,ECE,Female,Assistant System Engineer,TCS,4
+2178,184G1A0424,GOWTHAMI D,ECE,Female,Assistant System Engineer,TCS,4
+2179,184G1A0432,KARIMA SHAHID S,ECE,Female,Assistant System Engineer,TCS,4
+2180,184G1A0434,KRISHNA SAI P,ECE,Male,Assistant System Engineer,TCS,4
+2181,184G1A0437,LOKESH C B,ECE,Male,Assistant System Engineer,TCS,4
+2182,184G1A0438,LOKESHWAR K,ECE,Male,Assistant System Engineer,TCS,4
+2183,184G1A0442,MANASA G,ECE,Female,Assistant System Engineer,TCS,4
+2184,184G1A0443,MANSOOR M,ECE,Male,Assistant System Engineer,TCS,4
+2185,184G1A0444,MARY PRAGNA P,ECE,Female,Assistant System Engineer,TCS,4
+2186,184G1A0445,MEGHANA U,ECE,Female,Assistant System Engineer,TCS,4
+2187,184G1A0448,MOHAMMED ABUJAR B,ECE,Male,Assistant System Engineer,TCS,4
+2188,184G1A0450,MOUNIKA SAI M,ECE,Female,Assistant System Engineer,TCS,4
+2189,184G1A0455,NAVEEN T,ECE,Male,Assistant System Engineer,TCS,4
+2190,184G1A0457,NIHA ANJUM S,ECE,Female,Assistant System Engineer,TCS,4
+2191,184G1A0465,PAVITRA A,ECE,Female,Assistant System Engineer,TCS,4
+2192,184G1A0467,PRANATHI L,ECE,Female,Assistant System Engineer,TCS,4
+2193,184G1A0468,PRATHYUSHA K,ECE,Female,Assistant System Engineer,TCS,4
+2194,184G1A0470,PRAVEENA T,ECE,Female,Assistant System Engineer,TCS,4
+2195,184G1A0473,RACHANA B,ECE,Female,Assistant System Engineer,TCS,4
+2196,184G1A0476,RAJESH A,ECE,Male,Assistant System Engineer,TCS,4
+2197,184G1A0479,RIZWANA T,ECE,Female,Assistant System Engineer,TCS,4
+2198,184G1A0482,SAI ABHIJITH M P,ECE,Male,Assistant System Engineer,TCS,4
+2199,184G1A0486,SAI MEGHANA B,ECE,Female,Assistant System Engineer,TCS,4
+2200,184G1A0487,SAI MOUNIKA E,ECE,Female,Assistant System Engineer,TCS,4
+2201,184G1A0495,SHAIK SANIA G,ECE,Female,Assistant System Engineer,TCS,4
+2202,184G1A0497,SHASANK A,ECE,Male,Assistant System Engineer,TCS,4
+2203,184G1A0498,SHIREESHA P,ECE,Female,Assistant System Engineer,TCS,4
+2204,184G1A04A1,SREE RAMYA K,ECE,Female,Assistant System Engineer,TCS,4
+2205,184G1A04A5,SUCHARITHA D C,ECE,Female,Assistant System Engineer,TCS,4
+2206,184G1A04A6,SURESH M E,ECE,Male,Assistant System Engineer,TCS,4
+2207,184G1A04A7,SWETHA REDDY G,ECE,Female,Assistant System Engineer,TCS,4
+2208,184G1A04B0,VAMSI K,ECE,Male,Assistant System Engineer,TCS,4
+2209,184G1A04B2,VAMSI PRIYA P,ECE,Female,Assistant System Engineer,TCS,4
+2210,184G1A04B4,VINATHI K,ECE,Female,Assistant System Engineer,TCS,4
+2211,184G1A04B5,VISWA CHAITHANYA C,ECE,Male,Assistant System Engineer,TCS,4
+2212,184G1A04B7,YASWANTH KUMAR V,ECE,Male,Assistant System Engineer,TCS,4
+2213,194G5A0405,RAJIYA D,ECE,Female,Assistant System Engineer,TCS,4
+2214,194G5A0411,TULASI K,ECE,Female,Assistant System Engineer,TCS,4
+2215,184G1A0201,ADVAITHA REDDY P N,EEE,Female,Assistant System Engineer,TCS,4
+2216,184G1A0215,DIVYA PRASOONA C,EEE,Female,Assistant System Engineer,TCS,4
+2217,184G1A0217,GIRISH KUMAR G,EEE,Male,Assistant System Engineer,TCS,4
+2218,184G1A0220,HARINI Y,EEE,Female,Assistant System Engineer,TCS,4
+2219,184G1A0224,JASMINE M,EEE,Female,Assistant System Engineer,TCS,4
+2220,184G1A0228,JYOSHNA A,EEE,Female,Assistant System Engineer,TCS,4
+2221,184G1A0230,KARTHEEK P,EEE,Male,Assistant System Engineer,TCS,4
+2222,184G1A0235,KEERTHANA K,EEE,Female,Assistant System Engineer,TCS,4
+2223,184G1A0238,KONDANNA G,EEE,Male,Assistant System Engineer,TCS,4
+2224,184G1A0239,LAVANYA K,EEE,Female,Assistant System Engineer,TCS,4
+2225,184G1A0242,LIKHITHA S,EEE,Female,Assistant System Engineer,TCS,4
+2226,184G1A0246,MAHAMMAD HANEEF G,EEE,Male,Assistant System Engineer,TCS,4
+2227,184G1A0249,MANASA L,EEE,Female,Assistant System Engineer,TCS,4
+2228,184G1A0256,NIKHIL S,EEE,Male,Assistant System Engineer,TCS,4
+2229,184G1A0266,PUSHPA K,EEE,Female,Assistant System Engineer,TCS,4
+2230,184G1A0272,RENUKA V,EEE,Female,Assistant System Engineer,TCS,4
+2231,184G1A0286,SRAVANI N,EEE,Male,Assistant System Engineer,TCS,4
+2232,184G1A0291,SREEVIDYA T,EEE,Female,Assistant System Engineer,TCS,4
+2233,184G1A0292,SUDHEER CHANDRA M,EEE,Male,Assistant System Engineer,TCS,4
+2234,184G1A02A3,VYSHNAVI N,EEE,Female,Assistant System Engineer,TCS,4
+2235,194G5A0203,CHARANYA P,EEE,Female,Assistant System Engineer,TCS,4
+2236,194G5A0206,HARI PRIYA B,EEE,Female,Assistant System Engineer,TCS,4
+2237,194G5A0207,LIKHITA M,EEE,Female,Assistant System Engineer,TCS,4
+2238,194G5A0212,SAI CHARAN REDDY R,EEE,Male,Assistant System Engineer,TCS,4
+2239,194G5A0220,SREEKALA T,EEE,Female,Assistant System Engineer,TCS,4
+2240,194G5A0225,VIJAY MANOHAR V,EEE,Male,Assistant System Engineer,TCS,4
+2241,184G1A0361,SOMNATH P,MEC,Male,Assistant System Engineer,TCS,4
+2242,184G1A0366,UMAR S,MEC,Male,Assistant System Engineer,TCS,4
+2243,184G1A0370,VINAY SAI K,MEC,Male,Assistant System Engineer,TCS,4
+2244,194G5A0315,MANJUNATH R,MEC,Male,Assistant System Engineer,TCS,4
+2245,194G5A0325,SHARAN TEJA D,MEC,Male,Assistant System Engineer,TCS,4
+2246,184G1A05A6,UDAYASREE K,CSE,Female,Software Engineer,Zensar,4
+2247,184G1A05B2,VIJAYASREE K,CSE,Female,Software Engineer,Zensar,4
+2248,184G1A0517,GNANA DEEPIKA S R G,CSE,Female,Intern,Sanmina,4
+2249,184G1A0535,LAVANYA J,CSE,Female,Intern,Sanmina,4
+2250,184G1A0216,FAHEEM AKTHAR S,EEE,Female,Associate Software Engineer,Tech Mahindra,4
+2251,184G1A0597,SUBAHAN AKI KHAN P,CSE,Male,Network Engineer,CSS Corporation,4
+2252,184G1A05B1,VENKATESH V,CSE,Male,Network Engineer,CSS Corporation,4
+2253,184G1A0455,NAVEEN T,ECE,Male,Network Engineer,CSS Corporation,4
+2254,184G1A0490,SAI UDAY TEJA U,ECE,Male,Network Engineer,CSS Corporation,4
+2255,184G1A0443,MANSOOR M,ECE,Male,Trainee Software Engineer,Quest Global,3
+2256,184G1A0472,PRUTHVI K,ECE,Male,Trainee Software Engineer,Quest Global,3
+2257,184G1A0218,HANUMANTH REDDY E,EEE,Male,Trainee Software Engineer,Quest Global,3
+2258,194G5A0209,MATHALOOB AHMED BASHA S,EEE,Male,Trainee Software Engineer,Quest Global,3
